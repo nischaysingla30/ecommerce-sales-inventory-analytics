@@ -142,3 +142,4 @@ Based on Python EDA and SQL queries, here are the core findings:
    ```
 6. Load the cleaned CSV files from `data/processed/` into your database of choice (e.g. SQLite, PostgreSQL) and run `sql/queries.sql` to verify database analytics.
 7. Open Power BI, import the processed CSV files, and utilize `power_bi/model_schema.md` and `power_bi/dax_measures.dax` to assemble the interactive dashboards.
+ 
