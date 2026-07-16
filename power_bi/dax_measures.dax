@@ -1,0 +1,96 @@
+// =============================================================================
+// POWER BI DAX MEASURES
+// E-Commerce Sales & Inventory Analytics Project
+// =============================================================================
+
+// --- 1. CORE TRANSACTION MEASURES ---
+
+Total Sales = 
+SUMX(
+    Order_Items,
+    Order_Items[quantity] * RELATED(Products[retail_price]) * (1 - Order_Items[discount_pct])
+)
+
+Total Cost = 
+SUMX(
+    Order_Items,
+    Order_Items[quantity] * RELATED(Products[cost_price])
+)
+
+Total Profit = 
+SUMX(
+    Order_Items,
+    VAR IsReturned = Order_Items[return_status] = 1
+    VAR ItemCost = Order_Items[quantity] * RELATED(Products[cost_price])
+    VAR ItemSales = Order_Items[quantity] * RELATED(Products[retail_price]) * (1 - Order_Items[discount_pct])
+    RETURN IF(IsReturned, -ItemCost, ItemSales - ItemCost)
+)
+
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Sales], 0)
+
+
+// --- 2. ORDER & QUANTITY METRICS ---
+
+Total Orders = DISTINCTCOUNT(Orders[order_id])
+
+Total Units Sold = SUM(Order_Items[quantity])
+
+Average Order Value (AOV) = 
+DIVIDE([Total Sales], [Total Orders], 0)
+
+Return Rate % = 
+DIVIDE(
+    CALCULATE(COUNTROWS(Order_Items), Order_Items[return_status] = 1),
+    COUNTROWS(Order_Items),
+    0
+)
+
+
+// --- 3. INVENTORY & STOCK ALERTS ---
+
+Total Current Stock = SUM(Inventory[stock_level])
+
+Reorder Point Alert Count = 
+CALCULATE(
+    COUNTROWS(Inventory),
+    FILTER(Inventory, Inventory[stock_level] <= Inventory[reorder_point])
+)
+
+Out of Stock Products = 
+CALCULATE(
+    COUNTROWS(Inventory),
+    Inventory[stock_level] = 0
+)
+
+
+// --- 4. TIME INTELLIGENCE & MOM TRENDS ---
+// Assumes a standard 'Calendar' date table is marked in Power BI
+
+Sales PY (Previous Year) = 
+CALCULATE(
+    [Total Sales],
+    SAMEPERIODLASTYEAR('Calendar'[Date])
+)
+
+YoY Sales Growth = 
+VAR SalesCurrent = [Total Sales]
+VAR SalesPrevious = [Sales PY]
+RETURN DIVIDE(SalesCurrent - SalesPrevious, SalesPrevious, 0)
+
+Sales PM (Previous Month) = 
+CALCULATE(
+    [Total Sales],
+    DATEADD('Calendar'[Date], -1, MONTH)
+)
+
+MoM Sales Growth = 
+VAR SalesCurrent = [Total Sales]
+VAR SalesPrevious = [Sales PM]
+RETURN DIVIDE(SalesCurrent - SalesPrevious, SalesPrevious, 0)
+
+
+// --- 5. CUSTOMER COHORT METRICS ---
+
+Customer Lifetime Value (CLV) = 
+DIVIDE([Total Sales], DISTINCTCOUNT(Orders[customer_id]), 0)

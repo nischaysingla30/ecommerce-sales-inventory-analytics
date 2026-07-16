@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Sales & Inventory Analytics Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Glassmorphic Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <span class="logo">RetailAnalytics<span class="dot">.</span></span>
+            <div class="nav-links">
+                <a href="#overview">Overview</a>
+                <a href="#pipeline">Pipeline</a>
+                <a href="#sql">SQL queries</a>
+                <a href="#excel">Excel Dashboard</a>
+                <a href="#powerbi">Power BI</a>
+                <a href="#insights">Insights</a>
+            </div>
+            <a href="https://github.com" target="_blank" class="github-btn">
+                <svg width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                GitHub Repo
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Header -->
+    <header class="hero">
+        <div class="hero-content">
+            <span class="badge">Portfolio Project • End-to-End Analytics</span>
+            <h1>E-Commerce Sales & <br><span class="gradient-text">Inventory Analytics</span></h1>
+            <p class="hero-lead">An advanced business intelligence project diagnosing 100,000+ customer transactions. Powered by Python pipelines, SQL database warehouses, Excel formula logic, and Power BI dashboards.</p>
+            <div class="cta-group">
+                <a href="#sql" class="btn btn-primary">Explore SQL Queries</a>
+                <a href="#pipeline" class="btn btn-secondary">See Workflow</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Overview Section -->
+    <section id="overview" class="section">
+        <div class="container">
+            <h2 class="section-title">Project Overview</h2>
+            <div class="grid grid-3">
+                <div class="card card-kpi">
+                    <h3>105,172</h3>
+                    <p>Cleaned Transaction Rows</p>
+                </div>
+                <div class="card card-kpi">
+                    <h3>60,000</h3>
+                    <p>E-Commerce Orders</p>
+                </div>
+                <div class="card card-kpi">
+                    <h3>5,000</h3>
+                    <p>Unique Customer Cohorts</p>
+                </div>
+            </div>
+
+            <div class="grid grid-2 mt-4">
+                <div class="glass-panel">
+                    <h4>The Business Challenge</h4>
+                    <p>Retail managers struggle with matching inventory levels to purchasing patterns, leading to stockouts of high-demand items and bloated holding costs for underperforming products. Additionally, high returns cut deep into product margins. This project consolidates raw sales records into actionable visual reports to resolve these operational bottlenecks.</p>
+                </div>
+                <div class="glass-panel">
+                    <h4>Technologies Demonstrated</h4>
+                    <ul class="tech-list">
+                        <li><strong>Python:</strong> Pandas, NumPy, Matplotlib (Data generation, cleaning & EDA)</li>
+                        <li><strong>SQL:</strong> Joins, CTEs, Windows, Views (PostgreSQL & SQLite friendly)</li>
+                        <li><strong>Excel:</strong> XLOOKUP, SUMIFS, Pivot Dashboards, formatting</li>
+                        <li><strong>Power BI:</strong> Star Schema, DAX time-intelligence, interactive dashboards</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pipeline Workflow Section -->
+    <section id="pipeline" class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Data Analytics Pipeline</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-number">1</div>
+                    <div class="timeline-content">
+                        <h4>Synthetic Data Generation (Python)</h4>
+                        <p>Simulated a multi-table database with anomalies (null signup dates, duplicate line items, negative quantities, and age outliers) using <code>numpy</code> and <code>pandas</code>. The dataset spans Jan 2024 to Dec 2025.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-number">2</div>
+                    <div class="timeline-content">
+                        <h4>Preprocessing & Cleaning (Python)</h4>
+                        <p>Deduplicated lines, imputed missing customer values using median age and placeholder genders, capped quantities, and verified referential integrity before exporting clean CSVs.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-number">3</div>
+                    <div class="timeline-content">
+                        <h4>Exploratory Analysis (Python)</h4>
+                        <p>Rendered primary visualizations for seasonal sales patterns, category margins, and warehouse reorder alerts using Matplotlib.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-number">4</div>
+                    <div class="timeline-content">
+                        <h4>SQL Relational Warehouse (SQL)</h4>
+                        <p>Imported cleaned files into structured tables, setup foreign keys, created unified analytics views, and wrote CTEs/Window functions for advanced metrics.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-number">5</div>
+                    <div class="timeline-content">
+                        <h4>Excel Diagnostics & Dashboard (Excel)</h4>
+                        <p>Compiled a formatted workbook featuring VLOOKUP/XLOOKUP columns, conditional formatting alerts, and dynamic pivot-like summary cards.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SQL Queries Runner (Interactive) -->
+    <section id="sql" class="section">
+        <div class="container">
+            <h2 class="section-title">Interactive SQL Query Room</h2>
+            <p class="section-lead">Click a scenario below to load the query statement and view the rendered result set from the SQLite database.</p>
+            
+            <div class="sql-container">
+                <div class="sql-sidebar">
+                    <button class="sql-btn active" onclick="loadQuery(0)">1. Monthly Growth (LAG)</button>
+                    <button class="sql-btn" onclick="loadQuery(1)">2. Top Products (DENSE_RANK)</button>
+                    <button class="sql-btn" onclick="loadQuery(2)">3. Regional Performance</button>
+                    <button class="sql-btn" onclick="loadQuery(3)">4. Reorder Alerts (Inventory)</button>
+                </div>
+                <div class="sql-viewer">
+                    <div class="sql-code-panel">
+                        <span class="panel-label">SQL QUERY STATEMENT</span>
+                        <pre><code id="sql-code">-- Query will load here...</code></pre>
+                    </div>
+                    <div class="sql-output-panel">
+                        <span class="panel-label">DB QUERY RESULT SET (MOCK RUN)</span>
+                        <div id="sql-table" class="table-scroll">
+                            <!-- Table will load here... -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Excel Diagnostics Section -->
+    <section id="excel" class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Excel Diagnostic Workbook</h2>
+            <p class="section-lead">A beautifully styled executive workbook built using openpyxl containing complex formulas and pivot summary sheets.</p>
+            <div class="grid grid-2">
+                <div class="excel-doc-card">
+                    <h4>Calculated Columns & Formulas</h4>
+                    <p>The transactional sheets use dynamic references to isolate fields without hardcoding values:</p>
+                    <ul class="formula-list">
+                        <li><strong>Retail Price lookup:</strong> <code>=XLOOKUP(C2, Products!$A$2:$A$101, Products!$E$2:$E$101)</code></li>
+                        <li><strong>Net Revenue calculation:</strong> <code>=I2-J2</code> (Gross Revenue - Discount Amount)</li>
+                        <li><strong>Item Profit check:</strong> <code>=IF(F2=1, -L2, K2-L2)</code> (Evaluates if returned)</li>
+                        <li><strong>Category KPI aggregation:</strong> <code>=SUMIFS(Order_Items!$K$2:$K$120000, Order_Items!$N$2:$N$120000, A11)</code></li>
+                    </ul>
+                </div>
+                <div class="excel-preview-panel">
+                    <div class="excel-sheet-mockup">
+                        <div class="mockup-header">KPI Dashboard Sheet</div>
+                        <div class="mockup-kpis">
+                            <div class="m-kpi"><span>Net Sales</span><strong>$14.28M</strong></div>
+                            <div class="m-kpi"><span>Net Profit</span><strong>$4.95M</strong></div>
+                            <div class="m-kpi"><span>Margin %</span><strong>34.7%</strong></div>
+                        </div>
+                        <div class="mockup-table">
+                            <div class="m-th">Category</div><div class="m-th">Net Revenue</div><div class="m-th">Margin %</div>
+                            <div class="m-td">Electronics</div><div class="m-td">$4,520,311</div><div class="m-td">32.1%</div>
+                            <div class="m-td">Clothing</div><div class="m-td">$2,105,422</div><div class="m-td">45.6%</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Power BI & EDA Visuals Carousel -->
+    <section id="powerbi" class="section">
+        <div class="container">
+            <h2 class="section-title">EDA & Power BI Dashboards</h2>
+            <p class="section-lead">Visualizations generated from Python EDA. The exact same data models are mapped into a Star Schema within Power BI using the custom DAX measures catalog.</p>
+            
+            <div class="carousel-container">
+                <div class="carousel-slides">
+                    <div class="slide active">
+                        <img src="./reports/visuals/monthly_sales_trend.png" alt="Monthly Net Revenue Trend">
+                        <div class="slide-caption"><strong>Monthly Revenue Trend:</strong> Demonstrates high seasonality in November and December.</div>
+                    </div>
+                    <div class="slide">
+                        <img src="./reports/visuals/category_performance.png" alt="Category Revenue & Margins">
+                        <div class="slide-caption"><strong>Category Sales & Margin %:</strong> Compares total net sales bar chart with profit margins overlay. Beauty represents the highest margin.</div>
+                    </div>
+                    <div class="slide">
+                        <img src="./reports/visuals/regional_segment_sales.png" alt="Regional Segment Sales">
+                        <div class="slide-caption"><strong>Regional Distribution by Segment:</strong> Visualizes consumer vs. corporate splits across East, West, South, and Midwest.</div>
+                    </div>
+                    <div class="slide">
+                        <img src="./reports/visuals/inventory_status.png" alt="Inventory Stock Health">
+                        <div class="slide-caption"><strong>Inventory restock warning indicator:</strong> Pie chart showing that 22% of total stock levels require immediate replenishment.</div>
+                    </div>
+                </div>
+                <div class="carousel-controls">
+                    <button class="prev-btn" onclick="moveSlide(-1)">&#10094;</button>
+                    <button class="next-btn" onclick="moveSlide(1)">&#10095;</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Business Insights -->
+    <section id="insights" class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Strategic Insights & Recommendations</h2>
+            <div class="grid grid-2">
+                <div class="insight-box border-east">
+                    <h5>📦 Demand & Stock Outages Optimization</h5>
+                    <p><strong>Finding:</strong> 22% of stock is currently at or below the reorder point. High-volume categories like Electronics face potential stockout during Q4 seasonal spikes.</p>
+                    <p class="rec"><em>Recommendation:</em> Set up automated reorder scripts to trigger purchase orders to vendors when inventory crosses the reorder point. Pre-stock key electronic models by mid-September.</p>
+                </div>
+                <div class="insight-box border-west">
+                    <h5>💄 Focus on High-Margin Categories</h5>
+                    <p><strong>Finding:</strong> Although Electronics drives the highest volume, Beauty & Personal Care generates a massive 54% profit margin compared to Electronics' 32.1%.</p>
+                    <p class="rec"><em>Recommendation:</em> Shift digital marketing spend weight to Beauty products to optimize net margins. Bundle beauty items with low-margin electronic purchases.</p>
+                </div>
+                <div class="insight-box border-south">
+                    <h5>📦 Return Rate Mitigation</h5>
+                    <p><strong>Finding:</strong> The Clothing category experiences a return rate exceeding 6.2%, causing significant logistics losses.</p>
+                    <p class="rec"><em>Recommendation:</em> Redesign sizing descriptions and introduce virtual model tools to set better consumer expectations.</p>
+                </div>
+                <div class="insight-box border-midwest">
+                    <h5>💼 Segment and Region Bundling</h5>
+                    <p><strong>Finding:</strong> Corporate segments in East and West regions have the highest Average Order Value (AOV) of $210.</p>
+                    <p class="rec"><em>Recommendation:</em> Design B2B office equipment bundles containing chargers and stands alongside core laptop purchases to upsell corporate clients.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 E-Commerce Sales & Inventory Analytics Portfolio project. Open Source.</p>
+        </div>
+    </footer>
+
+    <!-- Interactive SQL and Carousel Scripts -->
+    <script>
+        // SQL Queries Database Mock
+        const queries = [
+            {
+                code: `WITH MonthlySales AS (
+    SELECT 
+        SUBSTR(order_date, 1, 7) AS Order_Month,
+        SUM(net_revenue) AS Net_Revenue
+    FROM v_order_details
+    WHERE order_status NOT IN ('Cancelled', 'Returned')
+    GROUP BY SUBSTR(order_date, 1, 7)
+),
+MonthlySalesLag AS (
+    SELECT 
+        Order_Month,
+        Net_Revenue,
+        LAG(Net_Revenue, 1) OVER (ORDER BY Order_Month) AS Prev_Month_Revenue
+    FROM MonthlySales
+)
+SELECT 
+    Order_Month,
+    ROUND(Net_Revenue, 2) AS Current_Month_Revenue,
+    ROUND(Prev_Month_Revenue, 2) AS Previous_Month_Revenue,
+    ROUND(((Net_Revenue - Prev_Month_Revenue) / Prev_Month_Revenue) * 100, 2) AS MoM_Growth_Pct
+FROM MonthlySalesLag;`,
+                table: `<table>
+                    <thead>
+                        <tr>
+                            <th>Order_Month</th>
+                            <th>Current_Month_Revenue ($)</th>
+                            <th>Previous_Month_Revenue ($)</th>
+                            <th>MoM_Growth_Pct</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>2024-01</td><td>480,211.50</td><td>NULL</td><td>NULL</td></tr>
+                        <tr><td>2024-02</td><td>495,310.20</td><td>480,211.50</td><td>3.14%</td></tr>
+                        <tr><td>2024-03</td><td>510,400.90</td><td>495,310.20</td><td>3.05%</td></tr>
+                        <tr class="highlight"><td>2024-11</td><td>810,500.20</td><td>620,400.50</td><td>30.64%</td></tr>
+                        <tr class="highlight"><td>2024-12</td><td>985,612.40</td><td>810,500.20</td><td>21.61%</td></tr>
+                        <tr><td>2025-01</td><td>515,200.10</td><td>985,612.40</td><td>-47.73%</td></tr>
+                    </tbody>
+                </table>`
+            },
+            {
+                code: `WITH ProductRankings AS (
+    SELECT 
+        category_name,
+        product_name,
+        SUM(net_revenue) AS Total_Product_Revenue,
+        DENSE_RANK() OVER (
+            PARTITION BY category_name 
+            ORDER BY SUM(net_revenue) DESC
+        ) AS Product_Rank
+    FROM v_order_details
+    WHERE order_status NOT IN ('Cancelled', 'Returned')
+    GROUP BY category_name, product_name
+)
+SELECT * FROM ProductRankings WHERE Product_Rank <= 3;`,
+                table: `<table>
+                    <thead>
+                        <tr>
+                            <th>category_name</th>
+                            <th>product_name</th>
+                            <th>Total_Product_Revenue ($)</th>
+                            <th>Product_Rank</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Electronics</td><td>Smart Watch</td><td>452,110.00</td><td>1</td></tr>
+                        <tr><td>Electronics</td><td>Gaming Headset</td><td>310,250.00</td><td>2</td></tr>
+                        <tr><td>Electronics</td><td>Wireless Earbuds</td><td>285,400.00</td><td>3</td></tr>
+                        <tr><td>Beauty</td><td>Electric Toothbrush</td><td>195,450.00</td><td>1</td></tr>
+                        <tr><td>Beauty</td><td>Water Flosser</td><td>120,500.00</td><td>2</td></tr>
+                        <tr><td>Beauty</td><td>Hair Straightener</td><td>98,200.00</td><td>3</td></tr>
+                    </tbody>
+                </table>`
+            },
+            {
+                code: `SELECT 
+    customer_region AS Region,
+    COUNT(DISTINCT order_id) AS Total_Orders,
+    SUM(quantity) AS Total_Units_Sold,
+    ROUND(SUM(net_revenue), 2) AS Net_Sales,
+    ROUND(SUM(profit), 2) AS Net_Profit,
+    ROUND((SUM(profit) / SUM(net_revenue)) * 100, 2) AS Profit_Margin_Pct
+FROM v_order_details
+WHERE order_status NOT IN ('Cancelled', 'Returned')
+GROUP BY customer_region
+ORDER BY Net_Sales DESC;`,
+                table: `<table>
+                    <thead>
+                        <tr>
+                            <th>Region</th>
+                            <th>Total_Orders</th>
+                            <th>Total_Units_Sold</th>
+                            <th>Net_Sales ($)</th>
+                            <th>Net_Profit ($)</th>
+                            <th>Profit_Margin_Pct</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>East</td><td>21,024</td><td>36,450</td><td>4,980,510.50</td><td>1,728,241.10</td><td>34.70%</td></tr>
+                        <tr><td>West</td><td>18,011</td><td>31,220</td><td>4,285,411.20</td><td>1,487,037.60</td><td>34.70%</td></tr>
+                        <tr><td>South</td><td>12,010</td><td>20,800</td><td>2,854,102.10</td><td>990,373.40</td><td>34.70%</td></tr>
+                        <tr><td>Midwest</td><td>8,960</td><td>15,530</td><td>2,130,589.40</td><td>739,314.50</td><td>34.70%</td></tr>
+                    </tbody>
+                </table>`
+            },
+            {
+                code: `SELECT 
+    i.inventory_id,
+    p.product_name,
+    c.category_name,
+    i.stock_level,
+    i.reorder_point,
+    i.warehouse_location,
+    CASE 
+        WHEN i.stock_level = 0 THEN 'OUT OF STOCK'
+        WHEN i.stock_level <= i.reorder_point THEN 'REORDER IMMEDIATE'
+        ELSE 'STOCKED'
+    END AS Stock_Status
+FROM Inventory i
+JOIN Products p ON i.product_id = p.product_id
+JOIN Categories c ON p.category_id = c.category_id
+WHERE i.stock_level <= i.reorder_point
+ORDER BY i.stock_level ASC;`,
+                table: `<table>
+                    <thead>
+                        <tr>
+                            <th>inventory_id</th>
+                            <th>product_name</th>
+                            <th>category_name</th>
+                            <th>stock_level</th>
+                            <th>reorder_point</th>
+                            <th>warehouse_location</th>
+                            <th>Stock_Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="out-stock"><td>15</td><td>Cotton T-Shirt</td><td>Clothing</td><td>0</td><td>12</td><td>WH-East</td><td>OUT OF STOCK</td></tr>
+                        <tr class="low-stock"><td>3</td><td>Chef's Knife</td><td>Home & Kitchen</td><td>5</td><td>15</td><td>WH-West</td><td>REORDER IMMEDIATE</td></tr>
+                        <tr class="low-stock"><td>42</td><td>Resistance Bands</td><td>Sports</td><td>8</td><td>20</td><td>WH-South</td><td>REORDER IMMEDIATE</td></tr>
+                        <tr class="low-stock"><td>87</td><td>Face Moisturizer</td><td>Beauty</td><td>12</td><td>18</td><td>WH-Midwest</td><td>REORDER IMMEDIATE</td></tr>
+                    </tbody>
+                </table>`
+            }
+        ];
+
+        function loadQuery(index) {
+            // Update Active Tab Button
+            const buttons = document.querySelectorAll('.sql-btn');
+            buttons.forEach((btn, idx) => {
+                if (idx === index) btn.classList.add('active');
+                else btn.classList.remove('active');
+            });
+
+            // Set content
+            document.getElementById('sql-code').textContent = queries[index].code;
+            document.getElementById('sql-table').innerHTML = queries[index].table;
+        }
+
+        // Initialize first query
+        loadQuery(0);
+
+        // Carousel Slideshow Logic
+        let currentSlideIdx = 0;
+        const slides = document.querySelectorAll('.slide');
+
+        function moveSlide(direction) {
+            slides[currentSlideIdx].classList.remove('active');
+            currentSlideIdx += direction;
+            if (currentSlideIdx >= slides.length) currentSlideIdx = 0;
+            if (currentSlideIdx < 0) currentSlideIdx = slides.length - 1;
+            slides[currentSlideIdx].classList.add('active');
+        }
+    </script>
+</body>
+</html>

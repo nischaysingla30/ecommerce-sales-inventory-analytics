@@ -1,0 +1,101 @@
+product_id,product_name,category_id,cost_price,retail_price
+1,Smart Watch,1,120,249.0
+2,Wireless Earbuds,1,45,99.0
+3,Bluetooth Speaker,1,30,79.0
+4,Laptop Stand,1,15,39.0
+5,USB-C Hub,1,12,29.0
+6,Phone Charger,1,5,15.0
+7,Gaming Mouse,1,25,59.0
+8,Mechanical Keyboard,1,50,119.0
+9,Monitor Lightbar,1,35,79.0
+10,Tablet Sleeve,1,10,25.0
+11,Noise Cancelling Headphones,1,150,299.0
+12,Wireless Charger,1,18,39.0
+13,Smartphone Tripod,1,14,30.0
+14,External SSD 1TB,1,70,149.0
+15,Webcam 1080p,1,40,89.0
+16,Gaming Headset,1,45,99.0
+17,Smart Plug Pack,1,15,35.0
+18,Stylus Pen,1,20,49.0
+19,E-Reader,1,65,129.0
+20,Graphics Tablet,1,80,179.0
+21,Chef's Knife,2,28,69.0
+22,Coffee Grinder,2,20,49.0
+23,Electric Kettle,2,22,59.0
+24,Non-Stick Frypan,2,18,45.0
+25,Air Fryer,2,55,120.0
+26,Blender 600W,2,35,79.0
+27,Food Container Set,2,12,29.0
+28,Silicone Spatulas,2,4,12.0
+29,Digital Kitchen Scale,2,8,20.0
+30,Toaster 2-Slice,2,15,35.0
+31,French Press,2,12,29.0
+32,Stainless Steel Kettle,2,18,39.0
+33,Knife Sharpening Stone,2,10,25.0
+34,Cutting Board Set,2,15,35.0
+35,Electric Milk Frother,2,7,19.0
+36,Vacuum Sealer,2,40,89.0
+37,Waffle Maker,2,22,49.0
+38,Slow Cooker,2,30,69.0
+39,Garlic Press,2,5,15.0
+40,Salad Spinner,2,10,24.0
+41,Cotton T-Shirt,3,6,18.0
+42,Denim Jeans,3,18,49.0
+43,Hoodie Sweatshirt,3,15,39.0
+44,Running Socks 3-Pack,3,3,12.0
+45,Athletic Shorts,3,8,22.0
+46,Canvas Sneakers,3,12,35.0
+47,Leather Belt,3,10,28.0
+48,Sunglasses,3,15,45.0
+49,Winter Beanie,3,4,15.0
+50,Rain Jacket,3,25,69.0
+51,V-Neck Sweater,3,14,35.0
+52,Chino Pants,3,16,42.0
+53,Activewear Leggings,3,11,29.0
+54,Pajama Set,3,12,32.0
+55,Swim Trunk,3,9,25.0
+56,Cargo Shorts,3,13,30.0
+57,Puffer Vest,3,22,55.0
+58,Leather Gloves,3,12,35.0
+59,Baseball Cap,3,5,18.0
+60,Flannel Shirt,3,11,29.0
+61,Face Moisturizer,4,10,25.0
+62,Hyaluronic Acid Serum,4,12,28.0
+63,Sunscreen SPF 50,4,8,19.0
+64,Lip Balm Pack,4,2,8.0
+65,Exfoliating Scrub,4,7,18.0
+66,Scented Candle,4,6,18.0
+67,Hair Dryer 1800W,4,20,49.0
+68,Hair Straightener,4,25,59.0
+69,Makeup Brush Set,4,9,25.0
+70,Matte Lipstick,4,6,16.0
+71,Clay Mask,4,8,22.0
+72,Hydrating Toner,4,9,24.0
+73,Shampoo & Conditioner Set,4,12,30.0
+74,Argan Hair Oil,4,10,26.0
+75,Electric Toothbrush,4,30,79.0
+76,Water Flosser,4,24,59.0
+77,Body Wash 33oz,4,7,18.0
+78,Mascara Black,4,5,14.0
+79,Eyeshadow Palette,4,12,32.0
+80,Nail Polish Set,4,8,20.0
+81,Yoga Mat 6mm,5,8,22.0
+82,Dumbbell Set 20lbs,5,25,59.0
+83,Resistance Bands,5,5,15.0
+84,Water Bottle 32oz,5,6,18.0
+85,Microfiber Towel,5,3,10.0
+86,Running Backpack,5,18,45.0
+87,Sleeping Bag,5,22,59.0
+88,Camping Tent 2-Person,5,45,110.0
+89,Trekking Poles,5,16,39.0
+90,Bicycle Helmet,5,18,45.0
+91,Foam Roller,5,7,19.0
+92,Jump Rope,5,4,12.0
+93,Camping Stove,5,15,35.0
+94,Hammock Double,5,12,29.0
+95,Golf Balls 12-Pack,5,10,25.0
+96,Tennis Racket,5,30,75.0
+97,Swim Goggles,5,6,16.0
+98,Ankle Weights,5,8,20.0
+99,Adjustable Hand Gripper,5,4,10.0
+100,Dry Bag 20L,5,9,22.0

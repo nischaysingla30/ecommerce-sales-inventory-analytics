@@ -1,0 +1,101 @@
+product_id,product_name,category_id,cost_price,retail_price
+1,Smart Watch,1,120,249
+2,Wireless Earbuds,1,45,99
+3,Bluetooth Speaker,1,30,79
+4,Laptop Stand,1,15,39
+5,USB-C Hub,1,12,29
+6,Phone Charger,1,5,15
+7,Gaming Mouse,1,25,59
+8,Mechanical Keyboard,1,50,119
+9,Monitor Lightbar,1,35,79
+10,Tablet Sleeve,1,10,25
+11,Noise Cancelling Headphones,1,150,299
+12,Wireless Charger,1,18,39
+13,Smartphone Tripod,1,14,30
+14,External SSD 1TB,1,70,149
+15,Webcam 1080p,1,40,89
+16,Gaming Headset,1,45,99
+17,Smart Plug Pack,1,15,35
+18,Stylus Pen,1,20,49
+19,E-Reader,1,65,129
+20,Graphics Tablet,1,80,179
+21,Chef's Knife,2,28,69
+22,Coffee Grinder,2,20,49
+23,Electric Kettle,2,22,59
+24,Non-Stick Frypan,2,18,45
+25,Air Fryer,2,55,120
+26,Blender 600W,2,35,79
+27,Food Container Set,2,12,29
+28,Silicone Spatulas,2,4,12
+29,Digital Kitchen Scale,2,8,20
+30,Toaster 2-Slice,2,15,35
+31,French Press,2,12,29
+32,Stainless Steel Kettle,2,18,39
+33,Knife Sharpening Stone,2,10,25
+34,Cutting Board Set,2,15,35
+35,Electric Milk Frother,2,7,19
+36,Vacuum Sealer,2,40,89
+37,Waffle Maker,2,22,49
+38,Slow Cooker,2,30,69
+39,Garlic Press,2,5,15
+40,Salad Spinner,2,10,24
+41,Cotton T-Shirt,3,6,18
+42,Denim Jeans,3,18,49
+43,Hoodie Sweatshirt,3,15,39
+44,Running Socks 3-Pack,3,3,12
+45,Athletic Shorts,3,8,22
+46,Canvas Sneakers,3,12,35
+47,Leather Belt,3,10,28
+48,Sunglasses,3,15,45
+49,Winter Beanie,3,4,15
+50,Rain Jacket,3,25,69
+51,V-Neck Sweater,3,14,35
+52,Chino Pants,3,16,42
+53,Activewear Leggings,3,11,29
+54,Pajama Set,3,12,32
+55,Swim Trunk,3,9,25
+56,Cargo Shorts,3,13,30
+57,Puffer Vest,3,22,55
+58,Leather Gloves,3,12,35
+59,Baseball Cap,3,5,18
+60,Flannel Shirt,3,11,29
+61,Face Moisturizer,4,10,25
+62,Hyaluronic Acid Serum,4,12,28
+63,Sunscreen SPF 50,4,8,19
+64,Lip Balm Pack,4,2,8
+65,Exfoliating Scrub,4,7,18
+66,Scented Candle,4,6,18
+67,Hair Dryer 1800W,4,20,49
+68,Hair Straightener,4,25,59
+69,Makeup Brush Set,4,9,25
+70,Matte Lipstick,4,6,16
+71,Clay Mask,4,8,22
+72,Hydrating Toner,4,9,24
+73,Shampoo & Conditioner Set,4,12,30
+74,Argan Hair Oil,4,10,26
+75,Electric Toothbrush,4,30,79
+76,Water Flosser,4,24,59
+77,Body Wash 33oz,4,7,18
+78,Mascara Black,4,5,14
+79,Eyeshadow Palette,4,12,32
+80,Nail Polish Set,4,8,20
+81,Yoga Mat 6mm,5,8,22
+82,Dumbbell Set 20lbs,5,25,59
+83,Resistance Bands,5,5,15
+84,Water Bottle 32oz,5,6,18
+85,Microfiber Towel,5,3,10
+86,Running Backpack,5,18,45
+87,Sleeping Bag,5,22,59
+88,Camping Tent 2-Person,5,45,110
+89,Trekking Poles,5,16,39
+90,Bicycle Helmet,5,18,45
+91,Foam Roller,5,7,19
+92,Jump Rope,5,4,12
+93,Camping Stove,5,15,35
+94,Hammock Double,5,12,29
+95,Golf Balls 12-Pack,5,10,25
+96,Tennis Racket,5,30,75
+97,Swim Goggles,5,6,16
+98,Ankle Weights,5,8,20
+99,Adjustable Hand Gripper,5,4,10
+100,Dry Bag 20L,5,9,22
