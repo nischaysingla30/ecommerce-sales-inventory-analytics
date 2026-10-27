@@ -1,0 +1,5001 @@
+customer_id,recency,frequency,monetary,segment
+1,183,9,2329.9,At risk (slipping)
+2,111,10,1158.55,At risk (slipping)
+3,14,12,1520.4,Recently active
+4,114,8,2554.6,At risk (slipping)
+5,19,8,1961.75,At risk (slipping)
+6,7,14,2494.6,Recently active
+7,6,11,1482.3,Recently active
+8,160,9,1453.65,At risk (slipping)
+9,33,18,6192.2,Champions (high value)
+10,11,16,2034.2,Recently active
+11,57,15,2260.5,Champions (high value)
+12,30,12,2314.3,Champions (high value)
+13,35,15,3432.3,Champions (high value)
+14,119,15,4209.9,Champions (high value)
+15,37,13,2174.55,Champions (high value)
+16,65,12,3983.9,Champions (high value)
+17,20,11,2746.0,Champions (high value)
+18,101,11,1709.3,At risk (slipping)
+19,17,14,2233.8,Champions (high value)
+20,21,19,4899.5,Champions (high value)
+21,208,13,3078.8,At risk (slipping)
+22,83,11,1484.55,At risk (slipping)
+23,8,8,2283.8,Recently active
+24,13,12,1726.0,Recently active
+25,37,12,2113.4,At risk (slipping)
+26,29,5,627.4,Lapsed low-value
+27,2,11,1392.95,Recently active
+28,98,15,3705.65,Champions (high value)
+29,36,13,1785.25,At risk (slipping)
+30,106,11,1987.95,At risk (slipping)
+31,46,15,1808.15,Champions (high value)
+32,18,13,4054.75,Champions (high value)
+33,91,8,1745.4,At risk (slipping)
+34,10,12,2695.3,Recently active
+35,18,12,2829.9,Champions (high value)
+36,14,12,1720.95,Recently active
+37,70,9,2583.55,At risk (slipping)
+38,91,13,2899.2,Champions (high value)
+39,18,9,1352.85,Recently active
+40,44,14,2425.55,Champions (high value)
+41,17,8,563.7,Lapsed low-value
+42,384,12,2976.05,At risk (slipping)
+43,45,11,1391.0,At risk (slipping)
+44,3,14,1993.0,Recently active
+45,16,10,3065.15,Recently active
+46,31,13,2703.55,Champions (high value)
+47,123,17,4373.4,Champions (high value)
+48,137,10,1868.65,At risk (slipping)
+49,219,11,1618.2,At risk (slipping)
+50,40,15,2357.2,Champions (high value)
+51,4,10,2408.7,Recently active
+52,29,7,2008.8,At risk (slipping)
+53,11,12,2518.6,Recently active
+54,34,14,3656.95,Champions (high value)
+55,16,16,4794.75,Champions (high value)
+56,18,7,1698.6,Lapsed low-value
+57,68,14,2706.0,Champions (high value)
+58,54,9,2098.2,At risk (slipping)
+59,65,12,2183.4,At risk (slipping)
+60,18,15,3486.85,Champions (high value)
+61,29,14,1065.35,At risk (slipping)
+62,3,8,999.55,Recently active
+63,122,8,1316.15,Lapsed low-value
+64,85,13,1251.0,At risk (slipping)
+65,39,14,1716.6,At risk (slipping)
+66,41,11,1476.9,At risk (slipping)
+67,9,8,1134.1,Recently active
+68,62,19,2948.4,Champions (high value)
+69,14,12,2901.4,Champions (high value)
+70,69,12,4583.35,Champions (high value)
+71,36,11,860.95,Lapsed low-value
+72,214,9,1280.8,At risk (slipping)
+73,31,6,3118.85,At risk (slipping)
+74,32,10,3226.25,Champions (high value)
+75,8,8,1925.65,Recently active
+76,124,11,2294.7,At risk (slipping)
+77,52,16,2710.4,Champions (high value)
+78,17,9,1370.9,Recently active
+79,112,13,2172.2,At risk (slipping)
+80,164,6,918.9,Lapsed low-value
+81,292,13,1536.7,At risk (slipping)
+82,24,11,2779.6,Champions (high value)
+83,37,10,2583.15,At risk (slipping)
+84,35,24,4594.7,Champions (high value)
+85,135,10,2593.35,At risk (slipping)
+86,16,12,2842.0,Champions (high value)
+87,13,13,2761.35,Champions (high value)
+88,72,15,2063.25,Champions (high value)
+89,98,16,2097.55,Champions (high value)
+90,16,18,3287.6,Champions (high value)
+91,152,5,1572.8,Lapsed low-value
+92,1,11,4032.25,Recently active
+93,186,17,1870.95,At risk (slipping)
+94,18,8,1871.85,Recently active
+95,163,10,1654.55,At risk (slipping)
+96,23,12,2120.3,Champions (high value)
+97,45,16,2758.9,Champions (high value)
+98,18,14,2250.5,Champions (high value)
+99,57,14,2196.3,Champions (high value)
+100,28,9,1394.75,At risk (slipping)
+101,71,15,2636.2,Champions (high value)
+102,46,8,762.9,Lapsed low-value
+103,19,21,2669.1,Champions (high value)
+104,93,9,634.95,Lapsed low-value
+105,71,13,3340.25,Champions (high value)
+106,40,10,1762.2,At risk (slipping)
+107,48,15,2417.75,Champions (high value)
+108,70,11,1862.8,At risk (slipping)
+109,1,6,1150.5,Recently active
+110,5,12,1489.65,Recently active
+111,8,23,4067.4,Champions (high value)
+112,21,15,4156.2,Champions (high value)
+113,229,8,1957.1,At risk (slipping)
+114,11,17,3523.0,Champions (high value)
+115,33,13,2310.9,Champions (high value)
+116,108,11,2449.75,At risk (slipping)
+117,292,5,750.5,Lapsed low-value
+118,39,6,763.5,Lapsed low-value
+119,8,11,2299.9,Recently active
+120,137,13,2134.95,At risk (slipping)
+121,32,10,2846.2,At risk (slipping)
+122,188,18,3707.35,Champions (high value)
+123,23,16,3842.55,Champions (high value)
+124,10,10,1402.1,Recently active
+125,20,10,2299.6,Recently active
+126,110,11,2464.35,At risk (slipping)
+127,96,3,567.6,Lapsed low-value
+128,15,16,2783.0,Champions (high value)
+129,1,12,2418.1,Recently active
+130,3,13,3548.05,Recently active
+131,89,11,1674.0,At risk (slipping)
+132,89,9,2648.2,At risk (slipping)
+133,91,9,1556.0,At risk (slipping)
+134,37,12,3091.15,Champions (high value)
+135,92,16,4274.4,Champions (high value)
+136,8,10,2328.1,Recently active
+137,66,12,1217.05,At risk (slipping)
+138,297,10,1922.95,At risk (slipping)
+139,57,12,1659.2,At risk (slipping)
+140,34,12,1436.0,At risk (slipping)
+141,29,16,1923.2,Champions (high value)
+142,20,12,1278.6,Recently active
+143,15,7,858.6,Lapsed low-value
+144,40,18,3203.25,Champions (high value)
+145,22,12,2296.7,Champions (high value)
+146,12,8,3254.4,Recently active
+147,150,7,1568.0,Lapsed low-value
+148,45,8,1187.3,Lapsed low-value
+149,50,17,3054.0,Champions (high value)
+150,15,17,2984.2,Champions (high value)
+151,65,10,1343.9,At risk (slipping)
+152,2,12,4889.85,Recently active
+153,62,10,1531.0,At risk (slipping)
+154,21,13,2454.55,Champions (high value)
+155,94,14,3233.1,Champions (high value)
+156,26,10,1186.55,At risk (slipping)
+157,57,15,3684.35,Champions (high value)
+158,13,18,2944.25,Champions (high value)
+159,45,10,1742.55,At risk (slipping)
+160,2,7,1089.35,Recently active
+161,83,10,2711.85,At risk (slipping)
+162,113,11,1932.75,At risk (slipping)
+163,1,11,1526.6,Recently active
+164,78,15,3606.25,Champions (high value)
+165,30,10,1980.7,At risk (slipping)
+166,1,11,1990.5,Recently active
+167,31,10,1291.7,At risk (slipping)
+168,423,4,299.8,Lapsed low-value
+169,32,13,1476.5,At risk (slipping)
+170,37,12,1852.0,At risk (slipping)
+171,204,10,1170.55,At risk (slipping)
+172,5,11,1500.25,Recently active
+173,65,12,1849.2,At risk (slipping)
+174,65,11,1306.6,At risk (slipping)
+175,214,7,3533.65,At risk (slipping)
+176,36,13,1807.8,At risk (slipping)
+177,32,12,1750.9,At risk (slipping)
+178,36,15,2870.3,Champions (high value)
+179,37,16,1664.7,Champions (high value)
+180,14,19,2109.25,Champions (high value)
+181,30,7,1812.2,At risk (slipping)
+182,88,9,1849.85,At risk (slipping)
+183,103,11,1132.2,At risk (slipping)
+184,14,14,2454.75,Champions (high value)
+185,106,11,1784.05,At risk (slipping)
+186,29,15,3627.4,Champions (high value)
+187,54,7,1921.1,At risk (slipping)
+188,35,14,2578.95,Champions (high value)
+189,2,14,2257.6,Recently active
+190,109,10,1760.3,At risk (slipping)
+191,44,11,1742.1,At risk (slipping)
+192,52,16,2453.2,Champions (high value)
+193,76,7,1440.9,Lapsed low-value
+194,72,13,2838.55,Champions (high value)
+195,102,7,1426.5,Lapsed low-value
+196,91,10,1426.4,At risk (slipping)
+197,23,17,4511.65,Champions (high value)
+198,35,8,950.5,Lapsed low-value
+199,46,17,2836.0,Champions (high value)
+200,42,13,2647.6,Champions (high value)
+201,4,20,4622.35,Champions (high value)
+202,114,14,2075.5,At risk (slipping)
+203,1,11,1619.95,Recently active
+204,52,6,1365.8,Lapsed low-value
+205,63,15,3703.3,Champions (high value)
+206,56,16,2473.55,Champions (high value)
+207,157,7,1028.0,Lapsed low-value
+208,7,11,2036.6,Recently active
+209,28,9,2702.6,At risk (slipping)
+210,43,10,1476.25,At risk (slipping)
+211,68,12,4042.9,Champions (high value)
+212,49,14,2327.6,Champions (high value)
+213,144,7,1044.05,Lapsed low-value
+214,208,20,4197.7,Champions (high value)
+215,151,9,871.8,Lapsed low-value
+216,13,10,1672.4,Recently active
+217,124,9,2990.35,At risk (slipping)
+218,9,14,2154.4,Recently active
+219,41,14,3603.8,Champions (high value)
+220,105,9,741.8,Lapsed low-value
+221,2,9,1535.25,Recently active
+222,75,11,1267.75,At risk (slipping)
+223,15,13,2591.95,Champions (high value)
+224,46,10,2233.15,At risk (slipping)
+225,6,7,1159.8,Recently active
+226,21,18,3278.25,Champions (high value)
+227,241,11,2332.0,At risk (slipping)
+228,37,10,1319.25,At risk (slipping)
+229,58,16,5852.5,Champions (high value)
+230,94,8,1285.25,Lapsed low-value
+231,7,12,1248.85,Recently active
+232,11,23,4643.65,Champions (high value)
+233,54,12,3034.45,Champions (high value)
+234,32,9,1675.95,At risk (slipping)
+235,24,10,1220.95,At risk (slipping)
+236,5,18,3580.45,Champions (high value)
+237,4,10,1337.25,Recently active
+238,30,18,2954.45,Champions (high value)
+239,95,8,1123.55,Lapsed low-value
+240,232,6,1315.5,Lapsed low-value
+241,69,7,872.9,Lapsed low-value
+242,5,11,2384.95,Recently active
+243,33,16,3522.95,Champions (high value)
+244,34,11,2291.1,At risk (slipping)
+245,48,11,3067.75,Champions (high value)
+246,64,6,1178.4,Lapsed low-value
+247,111,12,3082.4,At risk (slipping)
+248,98,6,1329.6,Lapsed low-value
+249,1,15,1717.8,Recently active
+250,43,14,1936.4,Champions (high value)
+251,205,15,3849.6,Champions (high value)
+252,25,12,2995.9,Champions (high value)
+253,8,17,3171.4,Champions (high value)
+254,42,8,2124.4,At risk (slipping)
+255,41,7,1140.8,Lapsed low-value
+256,36,18,2621.85,Champions (high value)
+257,92,12,1823.3,At risk (slipping)
+258,30,12,1211.0,At risk (slipping)
+259,62,12,2569.85,At risk (slipping)
+260,35,8,824.4,Lapsed low-value
+261,123,11,1548.1,At risk (slipping)
+262,75,16,2357.4,Champions (high value)
+263,6,20,3091.2,Champions (high value)
+264,116,14,1442.15,At risk (slipping)
+265,74,13,1971.35,At risk (slipping)
+266,16,16,2499.6,Champions (high value)
+267,192,6,574.8,Lapsed low-value
+268,159,7,1428.6,Lapsed low-value
+269,147,8,1436.55,Lapsed low-value
+270,127,7,1709.6,Lapsed low-value
+271,43,9,2408.05,At risk (slipping)
+272,183,14,1738.8,At risk (slipping)
+273,11,13,2984.5,Champions (high value)
+274,38,16,2567.05,Champions (high value)
+275,206,9,1768.25,At risk (slipping)
+276,80,15,2904.2,Champions (high value)
+277,19,21,2937.25,Champions (high value)
+278,111,9,1060.8,Lapsed low-value
+279,42,11,1399.3,At risk (slipping)
+280,22,13,2249.1,Champions (high value)
+281,50,17,4642.75,Champions (high value)
+282,39,9,1706.1,At risk (slipping)
+283,1,17,3282.25,Recently active
+284,17,19,3819.15,Champions (high value)
+285,20,7,2005.85,At risk (slipping)
+286,64,15,1893.3,Champions (high value)
+287,192,3,1711.45,Lapsed low-value
+288,86,12,1538.7,At risk (slipping)
+289,54,10,1347.9,At risk (slipping)
+290,28,10,1031.25,Lapsed low-value
+291,62,7,2139.85,At risk (slipping)
+292,29,8,1591.8,At risk (slipping)
+293,48,20,3828.85,Champions (high value)
+294,43,18,3799.25,Champions (high value)
+295,103,14,2818.15,Champions (high value)
+296,263,7,2148.35,At risk (slipping)
+297,14,18,2413.25,Champions (high value)
+298,53,9,965.8,Lapsed low-value
+299,1,8,1735.9,Recently active
+300,33,9,1285.5,At risk (slipping)
+301,15,7,820.2,Lapsed low-value
+302,88,6,1902.8,Lapsed low-value
+303,3,9,1713.7,Recently active
+304,26,8,2118.85,At risk (slipping)
+305,3,14,5174.75,Champions (high value)
+306,1,15,2469.6,Recently active
+307,235,8,1734.6,At risk (slipping)
+308,67,9,2564.0,At risk (slipping)
+309,63,16,4118.55,Champions (high value)
+310,6,14,3020.9,Recently active
+311,50,14,2134.05,Champions (high value)
+312,24,13,2030.15,Champions (high value)
+313,18,8,1521.1,Recently active
+314,57,8,1091.35,Lapsed low-value
+315,11,9,1200.95,Recently active
+316,15,10,2787.45,Recently active
+317,275,5,541.9,Lapsed low-value
+318,8,15,1976.25,Recently active
+319,81,12,3119.55,Champions (high value)
+320,13,12,3118.7,Champions (high value)
+321,9,12,2973.65,Recently active
+322,94,5,524.75,Lapsed low-value
+323,1,7,1541.0,Recently active
+324,54,10,460.2,Lapsed low-value
+325,140,11,2054.25,At risk (slipping)
+326,9,12,2901.75,Recently active
+327,91,15,3608.35,Champions (high value)
+328,14,11,3717.0,Champions (high value)
+329,1,13,1358.8,Recently active
+330,48,11,2166.35,At risk (slipping)
+331,16,16,3672.5,Champions (high value)
+332,36,15,1758.55,Champions (high value)
+333,9,17,4762.4,Champions (high value)
+334,114,7,1049.8,Lapsed low-value
+335,25,11,1803.9,At risk (slipping)
+336,139,12,1679.65,At risk (slipping)
+337,119,6,1334.75,Lapsed low-value
+338,30,14,2982.0,Champions (high value)
+339,71,9,1461.5,At risk (slipping)
+340,139,10,1377.4,At risk (slipping)
+341,60,12,1698.95,At risk (slipping)
+342,6,7,633.6,Lapsed low-value
+343,84,9,1039.7,Lapsed low-value
+344,41,10,2293.0,At risk (slipping)
+345,5,16,4983.05,Champions (high value)
+346,49,14,1991.95,Champions (high value)
+347,48,15,2652.3,Champions (high value)
+348,106,10,2491.75,At risk (slipping)
+349,15,14,2475.55,Champions (high value)
+350,100,11,1772.55,At risk (slipping)
+351,88,10,3278.6,At risk (slipping)
+352,17,9,1733.0,Recently active
+353,18,8,1390.2,Lapsed low-value
+354,20,15,2119.05,Champions (high value)
+355,55,5,1151.25,Lapsed low-value
+356,29,12,3693.4,Champions (high value)
+357,4,18,2674.5,Recently active
+358,68,10,1434.25,At risk (slipping)
+359,3,8,1980.8,Recently active
+360,36,13,2328.8,Champions (high value)
+361,16,17,3084.6,Champions (high value)
+362,67,11,3045.85,At risk (slipping)
+363,184,10,1605.75,At risk (slipping)
+364,94,10,2832.55,At risk (slipping)
+365,90,6,819.45,Lapsed low-value
+366,52,11,2959.6,At risk (slipping)
+367,32,12,2225.15,At risk (slipping)
+368,28,12,1975.0,At risk (slipping)
+369,61,6,668.8,Lapsed low-value
+370,207,8,1071.7,Lapsed low-value
+371,41,12,2240.95,At risk (slipping)
+372,54,10,1763.0,At risk (slipping)
+373,47,12,2307.3,At risk (slipping)
+374,14,12,2648.75,Recently active
+375,88,13,1704.75,At risk (slipping)
+376,33,9,1724.0,At risk (slipping)
+377,35,14,2048.4,Champions (high value)
+378,80,15,2956.75,Champions (high value)
+379,5,9,1606.9,Recently active
+380,22,10,2339.95,At risk (slipping)
+381,20,13,2638.4,Champions (high value)
+382,6,9,2000.5,Recently active
+383,14,14,2420.55,Champions (high value)
+384,54,13,2559.3,Champions (high value)
+385,12,11,1135.2,Recently active
+386,17,15,3427.9,Champions (high value)
+387,1,8,1629.6,Recently active
+388,266,10,1730.8,At risk (slipping)
+389,43,12,1861.5,At risk (slipping)
+390,26,17,3835.1,Champions (high value)
+391,67,12,2425.6,At risk (slipping)
+392,6,12,2072.3,Recently active
+393,26,13,2168.9,Champions (high value)
+394,34,11,2599.35,At risk (slipping)
+395,1,9,1452.75,Recently active
+396,14,15,4608.65,Champions (high value)
+397,94,11,3268.7,At risk (slipping)
+398,6,12,1177.5,Recently active
+399,68,12,3597.1,Champions (high value)
+400,205,6,981.5,Lapsed low-value
+401,197,11,2273.0,At risk (slipping)
+402,252,8,1312.85,Lapsed low-value
+403,85,10,1579.65,At risk (slipping)
+404,60,8,2083.5,At risk (slipping)
+405,68,15,2189.3,Champions (high value)
+406,77,12,1609.3,At risk (slipping)
+407,155,10,1616.0,At risk (slipping)
+408,17,10,2010.6,Recently active
+409,80,14,1277.35,At risk (slipping)
+410,15,11,2103.0,Recently active
+411,68,11,1994.15,At risk (slipping)
+412,12,9,944.75,Lapsed low-value
+413,6,17,3041.05,Champions (high value)
+414,60,10,1742.4,At risk (slipping)
+415,33,9,1723.25,At risk (slipping)
+416,442,7,1295.15,Lapsed low-value
+417,26,14,1215.95,At risk (slipping)
+418,48,11,1200.75,At risk (slipping)
+419,51,6,1218.75,Lapsed low-value
+420,14,15,1885.05,Recently active
+421,34,10,2310.15,At risk (slipping)
+422,53,13,2283.1,Champions (high value)
+423,105,9,1951.5,At risk (slipping)
+424,35,8,1172.45,Lapsed low-value
+425,24,10,1269.1,At risk (slipping)
+426,3,12,1621.95,Recently active
+427,208,10,2685.2,At risk (slipping)
+428,120,21,4042.2,Champions (high value)
+429,28,16,2916.5,Champions (high value)
+430,193,10,1401.35,At risk (slipping)
+431,11,12,1927.3,Recently active
+432,42,15,2735.35,Champions (high value)
+433,24,10,878.65,Lapsed low-value
+434,34,10,1461.75,At risk (slipping)
+435,202,11,2176.65,At risk (slipping)
+436,19,14,2938.2,Champions (high value)
+437,12,17,2513.4,Champions (high value)
+438,38,10,1870.15,At risk (slipping)
+439,60,10,1319.7,At risk (slipping)
+440,37,13,3189.75,Champions (high value)
+441,1,9,1101.35,Recently active
+442,25,10,3393.7,Champions (high value)
+443,55,9,1203.8,Lapsed low-value
+444,88,8,1939.7,At risk (slipping)
+445,61,14,3486.8,Champions (high value)
+446,13,10,1409.2,Recently active
+447,15,5,1695.2,Lapsed low-value
+448,14,16,3279.3,Champions (high value)
+449,168,8,1197.2,Lapsed low-value
+450,64,12,1938.55,At risk (slipping)
+451,27,14,3210.7,Champions (high value)
+452,78,14,1853.6,At risk (slipping)
+453,38,11,2587.95,At risk (slipping)
+454,79,11,1868.0,At risk (slipping)
+455,44,12,2144.7,At risk (slipping)
+456,2,12,1593.9,Recently active
+457,82,7,615.95,Lapsed low-value
+458,42,10,1318.8,At risk (slipping)
+459,4,16,2106.25,Recently active
+460,77,13,1520.2,At risk (slipping)
+461,88,14,3383.95,Champions (high value)
+462,106,11,2364.4,At risk (slipping)
+463,38,14,2858.95,Champions (high value)
+464,1,11,2113.1,Recently active
+465,69,11,2091.2,At risk (slipping)
+466,17,10,1645.55,Recently active
+467,19,10,914.4,Lapsed low-value
+468,24,9,1013.85,Lapsed low-value
+469,48,8,1854.95,At risk (slipping)
+470,109,11,1725.95,At risk (slipping)
+471,79,11,1519.4,At risk (slipping)
+472,13,11,1593.15,Recently active
+473,108,13,2396.75,At risk (slipping)
+474,52,6,554.4,Lapsed low-value
+475,20,13,2318.2,Champions (high value)
+476,30,7,2213.75,At risk (slipping)
+477,17,18,4315.0,Champions (high value)
+478,70,15,3645.25,Champions (high value)
+479,203,10,1920.65,At risk (slipping)
+480,23,11,788.95,Lapsed low-value
+481,10,13,3681.6,Champions (high value)
+482,8,11,2518.9,Recently active
+483,47,11,2365.05,At risk (slipping)
+484,151,14,1651.15,At risk (slipping)
+485,49,8,1152.5,Lapsed low-value
+486,106,10,2128.05,At risk (slipping)
+487,38,11,1996.8,At risk (slipping)
+488,53,16,2716.9,Champions (high value)
+489,89,11,3471.55,Champions (high value)
+490,31,11,2266.2,At risk (slipping)
+491,17,9,876.45,Lapsed low-value
+492,169,8,983.6,Lapsed low-value
+493,254,11,1627.45,At risk (slipping)
+494,47,12,1612.6,At risk (slipping)
+495,98,11,2652.8,At risk (slipping)
+496,63,13,2882.1,Champions (high value)
+497,86,11,1927.3,At risk (slipping)
+498,6,15,4130.15,Champions (high value)
+499,27,15,2750.2,Champions (high value)
+500,71,10,3721.25,At risk (slipping)
+501,3,11,1257.65,Recently active
+502,120,6,406.85,Lapsed low-value
+503,27,11,1710.95,At risk (slipping)
+504,13,16,3145.0,Champions (high value)
+505,101,12,3650.15,Champions (high value)
+506,144,16,3161.55,Champions (high value)
+507,187,13,2993.25,At risk (slipping)
+508,188,9,1969.05,At risk (slipping)
+509,45,12,2090.4,At risk (slipping)
+510,115,10,1649.9,At risk (slipping)
+511,202,10,1208.7,At risk (slipping)
+512,10,12,2035.1,Recently active
+513,25,9,1132.55,Lapsed low-value
+514,20,8,1691.4,At risk (slipping)
+515,48,12,1793.35,At risk (slipping)
+516,8,14,3080.05,Champions (high value)
+517,8,10,1811.3,Recently active
+518,9,16,2361.8,Champions (high value)
+519,68,16,4734.85,Champions (high value)
+520,26,10,1820.0,At risk (slipping)
+521,27,9,2054.6,At risk (slipping)
+522,100,8,1475.55,At risk (slipping)
+523,71,10,2825.25,At risk (slipping)
+524,40,9,3069.1,At risk (slipping)
+525,27,19,2786.05,Champions (high value)
+526,83,13,2821.7,Champions (high value)
+527,13,9,1750.1,Recently active
+528,47,11,1372.2,At risk (slipping)
+529,38,9,670.75,Lapsed low-value
+530,111,12,2027.6,At risk (slipping)
+531,28,17,4621.55,Champions (high value)
+532,27,18,3132.7,Champions (high value)
+533,160,7,962.6,Lapsed low-value
+534,98,9,2363.4,At risk (slipping)
+535,121,11,2869.3,At risk (slipping)
+536,83,15,4117.9,Champions (high value)
+537,55,14,3641.15,Champions (high value)
+538,155,7,1492.4,Lapsed low-value
+539,1,11,1336.7,Recently active
+540,2,13,2156.1,Recently active
+541,72,13,1508.6,At risk (slipping)
+542,33,14,1535.2,At risk (slipping)
+543,49,11,2897.0,At risk (slipping)
+544,31,13,2756.5,Champions (high value)
+545,76,9,2553.55,At risk (slipping)
+546,2,11,1026.15,Recently active
+547,56,12,1978.65,At risk (slipping)
+548,54,19,2911.3,Champions (high value)
+549,204,6,1242.2,Lapsed low-value
+550,274,16,2977.2,Champions (high value)
+551,52,12,726.55,Lapsed low-value
+552,270,12,2618.1,At risk (slipping)
+553,369,6,930.65,Lapsed low-value
+554,18,8,838.85,Lapsed low-value
+555,95,14,2019.15,At risk (slipping)
+556,141,19,1968.4,Champions (high value)
+557,154,9,1455.6,At risk (slipping)
+558,14,8,2269.6,Recently active
+559,81,12,3071.85,Champions (high value)
+560,13,10,1897.2,Recently active
+561,1,20,3426.8,Recently active
+562,50,5,1291.15,Lapsed low-value
+563,110,17,1999.1,Champions (high value)
+564,84,11,1597.15,At risk (slipping)
+565,8,18,2621.65,Champions (high value)
+566,101,7,1270.15,Lapsed low-value
+567,8,9,1135.8,Recently active
+568,4,11,2057.85,Recently active
+569,93,6,847.25,Lapsed low-value
+570,12,10,2334.35,Recently active
+571,42,14,2811.25,Champions (high value)
+572,37,12,2546.3,Champions (high value)
+573,13,13,1973.2,Recently active
+574,37,14,2528.6,Champions (high value)
+575,108,19,5025.65,Champions (high value)
+576,21,16,2592.95,Champions (high value)
+577,35,13,1794.9,At risk (slipping)
+578,18,15,3526.2,Champions (high value)
+579,61,10,1627.5,At risk (slipping)
+580,25,13,2380.95,Champions (high value)
+581,8,14,3889.35,Champions (high value)
+582,115,5,1015.65,Lapsed low-value
+583,5,10,1684.85,Recently active
+584,26,15,2520.2,Champions (high value)
+585,82,11,2339.35,At risk (slipping)
+586,7,15,4446.0,Champions (high value)
+587,101,8,966.0,Lapsed low-value
+588,16,13,5223.45,Champions (high value)
+589,18,9,2371.35,Recently active
+590,143,14,2956.8,Champions (high value)
+591,92,8,678.2,Lapsed low-value
+592,30,11,2287.1,At risk (slipping)
+593,235,9,1755.25,At risk (slipping)
+594,19,8,1243.7,Lapsed low-value
+595,429,3,785.1,Lapsed low-value
+596,19,12,1897.55,Recently active
+597,100,19,4896.9,Champions (high value)
+598,93,12,963.8,At risk (slipping)
+599,31,14,3095.05,Champions (high value)
+600,26,7,1450.9,Lapsed low-value
+601,39,9,1861.9,At risk (slipping)
+602,67,17,4614.0,Champions (high value)
+603,75,11,2252.55,At risk (slipping)
+604,57,12,1757.5,At risk (slipping)
+605,4,12,1287.6,Recently active
+606,105,10,2545.0,At risk (slipping)
+607,3,7,1498.95,Recently active
+608,67,9,1629.3,At risk (slipping)
+609,58,9,1770.0,At risk (slipping)
+610,264,10,1489.15,At risk (slipping)
+611,27,14,2048.5,Champions (high value)
+612,26,18,3209.35,Champions (high value)
+613,30,9,1813.35,At risk (slipping)
+614,35,9,2127.05,At risk (slipping)
+615,73,9,1715.5,At risk (slipping)
+616,48,7,846.8,Lapsed low-value
+617,63,18,3137.0,Champions (high value)
+618,135,13,2924.85,Champions (high value)
+619,120,15,1754.35,At risk (slipping)
+620,83,12,3746.75,Champions (high value)
+621,30,10,1687.45,At risk (slipping)
+622,93,11,3328.05,At risk (slipping)
+623,78,17,2739.6,Champions (high value)
+624,5,10,1694.9,Recently active
+625,4,11,2105.25,Recently active
+626,38,6,1428.55,Lapsed low-value
+627,23,7,1370.8,Lapsed low-value
+628,86,17,2979.9,Champions (high value)
+629,128,10,2599.9,At risk (slipping)
+630,6,21,4190.4,Champions (high value)
+631,25,10,1716.3,At risk (slipping)
+632,43,12,2708.55,Champions (high value)
+633,123,13,1793.85,At risk (slipping)
+634,26,20,4755.45,Champions (high value)
+635,14,16,2908.1,Champions (high value)
+636,73,15,2420.6,Champions (high value)
+637,67,10,1298.4,At risk (slipping)
+638,51,11,1415.8,At risk (slipping)
+639,156,17,3551.9,Champions (high value)
+640,28,10,1625.9,At risk (slipping)
+641,39,12,1886.85,At risk (slipping)
+642,3,11,918.95,Recently active
+643,1,11,1685.3,Recently active
+644,1,15,2957.55,Recently active
+645,59,10,1318.15,At risk (slipping)
+646,57,11,1822.85,At risk (slipping)
+647,20,10,1415.0,Recently active
+648,13,7,949.95,Lapsed low-value
+649,42,9,1456.4,At risk (slipping)
+650,5,14,1811.5,Recently active
+651,42,10,1447.75,At risk (slipping)
+652,24,13,1903.2,Champions (high value)
+653,118,17,3761.7,Champions (high value)
+654,8,16,3685.75,Champions (high value)
+655,19,11,1348.25,Recently active
+656,43,10,1362.25,At risk (slipping)
+657,207,7,4134.25,At risk (slipping)
+658,101,6,1241.0,Lapsed low-value
+659,60,20,3913.2,Champions (high value)
+660,9,6,1647.55,Recently active
+661,26,14,1731.8,Champions (high value)
+662,8,16,2780.95,Champions (high value)
+663,201,7,822.6,Lapsed low-value
+664,38,13,2645.7,Champions (high value)
+665,196,13,3096.65,At risk (slipping)
+666,98,9,2070.6,At risk (slipping)
+667,11,18,2981.3,Champions (high value)
+668,24,13,3494.4,Champions (high value)
+669,57,16,3762.95,Champions (high value)
+670,252,13,2223.65,At risk (slipping)
+671,224,9,1230.8,At risk (slipping)
+672,16,15,1651.05,Recently active
+673,41,16,2507.2,Champions (high value)
+674,35,20,4686.95,Champions (high value)
+675,45,11,2126.1,At risk (slipping)
+676,70,15,3110.75,Champions (high value)
+677,41,15,3088.45,Champions (high value)
+678,95,7,680.65,Lapsed low-value
+679,48,8,668.15,Lapsed low-value
+680,57,13,3333.55,Champions (high value)
+681,1,16,2506.9,Recently active
+682,5,8,2045.95,Recently active
+683,4,12,2609.6,Recently active
+684,56,11,2708.15,At risk (slipping)
+685,3,6,890.45,Lapsed low-value
+686,14,12,2843.55,Champions (high value)
+687,205,9,954.05,Lapsed low-value
+688,48,6,1065.25,Lapsed low-value
+689,49,11,1933.2,At risk (slipping)
+690,42,9,2233.3,At risk (slipping)
+691,1,10,2082.6,Recently active
+692,66,9,1167.0,Lapsed low-value
+693,28,18,3015.1,Champions (high value)
+694,133,9,1419.05,At risk (slipping)
+695,14,10,2030.4,Recently active
+696,32,10,1085.7,Lapsed low-value
+697,61,12,1404.15,At risk (slipping)
+698,1,12,1707.0,Recently active
+699,90,14,4539.35,Champions (high value)
+700,76,14,1994.5,At risk (slipping)
+701,22,11,1959.1,At risk (slipping)
+702,118,12,2653.25,At risk (slipping)
+703,148,11,2510.85,At risk (slipping)
+704,2,5,542.4,Lapsed low-value
+705,75,13,2505.4,Champions (high value)
+706,60,11,1352.75,At risk (slipping)
+707,2,15,1275.3,Recently active
+708,92,11,1830.4,At risk (slipping)
+709,148,11,1268.5,At risk (slipping)
+710,46,11,1685.45,At risk (slipping)
+711,49,13,1846.8,At risk (slipping)
+712,188,11,2388.2,At risk (slipping)
+713,48,9,1236.85,Lapsed low-value
+714,29,10,3303.2,Champions (high value)
+715,50,13,2405.15,Champions (high value)
+716,36,16,1701.1,Champions (high value)
+717,50,12,1871.85,At risk (slipping)
+718,153,16,4815.35,Champions (high value)
+719,77,11,2280.5,At risk (slipping)
+720,99,8,908.6,Lapsed low-value
+721,1,9,1985.2,Recently active
+722,75,10,998.9,Lapsed low-value
+723,142,8,1545.75,At risk (slipping)
+724,205,12,3265.35,At risk (slipping)
+725,91,9,1097.3,Lapsed low-value
+726,116,7,1080.55,Lapsed low-value
+727,14,6,1687.25,Lapsed low-value
+728,57,3,790.0,Lapsed low-value
+729,58,19,2680.55,Champions (high value)
+730,164,7,1197.25,Lapsed low-value
+731,124,9,2474.45,At risk (slipping)
+732,16,12,2718.6,Champions (high value)
+733,8,12,3811.7,Champions (high value)
+734,12,9,2066.0,Recently active
+735,175,16,2966.65,Champions (high value)
+736,14,15,2452.35,Champions (high value)
+737,36,16,2159.1,Champions (high value)
+738,58,15,4057.65,Champions (high value)
+739,12,15,3500.4,Champions (high value)
+740,75,16,1569.65,At risk (slipping)
+741,77,9,1795.0,At risk (slipping)
+742,2,7,1398.15,Recently active
+743,107,15,4043.75,Champions (high value)
+744,167,8,920.35,Lapsed low-value
+745,5,9,1844.4,Recently active
+746,73,11,1936.45,At risk (slipping)
+747,183,11,1535.4,At risk (slipping)
+748,6,11,2567.75,Recently active
+749,153,10,1048.8,Lapsed low-value
+750,64,16,2737.35,Champions (high value)
+751,69,10,1726.65,At risk (slipping)
+752,166,9,1566.8,At risk (slipping)
+753,65,14,1588.1,At risk (slipping)
+754,37,6,542.75,Lapsed low-value
+755,86,11,2518.65,At risk (slipping)
+756,40,17,1829.15,Champions (high value)
+757,8,16,2635.6,Champions (high value)
+758,50,11,1456.65,At risk (slipping)
+759,45,11,1656.7,At risk (slipping)
+760,88,5,513.0,Lapsed low-value
+761,17,7,1833.3,Recently active
+762,46,12,1145.6,At risk (slipping)
+763,4,17,4378.7,Champions (high value)
+764,155,9,2555.0,At risk (slipping)
+765,216,6,924.4,Lapsed low-value
+766,30,13,2081.9,Champions (high value)
+767,18,15,3123.45,Champions (high value)
+768,137,5,553.7,Lapsed low-value
+769,102,11,1917.75,At risk (slipping)
+770,1,8,1785.05,Recently active
+771,76,11,1933.25,At risk (slipping)
+772,1,14,3161.6,Recently active
+773,1,12,3115.7,Recently active
+774,58,14,4985.1,Champions (high value)
+775,84,14,3001.85,Champions (high value)
+776,1,14,2163.7,Recently active
+777,167,7,1729.2,At risk (slipping)
+778,13,14,1574.15,Recently active
+779,5,11,3791.85,Recently active
+780,24,13,1805.0,At risk (slipping)
+781,75,9,2863.95,At risk (slipping)
+782,15,8,1959.4,Recently active
+783,26,16,3429.4,Champions (high value)
+784,55,15,3230.95,Champions (high value)
+785,61,16,3292.35,Champions (high value)
+786,39,15,4902.95,Champions (high value)
+787,16,14,2401.2,Champions (high value)
+788,62,8,1255.65,Lapsed low-value
+789,32,13,1571.35,At risk (slipping)
+790,30,11,1492.65,At risk (slipping)
+791,48,11,2355.45,At risk (slipping)
+792,23,10,925.3,Lapsed low-value
+793,15,11,2304.15,Recently active
+794,58,16,2513.4,Champions (high value)
+795,133,8,2573.15,At risk (slipping)
+796,15,13,1618.9,Recently active
+797,4,9,1711.35,Recently active
+798,21,13,2831.7,Champions (high value)
+799,74,14,2957.7,Champions (high value)
+800,42,11,2915.35,Champions (high value)
+801,29,8,1818.5,At risk (slipping)
+802,26,11,751.2,Lapsed low-value
+803,20,16,2564.4,Champions (high value)
+804,37,13,2133.95,Champions (high value)
+805,5,14,3471.0,Recently active
+806,9,12,1575.4,Recently active
+807,73,8,841.15,Lapsed low-value
+808,42,7,1788.4,At risk (slipping)
+809,39,11,1479.3,At risk (slipping)
+810,4,13,2587.4,Recently active
+811,8,14,4689.0,Champions (high value)
+812,400,5,1121.55,Lapsed low-value
+813,24,18,4721.05,Champions (high value)
+814,15,14,3350.5,Champions (high value)
+815,27,11,1952.0,At risk (slipping)
+816,46,11,2239.5,At risk (slipping)
+817,37,11,1582.6,At risk (slipping)
+818,55,9,2147.6,At risk (slipping)
+819,91,9,2812.85,At risk (slipping)
+820,9,12,1627.1,Recently active
+821,64,12,3910.8,Champions (high value)
+822,193,6,745.0,Lapsed low-value
+823,34,13,2559.15,Champions (high value)
+824,145,8,1195.3,Lapsed low-value
+825,165,13,2206.65,At risk (slipping)
+826,81,6,1051.5,Lapsed low-value
+827,71,10,1797.4,At risk (slipping)
+828,1,14,2264.1,Recently active
+829,11,16,3474.45,Champions (high value)
+830,36,20,3071.95,Champions (high value)
+831,42,9,1382.55,At risk (slipping)
+832,14,14,1534.25,Recently active
+833,11,17,3177.4,Champions (high value)
+834,304,13,3171.8,At risk (slipping)
+835,38,9,3491.75,At risk (slipping)
+836,142,13,1375.5,At risk (slipping)
+837,31,15,2672.2,Champions (high value)
+838,74,12,1629.8,At risk (slipping)
+839,174,9,1364.8,At risk (slipping)
+840,20,11,1762.5,Recently active
+841,80,19,4325.95,Champions (high value)
+842,145,14,3551.9,Champions (high value)
+843,5,9,776.2,Recently active
+844,229,8,1478.25,At risk (slipping)
+845,90,11,1430.55,At risk (slipping)
+846,37,8,1337.85,Lapsed low-value
+847,79,16,2276.6,Champions (high value)
+848,23,12,1767.7,At risk (slipping)
+849,24,14,1557.5,At risk (slipping)
+850,9,8,902.25,Lapsed low-value
+851,112,9,1938.7,At risk (slipping)
+852,42,14,3171.4,Champions (high value)
+853,33,12,2690.35,Champions (high value)
+854,41,11,3647.75,Champions (high value)
+855,96,7,1438.8,Lapsed low-value
+856,113,7,1043.1,Lapsed low-value
+857,148,16,2791.5,Champions (high value)
+858,102,12,2996.55,At risk (slipping)
+859,9,14,2016.7,Recently active
+860,22,9,1522.05,At risk (slipping)
+861,37,11,2674.95,At risk (slipping)
+862,24,10,1819.25,At risk (slipping)
+863,40,13,2566.5,Champions (high value)
+864,64,18,3698.65,Champions (high value)
+865,41,10,1780.6,At risk (slipping)
+866,15,12,3051.55,Champions (high value)
+867,35,7,874.3,Lapsed low-value
+868,62,7,1431.15,Lapsed low-value
+869,47,18,2885.7,Champions (high value)
+870,3,8,1614.75,Recently active
+871,328,4,393.9,Lapsed low-value
+872,9,14,2306.5,Recently active
+873,26,10,2629.85,At risk (slipping)
+874,60,6,673.2,Lapsed low-value
+875,140,12,2299.65,At risk (slipping)
+876,70,9,1492.15,At risk (slipping)
+877,16,11,2935.95,Champions (high value)
+878,144,6,1642.0,Lapsed low-value
+879,29,12,1299.35,At risk (slipping)
+880,27,7,1190.7,Lapsed low-value
+881,117,5,410.15,Lapsed low-value
+882,30,14,2611.75,Champions (high value)
+883,1,20,4072.1,Recently active
+884,23,15,3616.8,Champions (high value)
+885,42,4,219.9,Lapsed low-value
+886,122,8,2210.55,At risk (slipping)
+887,3,15,2638.35,Recently active
+888,95,8,2394.6,At risk (slipping)
+889,81,15,2874.3,Champions (high value)
+890,21,9,2024.75,At risk (slipping)
+891,43,14,1586.4,At risk (slipping)
+892,104,10,1960.3,At risk (slipping)
+893,46,11,1779.05,At risk (slipping)
+894,83,5,664.2,Lapsed low-value
+895,2,14,2884.15,Recently active
+896,73,15,2706.65,Champions (high value)
+897,55,10,2193.4,At risk (slipping)
+898,60,14,2181.4,Champions (high value)
+899,165,13,3044.25,Champions (high value)
+900,87,7,749.75,Lapsed low-value
+901,105,14,3430.55,Champions (high value)
+902,20,9,1552.45,At risk (slipping)
+903,286,6,880.75,Lapsed low-value
+904,188,10,966.85,Lapsed low-value
+905,45,8,1914.6,At risk (slipping)
+906,36,8,2334.7,At risk (slipping)
+907,22,12,2525.15,Champions (high value)
+908,170,14,1662.7,At risk (slipping)
+909,2,11,1417.8,Recently active
+910,16,12,2073.6,Recently active
+911,42,11,2033.85,At risk (slipping)
+912,9,15,1811.05,Recently active
+913,158,11,2340.4,At risk (slipping)
+914,1,11,1630.75,Recently active
+915,72,11,2001.7,At risk (slipping)
+916,94,14,3296.15,Champions (high value)
+917,161,12,2006.65,At risk (slipping)
+918,29,15,3904.55,Champions (high value)
+919,62,16,2311.4,Champions (high value)
+920,1,15,3464.4,Recently active
+921,8,13,1800.1,Recently active
+922,284,13,1315.6,At risk (slipping)
+923,141,10,1926.7,At risk (slipping)
+924,23,12,1798.4,At risk (slipping)
+925,156,9,1634.5,At risk (slipping)
+926,166,10,1960.0,At risk (slipping)
+927,158,8,886.9,Lapsed low-value
+928,16,8,1806.0,Recently active
+929,17,15,2158.9,Champions (high value)
+930,73,10,1344.6,At risk (slipping)
+931,14,14,3022.2,Champions (high value)
+932,6,12,2212.0,Recently active
+933,46,14,2993.8,Champions (high value)
+934,97,10,1688.2,At risk (slipping)
+935,37,9,2465.35,At risk (slipping)
+936,16,14,3008.1,Champions (high value)
+937,21,14,2632.0,Champions (high value)
+938,98,7,985.65,Lapsed low-value
+939,36,14,2134.1,Champions (high value)
+940,70,14,2583.1,Champions (high value)
+941,125,8,1503.4,At risk (slipping)
+942,42,11,3327.0,Champions (high value)
+943,6,9,1351.4,Recently active
+944,46,13,2075.15,At risk (slipping)
+945,58,13,1921.5,At risk (slipping)
+946,3,17,3022.8,Recently active
+947,35,10,1415.75,At risk (slipping)
+948,54,6,912.5,Lapsed low-value
+949,32,13,2031.85,Champions (high value)
+950,15,13,2980.0,Champions (high value)
+951,21,14,2965.9,Champions (high value)
+952,38,13,1177.45,At risk (slipping)
+953,122,8,1276.85,Lapsed low-value
+954,70,14,3016.85,Champions (high value)
+955,44,11,1739.0,At risk (slipping)
+956,7,17,3514.6,Champions (high value)
+957,95,11,1676.3,At risk (slipping)
+958,209,7,1649.2,Lapsed low-value
+959,1,8,1645.6,Recently active
+960,3,17,4292.95,Champions (high value)
+961,17,19,3997.7,Champions (high value)
+962,30,12,1421.55,At risk (slipping)
+963,15,10,887.0,Lapsed low-value
+964,117,13,3862.95,Champions (high value)
+965,32,14,2105.35,Champions (high value)
+966,189,12,2758.25,At risk (slipping)
+967,28,8,2392.7,At risk (slipping)
+968,1,12,1750.1,Recently active
+969,196,7,1933.5,At risk (slipping)
+970,33,5,373.2,Lapsed low-value
+971,88,8,980.75,Lapsed low-value
+972,56,11,1835.35,At risk (slipping)
+973,326,6,878.9,Lapsed low-value
+974,57,7,900.6,Lapsed low-value
+975,4,15,3428.45,Recently active
+976,151,7,1966.15,At risk (slipping)
+977,47,15,2280.15,Champions (high value)
+978,26,14,2752.6,Champions (high value)
+979,52,15,1692.5,At risk (slipping)
+980,6,11,1224.95,Recently active
+981,28,8,1991.6,At risk (slipping)
+982,25,7,767.2,Lapsed low-value
+983,1,19,3608.75,Recently active
+984,56,10,1640.5,At risk (slipping)
+985,111,14,3128.5,Champions (high value)
+986,64,14,3568.45,Champions (high value)
+987,73,13,1846.75,At risk (slipping)
+988,160,8,2276.0,At risk (slipping)
+989,20,14,3296.85,Champions (high value)
+990,80,8,1237.5,Lapsed low-value
+991,115,20,5535.65,Champions (high value)
+992,11,13,2294.7,Recently active
+993,16,10,1130.4,Recently active
+994,91,9,2334.65,At risk (slipping)
+995,65,9,1473.5,At risk (slipping)
+996,26,14,1912.7,Champions (high value)
+997,28,10,1970.4,At risk (slipping)
+998,144,11,3067.8,At risk (slipping)
+999,48,10,2461.6,At risk (slipping)
+1000,5,11,1042.8,Recently active
+1001,65,14,2323.05,Champions (high value)
+1002,185,8,1707.6,At risk (slipping)
+1003,168,14,1930.6,At risk (slipping)
+1004,41,9,1966.65,At risk (slipping)
+1005,16,6,855.3,Lapsed low-value
+1006,36,17,3148.9,Champions (high value)
+1007,81,12,1929.15,At risk (slipping)
+1008,19,21,3093.85,Champions (high value)
+1009,73,8,1022.2,Lapsed low-value
+1010,15,6,835.3,Lapsed low-value
+1011,31,14,2568.1,Champions (high value)
+1012,70,9,1797.1,At risk (slipping)
+1013,99,17,3538.0,Champions (high value)
+1014,20,17,2231.35,Champions (high value)
+1015,10,18,2013.0,Champions (high value)
+1016,95,7,920.9,Lapsed low-value
+1017,14,14,2413.15,Champions (high value)
+1018,28,11,2988.3,Champions (high value)
+1019,92,10,2727.2,At risk (slipping)
+1020,179,8,1293.6,Lapsed low-value
+1021,52,12,2984.15,Champions (high value)
+1022,119,8,2083.55,At risk (slipping)
+1023,7,10,1432.15,Recently active
+1024,1,10,1617.6,Recently active
+1025,22,18,2881.7,Champions (high value)
+1026,62,8,1669.6,At risk (slipping)
+1027,199,6,284.5,Lapsed low-value
+1028,38,17,5289.45,Champions (high value)
+1029,126,12,2225.4,At risk (slipping)
+1030,7,25,3507.8,Champions (high value)
+1031,316,5,561.2,Lapsed low-value
+1032,48,14,1513.7,At risk (slipping)
+1033,5,21,3010.6,Champions (high value)
+1034,29,10,1099.1,At risk (slipping)
+1035,38,12,1784.05,At risk (slipping)
+1036,111,12,3164.35,Champions (high value)
+1037,2,15,2440.9,Recently active
+1038,1,15,1797.8,Recently active
+1039,62,10,1542.05,At risk (slipping)
+1040,48,10,1543.7,At risk (slipping)
+1041,78,8,688.7,Lapsed low-value
+1042,67,16,2680.4,Champions (high value)
+1043,71,8,1625.8,At risk (slipping)
+1044,160,9,1227.75,Lapsed low-value
+1045,132,8,1467.75,At risk (slipping)
+1046,2,7,1594.05,Recently active
+1047,59,14,4044.55,Champions (high value)
+1048,61,10,1577.5,At risk (slipping)
+1049,305,8,1807.35,At risk (slipping)
+1050,65,6,1585.7,Lapsed low-value
+1051,300,7,1441.7,Lapsed low-value
+1052,57,10,3469.1,At risk (slipping)
+1053,21,11,3047.4,Champions (high value)
+1054,151,11,2085.7,At risk (slipping)
+1055,137,11,1969.4,At risk (slipping)
+1056,1,14,1867.55,Recently active
+1057,36,10,2212.15,At risk (slipping)
+1058,2,10,1418.45,Recently active
+1059,3,10,3170.3,Recently active
+1060,14,14,3202.55,Champions (high value)
+1061,8,16,2109.1,Recently active
+1062,28,12,2544.5,Champions (high value)
+1063,24,13,1905.65,Champions (high value)
+1064,242,10,3665.9,At risk (slipping)
+1065,1,14,2123.65,Recently active
+1066,32,11,3303.2,Champions (high value)
+1067,2,13,2982.3,Recently active
+1068,142,8,874.25,Lapsed low-value
+1069,82,13,1736.25,At risk (slipping)
+1070,81,14,2048.95,At risk (slipping)
+1071,2,11,2292.75,Recently active
+1072,21,11,1701.05,Recently active
+1073,19,8,690.15,Lapsed low-value
+1074,49,15,2625.6,Champions (high value)
+1075,63,8,1581.5,At risk (slipping)
+1076,1,22,4868.5,Champions (high value)
+1077,17,14,3975.5,Champions (high value)
+1078,7,14,3337.3,Champions (high value)
+1079,18,13,1937.55,Recently active
+1080,8,12,2479.65,Recently active
+1081,37,12,1564.65,At risk (slipping)
+1082,57,10,1801.0,At risk (slipping)
+1083,84,9,1330.45,At risk (slipping)
+1084,21,11,1187.5,At risk (slipping)
+1085,25,9,1404.95,At risk (slipping)
+1086,151,15,1933.55,At risk (slipping)
+1087,44,11,1812.4,At risk (slipping)
+1088,83,15,1917.2,At risk (slipping)
+1089,17,15,2721.25,Champions (high value)
+1090,6,10,2513.25,Recently active
+1091,63,12,1691.8,At risk (slipping)
+1092,43,14,2065.9,Champions (high value)
+1093,139,6,1324.8,Lapsed low-value
+1094,166,14,3340.4,Champions (high value)
+1095,5,17,4700.35,Champions (high value)
+1096,64,9,2222.45,At risk (slipping)
+1097,90,12,3170.5,Champions (high value)
+1098,30,11,1759.85,At risk (slipping)
+1099,97,12,1909.2,At risk (slipping)
+1100,42,12,1509.7,At risk (slipping)
+1101,65,14,2585.05,Champions (high value)
+1102,15,12,2364.9,Recently active
+1103,25,7,1151.35,Lapsed low-value
+1104,17,13,2601.6,Champions (high value)
+1105,10,12,1646.5,Recently active
+1106,70,15,1411.8,At risk (slipping)
+1107,39,13,4748.0,Champions (high value)
+1108,115,6,890.5,Lapsed low-value
+1109,20,15,1939.5,Champions (high value)
+1110,21,12,1091.35,Recently active
+1111,19,10,2089.9,Recently active
+1112,51,6,811.85,Lapsed low-value
+1113,12,11,1849.2,Recently active
+1114,1,18,2246.7,Recently active
+1115,163,9,1961.7,At risk (slipping)
+1116,11,18,2355.25,Champions (high value)
+1117,23,9,1230.35,Lapsed low-value
+1118,2,10,2039.1,Recently active
+1119,72,9,1452.35,At risk (slipping)
+1120,27,15,3065.55,Champions (high value)
+1121,11,18,3605.85,Champions (high value)
+1122,74,16,3240.35,Champions (high value)
+1123,20,9,1623.55,At risk (slipping)
+1124,16,11,2534.45,Recently active
+1125,133,14,2054.55,At risk (slipping)
+1126,86,9,2607.4,At risk (slipping)
+1127,8,12,1942.95,Recently active
+1128,106,7,961.6,Lapsed low-value
+1129,50,11,1419.4,At risk (slipping)
+1130,43,10,2148.65,At risk (slipping)
+1131,117,9,2574.3,At risk (slipping)
+1132,92,14,2241.7,At risk (slipping)
+1133,39,9,2506.15,At risk (slipping)
+1134,23,12,2275.45,Champions (high value)
+1135,2,15,3019.15,Recently active
+1136,109,15,2237.05,Champions (high value)
+1137,54,17,3256.05,Champions (high value)
+1138,93,11,2517.65,At risk (slipping)
+1139,88,9,1243.0,Lapsed low-value
+1140,1,15,3821.8,Recently active
+1141,7,7,1906.0,Recently active
+1142,121,16,2131.35,Champions (high value)
+1143,28,7,2264.45,At risk (slipping)
+1144,1,15,2998.8,Recently active
+1145,103,8,1332.1,Lapsed low-value
+1146,177,10,1997.45,At risk (slipping)
+1147,19,11,2288.3,Recently active
+1148,95,7,639.5,Lapsed low-value
+1149,19,9,1525.65,Recently active
+1150,77,7,1034.15,Lapsed low-value
+1151,17,12,2025.75,Recently active
+1152,19,11,1582.7,Recently active
+1153,41,14,3441.75,Champions (high value)
+1154,74,6,513.2,Lapsed low-value
+1155,7,18,2602.75,Champions (high value)
+1156,19,15,3907.35,Champions (high value)
+1157,10,12,1987.0,Recently active
+1158,109,11,1961.15,At risk (slipping)
+1159,35,14,3057.65,Champions (high value)
+1160,155,5,1366.25,Lapsed low-value
+1161,48,21,5813.85,Champions (high value)
+1162,167,8,1183.9,Lapsed low-value
+1163,60,15,3175.0,Champions (high value)
+1164,17,15,2966.85,Champions (high value)
+1165,27,16,3052.1,Champions (high value)
+1166,138,6,1581.7,Lapsed low-value
+1167,111,16,3572.55,Champions (high value)
+1168,99,10,2102.35,At risk (slipping)
+1169,33,8,1700.65,At risk (slipping)
+1170,56,10,1853.15,At risk (slipping)
+1171,8,7,980.1,Lapsed low-value
+1172,33,8,840.15,Lapsed low-value
+1173,67,15,3388.05,Champions (high value)
+1174,48,9,839.6,Lapsed low-value
+1175,92,11,3540.95,Champions (high value)
+1176,1,13,1399.85,Recently active
+1177,96,10,3254.75,At risk (slipping)
+1178,24,6,985.0,Lapsed low-value
+1179,25,16,2195.9,Champions (high value)
+1180,175,18,4259.8,Champions (high value)
+1181,31,10,2379.65,At risk (slipping)
+1182,2,8,1891.3,Recently active
+1183,161,8,1272.05,Lapsed low-value
+1184,48,16,3391.45,Champions (high value)
+1185,23,12,2688.65,Champions (high value)
+1186,230,9,1365.2,At risk (slipping)
+1187,36,10,2649.0,At risk (slipping)
+1188,104,17,2520.9,Champions (high value)
+1189,160,7,745.65,Lapsed low-value
+1190,113,10,1533.0,At risk (slipping)
+1191,2,8,1311.9,Recently active
+1192,47,7,1883.2,At risk (slipping)
+1193,4,16,4441.9,Champions (high value)
+1194,11,13,2431.15,Recently active
+1195,42,13,2048.25,At risk (slipping)
+1196,22,19,3671.9,Champions (high value)
+1197,24,11,1599.8,At risk (slipping)
+1198,1,6,1240.45,Recently active
+1199,13,12,2959.45,Champions (high value)
+1200,104,14,3199.15,Champions (high value)
+1201,80,10,1595.4,At risk (slipping)
+1202,40,12,2456.6,Champions (high value)
+1203,38,7,1185.8,Lapsed low-value
+1204,44,11,3668.8,Champions (high value)
+1205,67,9,1961.55,At risk (slipping)
+1206,112,8,613.85,Lapsed low-value
+1207,17,19,4225.65,Champions (high value)
+1208,20,10,1525.55,Recently active
+1209,18,15,4417.6,Champions (high value)
+1210,49,8,1124.4,Lapsed low-value
+1211,68,15,2358.75,Champions (high value)
+1212,43,15,2596.65,Champions (high value)
+1213,13,11,1281.0,Recently active
+1214,191,7,706.2,Lapsed low-value
+1215,229,8,1885.85,At risk (slipping)
+1216,22,8,1689.85,At risk (slipping)
+1217,8,19,2724.55,Champions (high value)
+1218,7,8,1376.55,Recently active
+1219,153,10,2449.1,At risk (slipping)
+1220,11,13,2383.9,Recently active
+1221,65,14,3850.0,Champions (high value)
+1222,6,10,1816.15,Recently active
+1223,61,10,2349.55,At risk (slipping)
+1224,48,12,1698.25,At risk (slipping)
+1225,21,12,1558.5,Recently active
+1226,93,11,2446.35,At risk (slipping)
+1227,143,11,1993.35,At risk (slipping)
+1228,48,13,3618.6,Champions (high value)
+1229,98,10,1269.3,At risk (slipping)
+1230,13,10,1834.35,Recently active
+1231,56,7,1512.5,Lapsed low-value
+1232,195,15,2849.9,Champions (high value)
+1233,136,7,950.2,Lapsed low-value
+1234,33,11,1416.45,At risk (slipping)
+1235,64,13,2203.2,At risk (slipping)
+1236,38,13,1879.25,At risk (slipping)
+1237,68,10,3110.55,At risk (slipping)
+1238,3,9,1180.0,Recently active
+1239,57,12,1722.4,At risk (slipping)
+1240,61,10,2053.7,At risk (slipping)
+1241,48,15,1906.4,Champions (high value)
+1242,75,8,2311.3,At risk (slipping)
+1243,50,9,2046.9,At risk (slipping)
+1244,10,16,2171.55,Recently active
+1245,67,15,4122.55,Champions (high value)
+1246,15,14,2098.45,Recently active
+1247,14,8,1662.55,Recently active
+1248,3,17,3830.25,Champions (high value)
+1249,71,12,1528.3,At risk (slipping)
+1250,285,3,739.2,Lapsed low-value
+1251,38,15,2695.9,Champions (high value)
+1252,55,10,1090.5,At risk (slipping)
+1253,6,15,2205.1,Recently active
+1254,42,6,1672.55,Lapsed low-value
+1255,217,9,1788.9,At risk (slipping)
+1256,110,9,1077.8,Lapsed low-value
+1257,71,7,1094.7,Lapsed low-value
+1258,35,8,2981.5,At risk (slipping)
+1259,164,11,1978.1,At risk (slipping)
+1260,22,6,754.95,Lapsed low-value
+1261,101,5,1470.4,Lapsed low-value
+1262,164,8,2003.85,At risk (slipping)
+1263,348,5,938.4,Lapsed low-value
+1264,62,16,3320.45,Champions (high value)
+1265,164,9,1869.8,At risk (slipping)
+1266,189,7,1319.4,Lapsed low-value
+1267,31,18,3596.25,Champions (high value)
+1268,1,11,2700.15,Recently active
+1269,104,17,3192.55,Champions (high value)
+1270,38,12,2450.8,Champions (high value)
+1271,8,11,894.35,Recently active
+1272,18,13,2981.95,Champions (high value)
+1273,22,16,2773.2,Champions (high value)
+1274,99,12,1806.4,At risk (slipping)
+1275,43,7,1987.25,At risk (slipping)
+1276,240,8,817.6,Lapsed low-value
+1277,60,11,1404.75,At risk (slipping)
+1278,40,10,1618.2,At risk (slipping)
+1279,23,11,1790.5,At risk (slipping)
+1280,25,17,2911.8,Champions (high value)
+1281,23,9,1138.75,Lapsed low-value
+1282,4,16,2734.8,Recently active
+1283,36,12,3474.5,Champions (high value)
+1284,59,15,2028.55,Champions (high value)
+1285,1,10,2001.95,Recently active
+1286,15,8,1017.05,Lapsed low-value
+1287,1,11,1333.4,Recently active
+1288,111,6,554.5,Lapsed low-value
+1289,24,12,2172.2,Champions (high value)
+1290,75,10,1455.6,At risk (slipping)
+1291,14,9,1470.45,Recently active
+1292,98,13,1878.4,At risk (slipping)
+1293,17,9,2745.9,Recently active
+1294,1,17,2162.9,Recently active
+1295,36,11,910.95,Lapsed low-value
+1296,44,7,1236.85,Lapsed low-value
+1297,17,11,1554.6,Recently active
+1298,290,11,2635.2,At risk (slipping)
+1299,210,10,2890.15,At risk (slipping)
+1300,55,15,2124.65,Champions (high value)
+1301,419,6,639.95,Lapsed low-value
+1302,68,8,1106.35,Lapsed low-value
+1303,1,14,2073.55,Recently active
+1304,3,13,1264.95,Recently active
+1305,77,11,2446.7,At risk (slipping)
+1306,107,11,2716.8,At risk (slipping)
+1307,34,16,3567.85,Champions (high value)
+1308,101,7,1069.15,Lapsed low-value
+1309,61,5,393.8,Lapsed low-value
+1310,20,17,2191.4,Champions (high value)
+1311,21,12,1551.7,Recently active
+1312,12,7,423.95,Lapsed low-value
+1313,42,8,581.4,Lapsed low-value
+1314,31,8,1385.45,Lapsed low-value
+1315,24,12,2168.8,Champions (high value)
+1316,58,11,1201.15,At risk (slipping)
+1317,171,13,2763.3,At risk (slipping)
+1318,77,10,2502.7,At risk (slipping)
+1319,65,15,3537.45,Champions (high value)
+1320,47,15,3511.75,Champions (high value)
+1321,130,7,1608.85,Lapsed low-value
+1322,43,14,2712.1,Champions (high value)
+1323,95,13,1804.0,At risk (slipping)
+1324,111,10,1274.9,At risk (slipping)
+1325,72,13,3694.35,Champions (high value)
+1326,36,16,3303.2,Champions (high value)
+1327,12,10,1272.35,Recently active
+1328,13,22,6454.05,Champions (high value)
+1329,10,15,1628.7,Recently active
+1330,54,14,1809.2,At risk (slipping)
+1331,16,15,2448.9,Champions (high value)
+1332,1,15,2940.7,Recently active
+1333,22,12,2698.75,Champions (high value)
+1334,59,12,1630.9,At risk (slipping)
+1335,22,13,2837.4,Champions (high value)
+1336,140,11,2397.65,At risk (slipping)
+1337,49,9,1687.65,At risk (slipping)
+1338,14,17,4820.05,Champions (high value)
+1339,10,16,2820.85,Champions (high value)
+1340,6,10,1994.65,Recently active
+1341,23,13,2382.45,Champions (high value)
+1342,18,13,2943.6,Champions (high value)
+1343,26,10,1836.0,At risk (slipping)
+1344,57,5,853.6,Lapsed low-value
+1345,8,7,1462.6,Recently active
+1346,2,14,2525.0,Recently active
+1347,51,10,2779.75,At risk (slipping)
+1348,38,13,1477.75,At risk (slipping)
+1349,238,9,1983.7,At risk (slipping)
+1350,9,13,3202.0,Champions (high value)
+1351,42,7,1279.1,Lapsed low-value
+1352,27,14,2749.65,Champions (high value)
+1353,18,14,1999.0,Champions (high value)
+1354,39,14,4334.0,Champions (high value)
+1355,54,19,3103.05,Champions (high value)
+1356,12,18,2796.75,Champions (high value)
+1357,53,13,2523.0,Champions (high value)
+1358,2,13,1808.8,Recently active
+1359,65,5,474.5,Lapsed low-value
+1360,37,6,1159.4,Lapsed low-value
+1361,47,12,2121.85,At risk (slipping)
+1362,123,15,2551.3,Champions (high value)
+1363,156,11,2197.45,At risk (slipping)
+1364,41,9,1166.0,Lapsed low-value
+1365,126,10,1728.3,At risk (slipping)
+1366,32,12,1529.9,At risk (slipping)
+1367,27,9,1887.15,At risk (slipping)
+1368,30,15,2743.25,Champions (high value)
+1369,135,10,1633.35,At risk (slipping)
+1370,41,15,3226.65,Champions (high value)
+1371,31,13,3035.15,Champions (high value)
+1372,64,13,2071.3,At risk (slipping)
+1373,9,13,2740.6,Recently active
+1374,114,12,1937.65,At risk (slipping)
+1375,6,11,1464.65,Recently active
+1376,90,10,1810.7,At risk (slipping)
+1377,196,11,1864.75,At risk (slipping)
+1378,414,8,1103.1,Lapsed low-value
+1379,37,9,2107.55,At risk (slipping)
+1380,141,12,3023.55,At risk (slipping)
+1381,54,13,2473.5,Champions (high value)
+1382,100,7,2253.1,At risk (slipping)
+1383,4,11,2262.8,Recently active
+1384,196,7,530.7,Lapsed low-value
+1385,3,10,1806.4,Recently active
+1386,65,7,1440.9,Lapsed low-value
+1387,13,9,857.6,Lapsed low-value
+1388,13,15,3767.15,Champions (high value)
+1389,134,16,2158.1,Champions (high value)
+1390,5,13,3151.35,Recently active
+1391,213,9,1547.05,At risk (slipping)
+1392,37,16,2803.5,Champions (high value)
+1393,13,14,3198.4,Champions (high value)
+1394,56,11,2041.9,At risk (slipping)
+1395,35,9,978.85,Lapsed low-value
+1396,144,8,1198.15,Lapsed low-value
+1397,17,18,2923.1,Champions (high value)
+1398,97,12,2642.55,At risk (slipping)
+1399,60,14,2769.55,Champions (high value)
+1400,30,8,588.65,Lapsed low-value
+1401,64,13,2314.05,At risk (slipping)
+1402,35,13,2666.15,Champions (high value)
+1403,176,7,945.8,Lapsed low-value
+1404,98,15,3975.2,Champions (high value)
+1405,204,8,1934.45,At risk (slipping)
+1406,80,22,2801.95,Champions (high value)
+1407,19,13,1709.05,Recently active
+1408,152,7,604.65,Lapsed low-value
+1409,34,14,2871.65,Champions (high value)
+1410,67,8,1109.3,Lapsed low-value
+1411,38,12,2400.65,Champions (high value)
+1412,23,20,2701.3,Champions (high value)
+1413,5,11,2716.95,Recently active
+1414,29,11,2678.6,Champions (high value)
+1415,15,8,2126.75,Recently active
+1416,31,14,1646.15,At risk (slipping)
+1417,116,9,2209.95,At risk (slipping)
+1418,31,17,3774.4,Champions (high value)
+1419,122,10,1853.1,At risk (slipping)
+1420,126,10,4147.2,At risk (slipping)
+1421,78,10,1218.5,At risk (slipping)
+1422,6,4,1251.1,Lapsed low-value
+1423,20,6,977.95,Lapsed low-value
+1424,44,12,2179.7,At risk (slipping)
+1425,63,8,510.25,Lapsed low-value
+1426,11,13,2141.0,Recently active
+1427,3,11,1637.7,Recently active
+1428,169,12,2351.0,At risk (slipping)
+1429,8,9,1668.45,Recently active
+1430,68,8,2255.45,At risk (slipping)
+1431,15,12,1809.65,Recently active
+1432,96,11,1921.5,At risk (slipping)
+1433,8,12,1823.7,Recently active
+1434,48,17,2136.05,Champions (high value)
+1435,64,10,1804.4,At risk (slipping)
+1436,109,14,2692.35,Champions (high value)
+1437,1,11,2467.05,Recently active
+1438,145,10,1694.65,At risk (slipping)
+1439,7,11,1227.4,Recently active
+1440,76,15,2487.4,Champions (high value)
+1441,16,10,1745.55,Recently active
+1442,34,13,2327.6,Champions (high value)
+1443,25,11,3038.65,Champions (high value)
+1444,29,12,1879.05,At risk (slipping)
+1445,48,12,4183.3,Champions (high value)
+1446,50,10,1972.0,At risk (slipping)
+1447,99,17,4172.55,Champions (high value)
+1448,44,12,1620.2,At risk (slipping)
+1449,30,12,2939.8,Champions (high value)
+1450,61,11,2340.5,At risk (slipping)
+1451,77,9,2165.6,At risk (slipping)
+1452,73,13,1761.7,At risk (slipping)
+1453,78,8,1176.95,Lapsed low-value
+1454,46,10,2264.2,At risk (slipping)
+1455,18,11,1601.45,Recently active
+1456,38,9,1827.5,At risk (slipping)
+1457,65,8,3026.1,At risk (slipping)
+1458,67,16,2598.7,Champions (high value)
+1459,133,11,2145.0,At risk (slipping)
+1460,3,9,2991.0,Recently active
+1461,73,8,1659.1,At risk (slipping)
+1462,18,9,2529.95,Recently active
+1463,69,11,1892.55,At risk (slipping)
+1464,1,9,1104.7,Recently active
+1465,117,12,2125.9,At risk (slipping)
+1466,99,11,2327.25,At risk (slipping)
+1467,124,12,2421.65,At risk (slipping)
+1468,123,15,3672.25,Champions (high value)
+1469,37,12,2999.3,Champions (high value)
+1470,65,7,1348.4,Lapsed low-value
+1471,74,11,2747.9,At risk (slipping)
+1472,7,9,2167.85,Recently active
+1473,75,15,3149.75,Champions (high value)
+1474,33,10,1987.6,At risk (slipping)
+1475,27,15,3490.5,Champions (high value)
+1476,54,11,2624.2,At risk (slipping)
+1477,10,13,2808.55,Recently active
+1478,4,10,898.35,Recently active
+1479,273,7,1595.75,Lapsed low-value
+1480,34,11,2156.8,At risk (slipping)
+1481,65,16,2534.45,Champions (high value)
+1482,21,8,888.55,Lapsed low-value
+1483,26,10,1929.55,At risk (slipping)
+1484,67,10,2975.0,At risk (slipping)
+1485,63,11,1863.3,At risk (slipping)
+1486,32,11,2168.4,At risk (slipping)
+1487,51,14,3628.65,Champions (high value)
+1488,38,12,1473.65,At risk (slipping)
+1489,50,11,2301.3,At risk (slipping)
+1490,109,9,1522.15,At risk (slipping)
+1491,108,4,831.35,Lapsed low-value
+1492,38,7,831.85,Lapsed low-value
+1493,52,9,2230.0,At risk (slipping)
+1494,256,6,1466.1,Lapsed low-value
+1495,221,6,821.8,Lapsed low-value
+1496,22,10,1448.65,At risk (slipping)
+1497,44,13,2241.1,Champions (high value)
+1498,34,12,2132.4,At risk (slipping)
+1499,22,15,2631.25,Champions (high value)
+1500,59,14,2070.5,Champions (high value)
+1501,1,9,1802.3,Recently active
+1502,42,8,1103.4,Lapsed low-value
+1503,31,7,1163.0,Lapsed low-value
+1504,29,9,1132.8,Lapsed low-value
+1505,28,11,937.25,Lapsed low-value
+1506,28,19,5104.6,Champions (high value)
+1507,8,7,1014.2,Lapsed low-value
+1508,40,13,2327.4,Champions (high value)
+1509,45,12,1285.75,At risk (slipping)
+1510,56,13,1813.5,At risk (slipping)
+1511,50,12,1878.7,At risk (slipping)
+1512,12,15,2874.8,Champions (high value)
+1513,145,12,2283.0,At risk (slipping)
+1514,20,11,1989.3,Recently active
+1515,39,6,940.4,Lapsed low-value
+1516,43,12,1724.55,At risk (slipping)
+1517,54,12,1079.4,At risk (slipping)
+1518,67,12,1595.3,At risk (slipping)
+1519,59,11,1853.4,At risk (slipping)
+1520,10,13,1384.1,Recently active
+1521,6,10,1257.9,Recently active
+1522,4,9,3550.4,Recently active
+1523,24,10,1670.45,At risk (slipping)
+1524,168,11,1989.9,At risk (slipping)
+1525,32,11,1809.6,At risk (slipping)
+1526,4,11,1671.45,Recently active
+1527,32,10,1405.75,At risk (slipping)
+1528,8,11,2885.3,Recently active
+1529,253,7,1105.75,Lapsed low-value
+1530,89,7,1248.8,Lapsed low-value
+1531,9,13,1825.7,Recently active
+1532,55,12,2530.6,At risk (slipping)
+1533,9,10,2451.7,Recently active
+1534,63,14,1454.2,At risk (slipping)
+1535,74,10,1809.75,At risk (slipping)
+1536,68,6,1054.45,Lapsed low-value
+1537,23,11,1002.8,At risk (slipping)
+1538,126,16,2697.05,Champions (high value)
+1539,281,5,848.9,Lapsed low-value
+1540,127,14,2395.15,At risk (slipping)
+1541,67,7,2038.3,At risk (slipping)
+1542,20,16,2981.25,Champions (high value)
+1543,202,13,1206.7,At risk (slipping)
+1544,71,14,2143.4,Champions (high value)
+1545,151,13,2360.35,At risk (slipping)
+1546,25,12,3067.35,Champions (high value)
+1547,127,11,2147.8,At risk (slipping)
+1548,250,6,1044.85,Lapsed low-value
+1549,17,16,3895.3,Champions (high value)
+1550,53,12,1365.6,At risk (slipping)
+1551,75,10,1707.75,At risk (slipping)
+1552,48,12,1607.1,At risk (slipping)
+1553,77,10,1647.2,At risk (slipping)
+1554,95,9,1998.4,At risk (slipping)
+1555,72,13,2969.15,Champions (high value)
+1556,17,13,1547.35,Recently active
+1557,3,13,2603.5,Recently active
+1558,13,10,3862.6,Champions (high value)
+1559,121,5,1457.5,Lapsed low-value
+1560,33,14,3257.2,Champions (high value)
+1561,37,13,1401.6,At risk (slipping)
+1562,1,10,1822.75,Recently active
+1563,31,11,2498.9,At risk (slipping)
+1564,18,15,2586.6,Champions (high value)
+1565,55,6,1322.5,Lapsed low-value
+1566,40,15,2198.7,Champions (high value)
+1567,42,14,1602.4,At risk (slipping)
+1568,150,14,1902.65,At risk (slipping)
+1569,334,7,851.4,Lapsed low-value
+1570,47,14,2414.95,Champions (high value)
+1571,49,17,3306.75,Champions (high value)
+1572,41,12,2019.6,At risk (slipping)
+1573,164,9,3554.7,At risk (slipping)
+1574,265,11,2297.45,At risk (slipping)
+1575,7,13,2118.5,Recently active
+1576,78,7,2514.45,At risk (slipping)
+1577,108,5,458.0,Lapsed low-value
+1578,21,10,3004.1,Champions (high value)
+1579,8,16,3176.0,Champions (high value)
+1580,132,10,1351.15,At risk (slipping)
+1581,130,7,1045.5,Lapsed low-value
+1582,96,11,2139.35,At risk (slipping)
+1583,3,12,1591.65,Recently active
+1584,1,9,1527.15,Recently active
+1585,47,17,5396.3,Champions (high value)
+1586,41,10,1135.8,At risk (slipping)
+1587,17,12,2784.35,Champions (high value)
+1588,1,21,3309.5,Recently active
+1589,134,10,830.25,Lapsed low-value
+1590,40,11,2668.85,At risk (slipping)
+1591,196,14,2834.8,Champions (high value)
+1592,90,9,2384.1,At risk (slipping)
+1593,30,12,2164.15,At risk (slipping)
+1594,22,16,2186.25,Champions (high value)
+1595,52,13,1617.85,At risk (slipping)
+1596,3,10,1996.45,Recently active
+1597,76,17,2512.25,Champions (high value)
+1598,22,10,1314.55,At risk (slipping)
+1599,1,20,5105.45,Champions (high value)
+1600,491,4,727.0,Lapsed low-value
+1601,26,11,2314.9,At risk (slipping)
+1602,102,13,2261.05,At risk (slipping)
+1603,1,9,1158.65,Recently active
+1604,105,8,1370.0,Lapsed low-value
+1605,16,15,3020.0,Champions (high value)
+1606,152,16,2542.3,Champions (high value)
+1607,59,10,1203.8,At risk (slipping)
+1608,4,17,2843.75,Recently active
+1609,32,8,1617.05,At risk (slipping)
+1610,1,14,1856.6,Recently active
+1611,64,10,1770.5,At risk (slipping)
+1612,104,11,1890.0,At risk (slipping)
+1613,18,13,5045.45,Champions (high value)
+1614,139,10,1620.15,At risk (slipping)
+1615,253,6,2061.4,Lapsed low-value
+1616,18,13,3164.95,Champions (high value)
+1617,6,13,1703.15,Recently active
+1618,2,10,1619.25,Recently active
+1619,146,11,2358.6,At risk (slipping)
+1620,5,6,2431.2,Recently active
+1621,8,15,4813.75,Champions (high value)
+1622,104,11,1512.4,At risk (slipping)
+1623,106,11,2800.8,At risk (slipping)
+1624,44,13,3736.95,Champions (high value)
+1625,29,11,3263.15,Champions (high value)
+1626,4,11,2367.75,Recently active
+1627,137,16,3078.05,Champions (high value)
+1628,27,11,1765.95,At risk (slipping)
+1629,53,8,1019.85,Lapsed low-value
+1630,5,8,1264.1,Recently active
+1631,3,16,4284.75,Champions (high value)
+1632,6,11,1592.1,Recently active
+1633,29,11,717.7,Lapsed low-value
+1634,13,10,2270.45,Recently active
+1635,12,12,2297.4,Recently active
+1636,182,8,1502.15,At risk (slipping)
+1637,41,14,1914.15,Champions (high value)
+1638,131,4,608.5,Lapsed low-value
+1639,42,8,1329.15,Lapsed low-value
+1640,80,6,1869.3,Lapsed low-value
+1641,21,10,1397.9,At risk (slipping)
+1642,80,14,1841.3,At risk (slipping)
+1643,24,7,2029.7,At risk (slipping)
+1644,8,12,1407.75,Recently active
+1645,82,5,822.2,Lapsed low-value
+1646,21,13,2291.1,Champions (high value)
+1647,369,6,1134.9,Lapsed low-value
+1648,64,16,4586.55,Champions (high value)
+1649,11,8,1027.6,Lapsed low-value
+1650,145,9,1870.0,At risk (slipping)
+1651,50,13,2611.05,Champions (high value)
+1652,72,11,2313.5,At risk (slipping)
+1653,180,11,3210.9,At risk (slipping)
+1654,47,6,698.8,Lapsed low-value
+1655,36,9,1476.1,At risk (slipping)
+1656,63,14,1796.55,At risk (slipping)
+1657,30,17,2495.6,Champions (high value)
+1658,60,10,1603.05,At risk (slipping)
+1659,109,12,4405.75,Champions (high value)
+1660,32,11,2603.35,At risk (slipping)
+1661,9,11,1718.15,Recently active
+1662,15,8,538.45,Lapsed low-value
+1663,137,10,1506.65,At risk (slipping)
+1664,22,10,1223.45,At risk (slipping)
+1665,81,8,1336.7,Lapsed low-value
+1666,64,17,2698.25,Champions (high value)
+1667,24,14,2637.0,Champions (high value)
+1668,57,9,1512.05,At risk (slipping)
+1669,256,12,1707.55,At risk (slipping)
+1670,1,13,2264.55,Recently active
+1671,115,12,2859.8,At risk (slipping)
+1672,17,18,2118.3,Champions (high value)
+1673,19,15,3156.1,Champions (high value)
+1674,134,7,1319.5,Lapsed low-value
+1675,40,12,3455.0,Champions (high value)
+1676,75,12,1531.8,At risk (slipping)
+1677,42,10,2483.0,At risk (slipping)
+1678,9,12,2683.45,Recently active
+1679,29,13,2513.7,Champions (high value)
+1680,61,15,2615.25,Champions (high value)
+1681,114,9,1465.0,At risk (slipping)
+1682,2,17,1905.35,Recently active
+1683,71,14,2298.65,Champions (high value)
+1684,14,11,1489.75,Recently active
+1685,62,13,2295.1,At risk (slipping)
+1686,72,11,1234.1,At risk (slipping)
+1687,10,10,1983.85,Recently active
+1688,30,12,3554.05,Champions (high value)
+1689,105,9,2400.75,At risk (slipping)
+1690,13,12,2672.6,Recently active
+1691,27,18,3617.2,Champions (high value)
+1692,37,13,2357.15,Champions (high value)
+1693,211,10,1278.2,At risk (slipping)
+1694,4,7,824.0,Lapsed low-value
+1695,2,11,2861.6,Recently active
+1696,105,10,1034.5,Lapsed low-value
+1697,108,9,1895.8,At risk (slipping)
+1698,12,6,1802.1,Lapsed low-value
+1699,58,7,1022.75,Lapsed low-value
+1700,61,11,1117.8,At risk (slipping)
+1701,65,13,3139.15,Champions (high value)
+1702,33,7,2591.85,At risk (slipping)
+1703,55,18,3790.9,Champions (high value)
+1704,46,11,2596.0,At risk (slipping)
+1705,48,16,3952.35,Champions (high value)
+1706,11,13,2569.35,Recently active
+1707,181,12,1240.9,At risk (slipping)
+1708,63,10,1730.5,At risk (slipping)
+1709,178,12,2451.4,At risk (slipping)
+1710,80,11,1748.15,At risk (slipping)
+1711,75,12,1049.4,At risk (slipping)
+1712,14,20,1919.45,Champions (high value)
+1713,334,6,756.8,Lapsed low-value
+1714,24,15,3663.95,Champions (high value)
+1715,24,11,2546.9,Champions (high value)
+1716,5,12,1535.35,Recently active
+1717,66,16,2871.05,Champions (high value)
+1718,159,14,2680.15,Champions (high value)
+1719,5,14,2709.0,Recently active
+1720,206,12,1794.95,At risk (slipping)
+1721,7,11,1460.8,Recently active
+1722,37,12,2632.35,Champions (high value)
+1723,12,16,3399.35,Champions (high value)
+1724,118,4,2018.9,Lapsed low-value
+1725,17,15,2436.0,Champions (high value)
+1726,7,15,2133.9,Recently active
+1727,1,11,1809.8,Recently active
+1728,78,11,2458.15,At risk (slipping)
+1729,61,7,800.4,Lapsed low-value
+1730,95,13,3294.05,Champions (high value)
+1731,32,14,2031.85,Champions (high value)
+1732,45,7,1377.7,Lapsed low-value
+1733,49,17,2222.4,Champions (high value)
+1734,448,4,372.15,Lapsed low-value
+1735,30,12,4507.05,Champions (high value)
+1736,194,10,2413.95,At risk (slipping)
+1737,16,12,3344.15,Champions (high value)
+1738,252,8,1106.5,Lapsed low-value
+1739,77,14,2909.05,Champions (high value)
+1740,56,13,2585.3,Champions (high value)
+1741,32,15,3142.75,Champions (high value)
+1742,9,15,2671.95,Champions (high value)
+1743,28,10,2327.1,At risk (slipping)
+1744,38,9,1961.8,At risk (slipping)
+1745,31,12,2772.7,Champions (high value)
+1746,1,13,2495.75,Recently active
+1747,61,11,1722.4,At risk (slipping)
+1748,23,11,2130.35,At risk (slipping)
+1749,324,6,1088.1,Lapsed low-value
+1750,47,12,3332.55,Champions (high value)
+1751,100,9,2665.95,At risk (slipping)
+1752,12,9,2180.7,Recently active
+1753,74,12,2997.3,Champions (high value)
+1754,32,12,1982.95,At risk (slipping)
+1755,6,17,3256.75,Champions (high value)
+1756,139,10,1104.8,At risk (slipping)
+1757,206,13,3206.7,Champions (high value)
+1758,102,6,1298.2,Lapsed low-value
+1759,10,11,2875.2,Recently active
+1760,2,9,2354.5,Recently active
+1761,166,9,1040.2,Lapsed low-value
+1762,24,14,3527.6,Champions (high value)
+1763,83,20,2473.75,Champions (high value)
+1764,18,13,1980.7,Recently active
+1765,45,12,1839.0,At risk (slipping)
+1766,129,13,1670.75,At risk (slipping)
+1767,104,9,1740.3,At risk (slipping)
+1768,107,14,2592.95,Champions (high value)
+1769,49,12,2752.8,Champions (high value)
+1770,172,9,1656.3,At risk (slipping)
+1771,75,11,1125.6,At risk (slipping)
+1772,9,13,2685.15,Recently active
+1773,34,13,3724.65,Champions (high value)
+1774,27,13,2606.15,Champions (high value)
+1775,66,15,1924.7,Champions (high value)
+1776,229,4,727.15,Lapsed low-value
+1777,212,10,1291.35,At risk (slipping)
+1778,97,12,2292.75,At risk (slipping)
+1779,41,12,2391.0,At risk (slipping)
+1780,59,12,1520.5,At risk (slipping)
+1781,33,11,2336.0,At risk (slipping)
+1782,128,8,2211.0,At risk (slipping)
+1783,46,9,1002.6,Lapsed low-value
+1784,11,11,1296.2,Recently active
+1785,94,15,2283.2,Champions (high value)
+1786,8,14,3702.2,Champions (high value)
+1787,110,16,2619.65,Champions (high value)
+1788,42,13,1852.45,At risk (slipping)
+1789,10,12,2932.0,Recently active
+1790,87,9,2719.5,At risk (slipping)
+1791,3,15,5744.65,Champions (high value)
+1792,66,8,705.2,Lapsed low-value
+1793,199,6,1473.05,Lapsed low-value
+1794,14,12,3376.55,Champions (high value)
+1795,25,11,2405.95,At risk (slipping)
+1796,73,17,2335.0,Champions (high value)
+1797,77,11,2266.3,At risk (slipping)
+1798,156,8,1323.05,Lapsed low-value
+1799,5,15,2006.15,Recently active
+1800,216,10,1878.95,At risk (slipping)
+1801,47,7,644.5,Lapsed low-value
+1802,52,9,2113.7,At risk (slipping)
+1803,52,7,1913.8,At risk (slipping)
+1804,31,13,1681.15,At risk (slipping)
+1805,211,14,2048.7,At risk (slipping)
+1806,88,13,3309.45,Champions (high value)
+1807,36,11,1673.15,At risk (slipping)
+1808,162,9,616.7,Lapsed low-value
+1809,17,7,1926.85,Recently active
+1810,107,7,672.2,Lapsed low-value
+1811,66,10,2842.0,At risk (slipping)
+1812,77,10,2177.05,At risk (slipping)
+1813,66,16,3798.0,Champions (high value)
+1814,64,12,1515.15,At risk (slipping)
+1815,115,6,1884.3,Lapsed low-value
+1816,103,15,1950.8,At risk (slipping)
+1817,1,12,1834.5,Recently active
+1818,49,11,1378.25,At risk (slipping)
+1819,12,10,1523.1,Recently active
+1820,68,15,3456.0,Champions (high value)
+1821,36,13,2560.1,Champions (high value)
+1822,254,4,1070.1,Lapsed low-value
+1823,152,11,2215.45,At risk (slipping)
+1824,161,11,1747.05,At risk (slipping)
+1825,17,12,2501.55,Champions (high value)
+1826,10,15,3188.5,Champions (high value)
+1827,78,9,1963.55,At risk (slipping)
+1828,13,8,1531.35,Recently active
+1829,23,9,1834.85,At risk (slipping)
+1830,39,16,3685.8,Champions (high value)
+1831,15,19,2502.05,Champions (high value)
+1832,100,15,4287.05,Champions (high value)
+1833,36,8,1820.9,At risk (slipping)
+1834,101,10,3110.2,At risk (slipping)
+1835,60,12,1672.35,At risk (slipping)
+1836,64,9,1647.55,At risk (slipping)
+1837,93,11,2270.35,At risk (slipping)
+1838,9,13,2059.1,Recently active
+1839,109,9,1168.95,Lapsed low-value
+1840,6,6,1204.0,Lapsed low-value
+1841,161,11,2134.85,At risk (slipping)
+1842,1,16,2390.15,Recently active
+1843,15,13,2778.2,Champions (high value)
+1844,162,11,1689.95,At risk (slipping)
+1845,20,12,2419.15,Champions (high value)
+1846,56,10,1336.05,At risk (slipping)
+1847,74,9,1556.3,At risk (slipping)
+1848,85,9,1554.1,At risk (slipping)
+1849,62,15,2799.75,Champions (high value)
+1850,133,8,1506.55,At risk (slipping)
+1851,24,11,1452.2,At risk (slipping)
+1852,11,10,1009.9,Recently active
+1853,29,14,1815.6,Champions (high value)
+1854,9,9,1308.2,Recently active
+1855,67,19,4189.85,Champions (high value)
+1856,73,10,1320.2,At risk (slipping)
+1857,23,11,788.8,Lapsed low-value
+1858,114,9,2715.1,At risk (slipping)
+1859,51,13,1834.2,At risk (slipping)
+1860,146,12,2839.7,At risk (slipping)
+1861,182,8,2233.85,At risk (slipping)
+1862,113,5,434.2,Lapsed low-value
+1863,114,7,1484.2,Lapsed low-value
+1864,27,10,2094.25,At risk (slipping)
+1865,65,15,1787.05,At risk (slipping)
+1866,33,5,1896.8,Lapsed low-value
+1867,5,11,1989.55,Recently active
+1868,102,10,1340.3,At risk (slipping)
+1869,20,12,3313.15,Champions (high value)
+1870,53,12,3533.65,Champions (high value)
+1871,97,6,457.75,Lapsed low-value
+1872,95,20,2842.75,Champions (high value)
+1873,305,7,798.25,Lapsed low-value
+1874,41,10,1378.55,At risk (slipping)
+1875,17,9,1172.1,Lapsed low-value
+1876,53,12,1614.25,At risk (slipping)
+1877,159,10,1156.15,At risk (slipping)
+1878,175,9,1334.3,At risk (slipping)
+1879,19,10,1021.1,Lapsed low-value
+1880,123,11,1935.85,At risk (slipping)
+1881,77,9,1910.6,At risk (slipping)
+1882,4,10,2040.85,Recently active
+1883,98,8,1011.0,Lapsed low-value
+1884,53,9,2978.95,At risk (slipping)
+1885,26,9,2969.45,At risk (slipping)
+1886,1,15,2244.3,Recently active
+1887,65,4,1114.5,Lapsed low-value
+1888,216,14,2285.9,At risk (slipping)
+1889,30,14,3264.15,Champions (high value)
+1890,7,15,3086.5,Champions (high value)
+1891,8,17,3273.2,Champions (high value)
+1892,80,9,2718.1,At risk (slipping)
+1893,51,15,3726.4,Champions (high value)
+1894,78,10,1920.45,At risk (slipping)
+1895,7,12,3653.75,Recently active
+1896,135,9,1064.65,Lapsed low-value
+1897,18,19,4243.0,Champions (high value)
+1898,61,7,1373.5,Lapsed low-value
+1899,22,9,1998.5,At risk (slipping)
+1900,137,7,1220.4,Lapsed low-value
+1901,19,12,1989.65,Recently active
+1902,54,10,2012.6,At risk (slipping)
+1903,11,18,2635.55,Champions (high value)
+1904,13,15,1911.25,Recently active
+1905,20,14,2035.35,Champions (high value)
+1906,43,6,1116.5,Lapsed low-value
+1907,33,15,2147.35,Champions (high value)
+1908,48,14,2518.25,Champions (high value)
+1909,58,15,4872.65,Champions (high value)
+1910,25,12,2312.3,Champions (high value)
+1911,57,15,2393.75,Champions (high value)
+1912,2,12,1478.05,Recently active
+1913,63,12,2954.1,Champions (high value)
+1914,13,24,3458.0,Champions (high value)
+1915,225,9,2282.15,At risk (slipping)
+1916,168,7,1325.1,Lapsed low-value
+1917,50,7,1143.7,Lapsed low-value
+1918,30,8,1749.7,At risk (slipping)
+1919,113,11,1645.45,At risk (slipping)
+1920,49,13,1798.75,At risk (slipping)
+1921,123,9,2114.15,At risk (slipping)
+1922,77,13,3048.45,Champions (high value)
+1923,154,8,932.5,Lapsed low-value
+1924,34,13,1852.1,At risk (slipping)
+1925,9,16,3105.25,Champions (high value)
+1926,92,10,1504.65,At risk (slipping)
+1927,59,11,2133.4,At risk (slipping)
+1928,17,8,2557.8,Recently active
+1929,39,9,2931.55,At risk (slipping)
+1930,130,8,1175.85,Lapsed low-value
+1931,40,10,2551.7,At risk (slipping)
+1932,36,11,2543.1,At risk (slipping)
+1933,9,9,1933.0,Recently active
+1934,13,4,548.4,Lapsed low-value
+1935,64,8,1201.75,Lapsed low-value
+1936,43,9,1471.2,At risk (slipping)
+1937,331,9,1471.4,At risk (slipping)
+1938,57,16,6619.55,Champions (high value)
+1939,55,12,1177.4,At risk (slipping)
+1940,103,11,1500.05,At risk (slipping)
+1941,49,12,2238.9,At risk (slipping)
+1942,73,7,534.6,Lapsed low-value
+1943,12,8,1764.7,Recently active
+1944,246,6,976.0,Lapsed low-value
+1945,127,13,2670.2,At risk (slipping)
+1946,121,6,1686.0,Lapsed low-value
+1947,11,11,2590.1,Recently active
+1948,75,14,2999.4,Champions (high value)
+1949,21,16,3707.35,Champions (high value)
+1950,64,8,1363.4,Lapsed low-value
+1951,24,13,3768.0,Champions (high value)
+1952,66,8,1045.1,Lapsed low-value
+1953,12,10,2616.0,Recently active
+1954,74,15,3155.3,Champions (high value)
+1955,19,16,3201.2,Champions (high value)
+1956,64,11,1871.7,At risk (slipping)
+1957,120,5,1091.0,Lapsed low-value
+1958,102,15,4482.25,Champions (high value)
+1959,56,10,1796.65,At risk (slipping)
+1960,132,13,1524.2,At risk (slipping)
+1961,18,7,912.8,Lapsed low-value
+1962,41,7,1435.2,Lapsed low-value
+1963,14,14,2618.8,Champions (high value)
+1964,127,7,1127.6,Lapsed low-value
+1965,42,14,2140.2,Champions (high value)
+1966,92,12,1409.4,At risk (slipping)
+1967,154,4,795.15,Lapsed low-value
+1968,21,11,1371.3,At risk (slipping)
+1969,60,11,1412.8,At risk (slipping)
+1970,153,7,2033.55,At risk (slipping)
+1971,18,15,3035.1,Champions (high value)
+1972,79,10,1726.25,At risk (slipping)
+1973,23,8,697.1,Lapsed low-value
+1974,17,8,1285.65,Lapsed low-value
+1975,7,17,2688.15,Champions (high value)
+1976,200,9,1974.2,At risk (slipping)
+1977,49,10,1050.45,Lapsed low-value
+1978,121,5,844.4,Lapsed low-value
+1979,187,12,2377.8,At risk (slipping)
+1980,2,14,1663.75,Recently active
+1981,15,13,1858.75,Recently active
+1982,34,13,3058.3,Champions (high value)
+1983,30,20,3861.6,Champions (high value)
+1984,65,18,3774.0,Champions (high value)
+1985,45,12,3087.9,Champions (high value)
+1986,42,14,3255.65,Champions (high value)
+1987,35,10,2231.75,At risk (slipping)
+1988,78,9,3128.95,At risk (slipping)
+1989,101,10,1725.8,At risk (slipping)
+1990,39,9,3086.5,At risk (slipping)
+1991,18,10,2163.8,Recently active
+1992,111,11,4310.1,Champions (high value)
+1993,1,5,592.8,Lapsed low-value
+1994,6,15,3636.7,Champions (high value)
+1995,29,13,3194.6,Champions (high value)
+1996,42,15,3682.4,Champions (high value)
+1997,267,8,1250.95,Lapsed low-value
+1998,5,10,1199.95,Recently active
+1999,25,13,1629.15,At risk (slipping)
+2000,175,10,2393.5,At risk (slipping)
+2001,11,14,1772.25,Recently active
+2002,19,16,2095.6,Champions (high value)
+2003,12,19,3180.35,Champions (high value)
+2004,75,11,2148.95,At risk (slipping)
+2005,6,14,1467.95,Recently active
+2006,67,10,3435.25,At risk (slipping)
+2007,56,13,2543.9,Champions (high value)
+2008,45,11,2496.75,At risk (slipping)
+2009,6,17,4139.85,Champions (high value)
+2010,17,13,2295.4,Champions (high value)
+2011,141,5,1011.8,Lapsed low-value
+2012,109,12,1486.6,At risk (slipping)
+2013,31,17,2445.85,Champions (high value)
+2014,167,10,2638.4,At risk (slipping)
+2015,98,17,2422.3,Champions (high value)
+2016,67,7,1425.55,Lapsed low-value
+2017,24,11,1746.0,At risk (slipping)
+2018,78,14,1979.45,At risk (slipping)
+2019,14,12,3144.75,Champions (high value)
+2020,101,8,1198.75,Lapsed low-value
+2021,49,9,2234.5,At risk (slipping)
+2022,57,12,3172.5,Champions (high value)
+2023,81,13,2537.95,Champions (high value)
+2024,180,9,1059.7,Lapsed low-value
+2025,140,10,1373.45,At risk (slipping)
+2026,148,9,1923.25,At risk (slipping)
+2027,32,10,2646.8,At risk (slipping)
+2028,96,6,1274.2,Lapsed low-value
+2029,145,15,1981.2,At risk (slipping)
+2030,108,11,2112.9,At risk (slipping)
+2031,48,10,1750.5,At risk (slipping)
+2032,1,19,2642.95,Recently active
+2033,128,11,1597.9,At risk (slipping)
+2034,67,11,1980.15,At risk (slipping)
+2035,76,10,1008.6,Lapsed low-value
+2036,8,8,1815.1,Recently active
+2037,78,10,1436.5,At risk (slipping)
+2038,3,13,2144.3,Recently active
+2039,45,13,2655.45,Champions (high value)
+2040,68,6,1431.35,Lapsed low-value
+2041,19,5,1165.4,Lapsed low-value
+2042,24,13,1481.0,At risk (slipping)
+2043,1,14,2936.0,Recently active
+2044,134,11,1216.25,At risk (slipping)
+2045,160,15,2088.4,At risk (slipping)
+2046,121,13,2013.6,At risk (slipping)
+2047,34,12,1837.2,At risk (slipping)
+2048,90,6,708.4,Lapsed low-value
+2049,107,13,1760.85,At risk (slipping)
+2050,14,10,3021.9,Recently active
+2051,73,11,3700.3,Champions (high value)
+2052,12,10,1826.0,Recently active
+2053,107,8,1669.95,At risk (slipping)
+2054,96,11,1566.75,At risk (slipping)
+2055,27,14,2942.05,Champions (high value)
+2056,20,16,1719.5,Champions (high value)
+2057,124,5,900.65,Lapsed low-value
+2058,163,12,2917.1,At risk (slipping)
+2059,137,14,2687.95,Champions (high value)
+2060,37,8,942.2,Lapsed low-value
+2061,25,11,4177.3,Champions (high value)
+2062,248,9,1449.8,At risk (slipping)
+2063,17,9,1206.7,Recently active
+2064,29,15,3094.55,Champions (high value)
+2065,99,11,2573.45,At risk (slipping)
+2066,102,12,2960.85,At risk (slipping)
+2067,33,18,3365.55,Champions (high value)
+2068,27,20,2826.0,Champions (high value)
+2069,35,14,1836.25,Champions (high value)
+2070,10,10,2490.5,Recently active
+2071,148,12,2853.85,At risk (slipping)
+2072,2,13,2340.15,Recently active
+2073,144,5,387.9,Lapsed low-value
+2074,223,9,1201.1,Lapsed low-value
+2075,115,11,2334.9,At risk (slipping)
+2076,22,10,1824.55,At risk (slipping)
+2077,51,10,1977.9,At risk (slipping)
+2078,47,12,2316.15,At risk (slipping)
+2079,168,11,3421.7,At risk (slipping)
+2080,67,13,1987.75,At risk (slipping)
+2081,4,16,3476.3,Recently active
+2082,1,17,2092.45,Recently active
+2083,54,12,2746.3,Champions (high value)
+2084,126,13,2224.25,At risk (slipping)
+2085,72,3,258.0,Lapsed low-value
+2086,24,12,2231.55,Champions (high value)
+2087,1,15,2875.65,Recently active
+2088,61,11,2918.35,At risk (slipping)
+2089,112,9,1103.2,Lapsed low-value
+2090,125,9,2113.45,At risk (slipping)
+2091,91,9,1595.25,At risk (slipping)
+2092,55,11,1945.3,At risk (slipping)
+2093,77,11,2011.7,At risk (slipping)
+2094,101,7,1500.45,Lapsed low-value
+2095,1,14,3356.4,Recently active
+2096,1,9,2234.2,Recently active
+2097,6,13,2534.4,Recently active
+2098,1,16,2585.95,Recently active
+2099,2,12,1091.85,Recently active
+2100,42,13,3570.7,Champions (high value)
+2101,145,16,2565.05,Champions (high value)
+2102,1,13,1861.7,Recently active
+2103,36,23,3539.0,Champions (high value)
+2104,23,12,1857.6,At risk (slipping)
+2105,67,8,1256.3,Lapsed low-value
+2106,1,12,1689.8,Recently active
+2107,70,12,1900.65,At risk (slipping)
+2108,16,13,2353.45,Champions (high value)
+2109,27,15,3846.1,Champions (high value)
+2110,325,7,1677.0,Lapsed low-value
+2111,7,14,3199.05,Recently active
+2112,39,9,893.05,Lapsed low-value
+2113,85,16,3425.2,Champions (high value)
+2114,25,15,3477.3,Champions (high value)
+2115,41,10,3090.9,At risk (slipping)
+2116,1,16,2499.6,Recently active
+2117,34,6,2369.85,At risk (slipping)
+2118,1,9,3634.9,Recently active
+2119,28,9,1522.8,At risk (slipping)
+2120,91,10,1287.9,At risk (slipping)
+2121,6,8,1280.5,Recently active
+2122,23,12,4771.9,Champions (high value)
+2123,27,18,2775.2,Champions (high value)
+2124,18,14,1703.4,Recently active
+2125,86,10,933.75,Lapsed low-value
+2126,32,10,1514.2,At risk (slipping)
+2127,34,10,1659.15,At risk (slipping)
+2128,97,14,1664.05,At risk (slipping)
+2129,82,9,1896.85,At risk (slipping)
+2130,107,17,5765.5,Champions (high value)
+2131,11,14,1864.0,Recently active
+2132,47,10,1226.35,At risk (slipping)
+2133,8,4,1609.7,Lapsed low-value
+2134,40,20,4901.0,Champions (high value)
+2135,27,9,1734.5,At risk (slipping)
+2136,15,12,2503.05,Recently active
+2137,38,9,1926.6,At risk (slipping)
+2138,60,12,2331.7,At risk (slipping)
+2139,18,13,2296.2,Champions (high value)
+2140,116,13,2605.55,At risk (slipping)
+2141,12,7,784.25,Lapsed low-value
+2142,235,10,1973.9,At risk (slipping)
+2143,269,10,2983.0,At risk (slipping)
+2144,108,20,4496.55,Champions (high value)
+2145,43,13,1993.45,At risk (slipping)
+2146,54,9,2902.9,At risk (slipping)
+2147,41,12,1316.1,At risk (slipping)
+2148,53,6,2017.95,Lapsed low-value
+2149,4,13,2418.4,Recently active
+2150,121,16,3238.15,Champions (high value)
+2151,42,11,1216.5,At risk (slipping)
+2152,1,15,2374.2,Recently active
+2153,192,7,1187.6,Lapsed low-value
+2154,63,8,1029.95,Lapsed low-value
+2155,213,8,3326.9,At risk (slipping)
+2156,40,7,1044.2,Lapsed low-value
+2157,72,13,1807.65,At risk (slipping)
+2158,18,16,2816.4,Champions (high value)
+2159,9,18,3942.9,Champions (high value)
+2160,1,9,1839.45,Recently active
+2161,3,10,1341.5,Recently active
+2162,6,8,1150.25,Recently active
+2163,90,8,1592.65,At risk (slipping)
+2164,60,8,1541.0,At risk (slipping)
+2165,70,13,3627.4,Champions (high value)
+2166,38,14,3019.5,Champions (high value)
+2167,20,6,1805.9,Lapsed low-value
+2168,54,15,2733.7,Champions (high value)
+2169,50,9,2127.45,At risk (slipping)
+2170,45,17,3214.15,Champions (high value)
+2171,65,12,2170.75,At risk (slipping)
+2172,186,5,349.65,Lapsed low-value
+2173,74,11,3350.3,Champions (high value)
+2174,68,15,1873.25,At risk (slipping)
+2175,10,10,1577.2,Recently active
+2176,116,17,3595.55,Champions (high value)
+2177,23,5,941.6,Lapsed low-value
+2178,31,19,3784.1,Champions (high value)
+2179,16,12,1925.15,Recently active
+2180,33,9,2596.4,At risk (slipping)
+2181,98,7,1048.85,Lapsed low-value
+2182,33,11,1806.75,At risk (slipping)
+2183,2,13,3266.9,Recently active
+2184,1,17,2484.1,Recently active
+2185,37,12,3793.6,Champions (high value)
+2186,20,20,5233.65,Champions (high value)
+2187,60,15,3372.7,Champions (high value)
+2188,90,9,1856.5,At risk (slipping)
+2189,6,6,855.7,Lapsed low-value
+2190,23,13,1427.7,At risk (slipping)
+2191,19,9,2584.1,Recently active
+2192,20,14,3214.95,Champions (high value)
+2193,28,13,3123.25,Champions (high value)
+2194,1,17,1722.3,Recently active
+2195,91,11,2084.05,At risk (slipping)
+2196,15,15,2869.15,Champions (high value)
+2197,21,13,3663.25,Champions (high value)
+2198,58,9,611.9,Lapsed low-value
+2199,260,13,2396.95,At risk (slipping)
+2200,6,11,1458.1,Recently active
+2201,51,7,615.5,Lapsed low-value
+2202,60,15,2883.9,Champions (high value)
+2203,69,12,1878.3,At risk (slipping)
+2204,124,6,500.8,Lapsed low-value
+2205,332,8,874.9,Lapsed low-value
+2206,5,6,1346.95,Recently active
+2207,74,10,1713.4,At risk (slipping)
+2208,16,9,1187.35,Recently active
+2209,219,9,1575.25,At risk (slipping)
+2210,16,10,2155.95,Recently active
+2211,146,10,1365.05,At risk (slipping)
+2212,22,12,1344.65,At risk (slipping)
+2213,58,9,892.25,Lapsed low-value
+2214,28,14,2428.65,Champions (high value)
+2215,1,19,4245.6,Recently active
+2216,7,12,2416.4,Recently active
+2217,45,8,1646.4,At risk (slipping)
+2218,171,15,2139.7,At risk (slipping)
+2219,57,11,1594.05,At risk (slipping)
+2220,53,9,1672.8,At risk (slipping)
+2221,84,12,2263.8,At risk (slipping)
+2222,118,6,887.0,Lapsed low-value
+2223,52,12,2809.8,Champions (high value)
+2224,1,10,1716.1,Recently active
+2225,62,8,656.3,Lapsed low-value
+2226,10,14,1814.05,Recently active
+2227,2,17,2854.25,Recently active
+2228,4,15,1995.55,Recently active
+2229,7,9,1503.25,Recently active
+2230,20,11,2334.6,Recently active
+2231,11,12,2746.8,Recently active
+2232,123,13,1818.05,At risk (slipping)
+2233,53,11,2378.55,At risk (slipping)
+2234,22,18,3970.6,Champions (high value)
+2235,43,13,1511.65,At risk (slipping)
+2236,64,16,3215.8,Champions (high value)
+2237,299,10,1961.75,At risk (slipping)
+2238,198,9,1662.55,At risk (slipping)
+2239,60,12,2609.2,At risk (slipping)
+2240,103,4,437.3,Lapsed low-value
+2241,122,5,750.4,Lapsed low-value
+2242,17,17,3896.2,Champions (high value)
+2243,97,10,1476.0,At risk (slipping)
+2244,105,11,1828.9,At risk (slipping)
+2245,9,10,1681.25,Recently active
+2246,72,16,2746.4,Champions (high value)
+2247,112,12,2881.0,At risk (slipping)
+2248,27,10,1170.85,At risk (slipping)
+2249,26,16,1899.0,Champions (high value)
+2250,83,9,1199.75,Lapsed low-value
+2251,31,11,2465.6,At risk (slipping)
+2252,6,10,3044.6,Recently active
+2253,119,12,2287.65,At risk (slipping)
+2254,127,13,2866.6,Champions (high value)
+2255,67,17,3796.5,Champions (high value)
+2256,46,12,2640.6,Champions (high value)
+2257,126,8,984.1,Lapsed low-value
+2258,67,10,1557.6,At risk (slipping)
+2259,88,17,2974.55,Champions (high value)
+2260,203,6,634.0,Lapsed low-value
+2261,7,12,1959.45,Recently active
+2262,11,8,907.7,Lapsed low-value
+2263,26,9,1488.0,At risk (slipping)
+2264,39,11,1263.65,At risk (slipping)
+2265,50,9,1940.9,At risk (slipping)
+2266,5,9,1890.8,Recently active
+2267,10,11,2384.65,Recently active
+2268,130,11,3358.3,At risk (slipping)
+2269,11,11,1662.65,Recently active
+2270,104,11,2486.6,At risk (slipping)
+2271,17,10,1930.5,Recently active
+2272,114,11,1319.1,At risk (slipping)
+2273,33,11,1082.9,At risk (slipping)
+2274,67,16,2126.45,Champions (high value)
+2275,64,8,1114.25,Lapsed low-value
+2276,150,10,1007.6,Lapsed low-value
+2277,55,14,2967.6,Champions (high value)
+2278,53,13,4898.7,Champions (high value)
+2279,31,10,1151.3,At risk (slipping)
+2280,44,14,3789.75,Champions (high value)
+2281,153,10,1564.4,At risk (slipping)
+2282,1,20,2632.0,Recently active
+2283,162,9,1442.35,At risk (slipping)
+2284,21,20,4257.15,Champions (high value)
+2285,12,9,2903.2,Recently active
+2286,6,15,1975.25,Recently active
+2287,28,15,4233.45,Champions (high value)
+2288,53,11,2410.4,At risk (slipping)
+2289,28,12,2278.05,Champions (high value)
+2290,19,11,2322.05,Recently active
+2291,21,10,2183.1,At risk (slipping)
+2292,13,13,1830.8,Recently active
+2293,98,11,1676.6,At risk (slipping)
+2294,340,6,2381.75,At risk (slipping)
+2295,18,10,2707.25,Recently active
+2296,15,20,5012.4,Champions (high value)
+2297,34,7,891.1,Lapsed low-value
+2298,184,12,1240.15,At risk (slipping)
+2299,25,13,2505.65,Champions (high value)
+2300,21,14,2194.3,Champions (high value)
+2301,84,14,4123.45,Champions (high value)
+2302,31,11,4464.9,Champions (high value)
+2303,97,12,2689.9,At risk (slipping)
+2304,61,8,1132.2,Lapsed low-value
+2305,125,12,1420.6,At risk (slipping)
+2306,72,12,1501.1,At risk (slipping)
+2307,158,11,1123.3,At risk (slipping)
+2308,11,10,1222.3,Recently active
+2309,37,11,2588.95,At risk (slipping)
+2310,9,10,1527.6,Recently active
+2311,11,8,897.6,Lapsed low-value
+2312,87,14,2751.0,Champions (high value)
+2313,65,15,1975.6,Champions (high value)
+2314,3,19,4023.7,Champions (high value)
+2315,174,9,1764.9,At risk (slipping)
+2316,32,5,365.9,Lapsed low-value
+2317,44,10,1675.2,At risk (slipping)
+2318,3,10,1901.85,Recently active
+2319,108,16,2420.45,Champions (high value)
+2320,47,7,956.8,Lapsed low-value
+2321,31,9,1384.25,At risk (slipping)
+2322,5,12,2004.05,Recently active
+2323,7,17,4067.45,Champions (high value)
+2324,11,10,1337.95,Recently active
+2325,31,17,4150.1,Champions (high value)
+2326,106,10,2865.7,At risk (slipping)
+2327,102,10,1649.75,At risk (slipping)
+2328,55,9,1836.05,At risk (slipping)
+2329,11,11,1289.2,Recently active
+2330,13,11,1574.8,Recently active
+2331,64,11,1796.3,At risk (slipping)
+2332,33,10,2804.35,At risk (slipping)
+2333,38,8,1043.25,Lapsed low-value
+2334,13,14,2717.05,Champions (high value)
+2335,11,12,1957.75,Recently active
+2336,16,11,3220.2,Champions (high value)
+2337,61,9,1940.65,At risk (slipping)
+2338,17,11,1472.1,Recently active
+2339,16,13,2630.65,Champions (high value)
+2340,55,14,2529.85,Champions (high value)
+2341,65,9,1832.3,At risk (slipping)
+2342,111,15,2645.25,Champions (high value)
+2343,12,11,1689.45,Recently active
+2344,44,9,1240.75,Lapsed low-value
+2345,3,9,1568.4,Recently active
+2346,148,13,2406.65,At risk (slipping)
+2347,64,12,2571.6,At risk (slipping)
+2348,95,5,332.7,Lapsed low-value
+2349,28,15,3636.75,Champions (high value)
+2350,1,18,2234.7,Recently active
+2351,37,12,3140.2,Champions (high value)
+2352,139,14,2524.1,At risk (slipping)
+2353,57,9,1262.5,At risk (slipping)
+2354,76,7,1110.05,Lapsed low-value
+2355,28,14,1844.85,Champions (high value)
+2356,21,17,3797.5,Champions (high value)
+2357,26,12,1221.0,At risk (slipping)
+2358,59,9,2548.55,At risk (slipping)
+2359,12,8,1404.6,Recently active
+2360,16,11,3545.9,Champions (high value)
+2361,98,11,1764.55,At risk (slipping)
+2362,1,13,2268.05,Recently active
+2363,15,11,2067.7,Recently active
+2364,17,6,1209.65,Lapsed low-value
+2365,1,8,471.2,Recently active
+2366,79,14,1067.5,At risk (slipping)
+2367,106,7,696.9,Lapsed low-value
+2368,13,14,2283.85,Recently active
+2369,43,11,1927.7,At risk (slipping)
+2370,11,11,2687.55,Recently active
+2371,68,14,2158.3,Champions (high value)
+2372,32,13,1293.15,At risk (slipping)
+2373,15,13,3333.3,Champions (high value)
+2374,234,10,1617.3,At risk (slipping)
+2375,19,14,3280.55,Champions (high value)
+2376,35,16,2833.8,Champions (high value)
+2377,13,16,3205.15,Champions (high value)
+2378,83,17,3940.9,Champions (high value)
+2379,24,15,3466.0,Champions (high value)
+2380,19,7,893.15,Lapsed low-value
+2381,17,6,1310.95,Lapsed low-value
+2382,45,18,2598.4,Champions (high value)
+2383,84,10,2522.45,At risk (slipping)
+2384,26,14,3393.75,Champions (high value)
+2385,9,13,3127.35,Recently active
+2386,47,14,2029.75,Champions (high value)
+2387,29,13,2214.6,Champions (high value)
+2388,23,16,2960.05,Champions (high value)
+2389,125,6,1606.8,Lapsed low-value
+2390,19,15,3420.25,Champions (high value)
+2391,30,6,1130.2,Lapsed low-value
+2392,16,15,3234.8,Champions (high value)
+2393,44,10,1897.0,At risk (slipping)
+2394,2,16,2388.1,Recently active
+2395,36,15,3179.6,Champions (high value)
+2396,9,5,2037.45,Lapsed low-value
+2397,30,10,1162.35,At risk (slipping)
+2398,54,12,3080.3,Champions (high value)
+2399,37,13,2251.15,Champions (high value)
+2400,62,12,2269.25,At risk (slipping)
+2401,1,14,1681.3,Recently active
+2402,107,9,1371.6,At risk (slipping)
+2403,6,14,3300.2,Recently active
+2404,135,23,4028.5,Champions (high value)
+2405,3,11,1588.0,Recently active
+2406,82,11,1748.05,At risk (slipping)
+2407,163,12,2394.75,At risk (slipping)
+2408,28,16,3180.8,Champions (high value)
+2409,57,10,2222.65,At risk (slipping)
+2410,46,14,4092.7,Champions (high value)
+2411,8,20,2936.2,Champions (high value)
+2412,60,8,1233.95,Lapsed low-value
+2413,53,14,2841.9,Champions (high value)
+2414,1,13,3196.0,Recently active
+2415,236,10,1747.8,At risk (slipping)
+2416,11,12,1815.95,Recently active
+2417,242,9,698.4,Lapsed low-value
+2418,55,19,3850.4,Champions (high value)
+2419,34,13,3781.2,Champions (high value)
+2420,31,13,2026.45,Champions (high value)
+2421,37,8,729.95,Lapsed low-value
+2422,31,12,1987.25,At risk (slipping)
+2423,77,15,3564.4,Champions (high value)
+2424,13,8,1027.25,Lapsed low-value
+2425,8,12,1292.6,Recently active
+2426,62,8,2077.55,At risk (slipping)
+2427,2,14,3207.65,Recently active
+2428,2,13,4270.1,Recently active
+2429,16,12,1938.8,Recently active
+2430,76,11,1082.0,At risk (slipping)
+2431,65,14,2144.05,Champions (high value)
+2432,22,11,1048.25,At risk (slipping)
+2433,188,12,1807.3,At risk (slipping)
+2434,91,8,1024.6,Lapsed low-value
+2435,15,15,1798.4,Recently active
+2436,9,11,1182.65,Recently active
+2437,97,10,2168.8,At risk (slipping)
+2438,1,10,964.55,Recently active
+2439,47,10,1895.95,At risk (slipping)
+2440,40,8,695.3,Lapsed low-value
+2441,14,9,1081.1,Lapsed low-value
+2442,72,9,2234.95,At risk (slipping)
+2443,144,18,3903.8,Champions (high value)
+2444,157,10,2364.9,At risk (slipping)
+2445,5,8,770.5,Lapsed low-value
+2446,41,14,2910.15,Champions (high value)
+2447,163,8,1499.8,At risk (slipping)
+2448,11,8,1720.1,Recently active
+2449,104,12,2116.45,At risk (slipping)
+2450,2,16,2941.6,Recently active
+2451,34,11,1516.9,At risk (slipping)
+2452,133,12,1975.05,At risk (slipping)
+2453,10,9,689.0,Lapsed low-value
+2454,60,10,2931.0,At risk (slipping)
+2455,42,10,1268.1,At risk (slipping)
+2456,151,5,826.0,Lapsed low-value
+2457,14,18,4973.45,Champions (high value)
+2458,151,3,352.35,Lapsed low-value
+2459,30,13,2018.0,Champions (high value)
+2460,196,8,1419.1,Lapsed low-value
+2461,46,9,935.2,Lapsed low-value
+2462,84,12,1945.95,At risk (slipping)
+2463,75,12,4399.85,Champions (high value)
+2464,28,12,2560.9,Champions (high value)
+2465,13,13,3306.65,Champions (high value)
+2466,37,13,2694.0,Champions (high value)
+2467,49,7,1137.1,Lapsed low-value
+2468,22,17,2619.0,Champions (high value)
+2469,4,10,2339.15,Recently active
+2470,43,10,2508.9,At risk (slipping)
+2471,39,18,2290.85,Champions (high value)
+2472,41,9,2004.9,At risk (slipping)
+2473,42,13,2620.45,Champions (high value)
+2474,49,11,1932.3,At risk (slipping)
+2475,125,7,646.35,Lapsed low-value
+2476,87,8,1472.4,At risk (slipping)
+2477,45,8,1372.6,Lapsed low-value
+2478,87,10,1531.05,At risk (slipping)
+2479,5,11,1147.7,Recently active
+2480,11,12,1958.8,Recently active
+2481,25,15,2713.6,Champions (high value)
+2482,6,13,2399.75,Recently active
+2483,128,6,2615.7,At risk (slipping)
+2484,269,5,786.5,Lapsed low-value
+2485,2,13,1876.55,Recently active
+2486,7,14,2195.9,Recently active
+2487,11,9,1697.5,Recently active
+2488,84,11,1496.9,At risk (slipping)
+2489,127,9,2033.1,At risk (slipping)
+2490,39,16,2968.9,Champions (high value)
+2491,152,4,288.1,Lapsed low-value
+2492,59,16,2159.2,Champions (high value)
+2493,56,10,2097.7,At risk (slipping)
+2494,7,14,4395.8,Champions (high value)
+2495,11,12,2057.85,Recently active
+2496,17,15,2419.05,Champions (high value)
+2497,2,6,655.75,Lapsed low-value
+2498,42,9,1841.85,At risk (slipping)
+2499,94,11,2011.35,At risk (slipping)
+2500,76,9,1221.95,Lapsed low-value
+2501,17,14,2693.25,Champions (high value)
+2502,30,11,4416.85,Champions (high value)
+2503,154,7,1266.2,Lapsed low-value
+2504,50,10,2109.6,At risk (slipping)
+2505,111,9,1901.3,At risk (slipping)
+2506,50,13,3268.4,Champions (high value)
+2507,7,16,2501.85,Recently active
+2508,2,17,3051.2,Recently active
+2509,36,16,2985.4,Champions (high value)
+2510,103,12,932.7,At risk (slipping)
+2511,48,6,724.85,Lapsed low-value
+2512,38,9,769.8,Lapsed low-value
+2513,79,6,674.5,Lapsed low-value
+2514,176,10,2083.55,At risk (slipping)
+2515,92,10,1797.45,At risk (slipping)
+2516,118,9,1843.85,At risk (slipping)
+2517,39,11,1913.8,At risk (slipping)
+2518,14,11,3437.45,Champions (high value)
+2519,37,10,1396.9,At risk (slipping)
+2520,3,13,2058.8,Recently active
+2521,4,9,1869.2,Recently active
+2522,150,11,1243.9,At risk (slipping)
+2523,30,14,3409.3,Champions (high value)
+2524,47,8,1941.8,At risk (slipping)
+2525,62,13,2524.5,Champions (high value)
+2526,1,5,292.5,Lapsed low-value
+2527,21,10,2497.65,Recently active
+2528,88,9,2258.55,At risk (slipping)
+2529,29,11,1486.2,At risk (slipping)
+2530,305,8,1133.4,Lapsed low-value
+2531,24,8,899.7,Lapsed low-value
+2532,165,11,2231.3,At risk (slipping)
+2533,7,19,3792.0,Champions (high value)
+2534,249,13,2249.25,At risk (slipping)
+2535,108,11,1679.1,At risk (slipping)
+2536,84,10,2728.1,At risk (slipping)
+2537,46,12,2143.95,At risk (slipping)
+2538,69,19,4129.95,Champions (high value)
+2539,23,5,2046.3,Lapsed low-value
+2540,112,14,4289.4,Champions (high value)
+2541,142,14,2735.25,Champions (high value)
+2542,30,13,2826.95,Champions (high value)
+2543,7,14,3497.3,Champions (high value)
+2544,44,13,3540.4,Champions (high value)
+2545,21,10,1907.85,At risk (slipping)
+2546,82,12,3681.65,Champions (high value)
+2547,27,11,1597.3,At risk (slipping)
+2548,9,5,988.0,Lapsed low-value
+2549,40,12,2682.4,Champions (high value)
+2550,67,8,1388.75,Lapsed low-value
+2551,64,17,2516.15,Champions (high value)
+2552,10,10,1265.2,Recently active
+2553,87,15,2897.05,Champions (high value)
+2554,34,11,2675.4,At risk (slipping)
+2555,38,11,1287.2,At risk (slipping)
+2556,88,13,2276.35,At risk (slipping)
+2557,80,12,2110.6,At risk (slipping)
+2558,47,11,3468.8,Champions (high value)
+2559,26,14,2643.85,Champions (high value)
+2560,74,10,988.7,Lapsed low-value
+2561,42,9,1442.0,At risk (slipping)
+2562,19,23,4109.35,Champions (high value)
+2563,11,11,2256.3,Recently active
+2564,41,5,1239.8,Lapsed low-value
+2565,10,11,1463.5,Recently active
+2566,165,8,1619.95,At risk (slipping)
+2567,89,8,759.9,Lapsed low-value
+2568,27,10,949.8,Lapsed low-value
+2569,15,11,1722.95,Recently active
+2570,31,6,610.0,Lapsed low-value
+2571,34,11,1482.6,At risk (slipping)
+2572,22,15,1818.05,Champions (high value)
+2573,16,5,492.5,Lapsed low-value
+2574,19,9,558.5,Lapsed low-value
+2575,90,9,2433.2,At risk (slipping)
+2576,28,10,2230.4,At risk (slipping)
+2577,27,8,1901.55,At risk (slipping)
+2578,7,15,4009.0,Champions (high value)
+2579,24,19,4016.7,Champions (high value)
+2580,19,7,878.0,Lapsed low-value
+2581,26,15,2608.9,Champions (high value)
+2582,79,11,1694.5,At risk (slipping)
+2583,32,11,2026.8,At risk (slipping)
+2584,122,15,2890.35,Champions (high value)
+2585,121,11,2532.2,At risk (slipping)
+2586,33,13,2801.45,Champions (high value)
+2587,71,10,1983.35,At risk (slipping)
+2588,64,14,1535.1,At risk (slipping)
+2589,24,11,2119.1,At risk (slipping)
+2590,7,12,2944.65,Recently active
+2591,176,7,2111.8,At risk (slipping)
+2592,135,11,2328.65,At risk (slipping)
+2593,14,9,2082.45,Recently active
+2594,163,5,710.4,Lapsed low-value
+2595,571,2,330.0,Lapsed low-value
+2596,5,10,3345.6,Recently active
+2597,19,9,1156.4,Lapsed low-value
+2598,10,9,1491.15,Recently active
+2599,8,20,3693.3,Champions (high value)
+2600,74,12,1821.2,At risk (slipping)
+2601,19,12,3316.45,Champions (high value)
+2602,3,15,4313.15,Recently active
+2603,58,9,1851.35,At risk (slipping)
+2604,25,5,769.0,Lapsed low-value
+2605,72,16,2081.75,Champions (high value)
+2606,75,8,516.4,Lapsed low-value
+2607,40,11,2784.3,At risk (slipping)
+2608,4,10,1644.2,Recently active
+2609,11,10,2090.6,Recently active
+2610,12,7,911.25,Lapsed low-value
+2611,25,14,2052.1,Champions (high value)
+2612,26,9,1235.35,Lapsed low-value
+2613,47,9,2199.8,At risk (slipping)
+2614,57,8,1189.8,Lapsed low-value
+2615,155,8,1612.2,At risk (slipping)
+2616,35,14,1787.65,At risk (slipping)
+2617,17,11,2075.7,Recently active
+2618,120,20,3358.2,Champions (high value)
+2619,71,13,1391.0,At risk (slipping)
+2620,5,10,1077.0,Recently active
+2621,11,10,2048.5,Recently active
+2622,15,13,4228.2,Champions (high value)
+2623,49,9,1825.05,At risk (slipping)
+2624,74,13,1669.55,At risk (slipping)
+2625,75,12,3750.9,Champions (high value)
+2626,108,10,2014.3,At risk (slipping)
+2627,129,10,2143.55,At risk (slipping)
+2628,67,10,2444.55,At risk (slipping)
+2629,21,14,2566.7,Champions (high value)
+2630,165,9,942.95,Lapsed low-value
+2631,29,15,3052.75,Champions (high value)
+2632,37,12,1913.25,At risk (slipping)
+2633,42,13,2854.1,Champions (high value)
+2634,29,13,2960.7,Champions (high value)
+2635,118,12,1456.6,At risk (slipping)
+2636,66,17,2966.4,Champions (high value)
+2637,35,9,1481.3,At risk (slipping)
+2638,65,12,1921.3,At risk (slipping)
+2639,188,7,816.4,Lapsed low-value
+2640,114,10,3269.75,At risk (slipping)
+2641,52,16,6002.15,Champions (high value)
+2642,76,9,1725.0,At risk (slipping)
+2643,21,14,2700.6,Champions (high value)
+2644,30,15,2162.0,Champions (high value)
+2645,85,11,1577.55,At risk (slipping)
+2646,33,14,2224.95,Champions (high value)
+2647,10,11,1630.6,Recently active
+2648,40,18,3070.95,Champions (high value)
+2649,3,11,1773.65,Recently active
+2650,64,11,2501.9,At risk (slipping)
+2651,107,9,1688.15,At risk (slipping)
+2652,85,9,1486.6,At risk (slipping)
+2653,38,7,617.5,Lapsed low-value
+2654,30,5,920.4,Lapsed low-value
+2655,43,12,2925.7,Champions (high value)
+2656,12,11,1601.6,Recently active
+2657,161,13,2561.8,At risk (slipping)
+2658,44,11,3681.7,Champions (high value)
+2659,64,14,2810.1,Champions (high value)
+2660,58,4,287.0,Lapsed low-value
+2661,27,13,1300.8,At risk (slipping)
+2662,80,10,3401.4,At risk (slipping)
+2663,79,11,1993.7,At risk (slipping)
+2664,234,6,845.7,Lapsed low-value
+2665,2,17,2931.85,Recently active
+2666,48,11,1539.9,At risk (slipping)
+2667,85,8,851.8,Lapsed low-value
+2668,4,11,1865.35,Recently active
+2669,86,15,1803.15,At risk (slipping)
+2670,34,14,2714.6,Champions (high value)
+2671,10,13,2458.9,Recently active
+2672,98,18,2437.55,Champions (high value)
+2673,13,11,1149.55,Recently active
+2674,1,10,887.8,Recently active
+2675,54,12,2272.8,At risk (slipping)
+2676,113,14,1435.4,At risk (slipping)
+2677,1,8,2023.85,Recently active
+2678,40,9,907.8,Lapsed low-value
+2679,242,8,708.85,Lapsed low-value
+2680,31,13,2841.7,Champions (high value)
+2681,41,12,2288.55,At risk (slipping)
+2682,47,11,2566.1,At risk (slipping)
+2683,124,11,2422.2,At risk (slipping)
+2684,76,14,2265.95,Champions (high value)
+2685,155,10,2132.95,At risk (slipping)
+2686,25,12,3440.15,Champions (high value)
+2687,4,8,1726.45,Recently active
+2688,1,9,1390.9,Recently active
+2689,55,10,1626.3,At risk (slipping)
+2690,43,10,1928.0,At risk (slipping)
+2691,2,12,2214.2,Recently active
+2692,91,15,2560.95,Champions (high value)
+2693,14,11,1338.55,Recently active
+2694,281,7,661.5,Lapsed low-value
+2695,86,16,2652.25,Champions (high value)
+2696,3,10,1879.2,Recently active
+2697,144,7,1441.7,Lapsed low-value
+2698,18,10,1405.45,Recently active
+2699,80,11,3114.75,At risk (slipping)
+2700,4,10,1740.5,Recently active
+2701,28,17,3118.1,Champions (high value)
+2702,16,8,698.0,Lapsed low-value
+2703,27,12,2153.85,At risk (slipping)
+2704,4,13,2838.2,Recently active
+2705,50,8,1619.15,At risk (slipping)
+2706,138,10,2421.45,At risk (slipping)
+2707,49,8,1193.95,Lapsed low-value
+2708,11,15,2729.75,Champions (high value)
+2709,48,10,1907.75,At risk (slipping)
+2710,16,11,2075.9,Recently active
+2711,134,12,1744.55,At risk (slipping)
+2712,74,14,2609.45,Champions (high value)
+2713,58,9,1423.3,At risk (slipping)
+2714,50,13,3015.2,Champions (high value)
+2715,211,11,1872.55,At risk (slipping)
+2716,49,15,2278.25,Champions (high value)
+2717,17,12,1596.95,Recently active
+2718,232,14,2355.3,At risk (slipping)
+2719,202,8,1116.4,Lapsed low-value
+2720,37,7,621.8,Lapsed low-value
+2721,141,10,1759.2,At risk (slipping)
+2722,4,14,2758.75,Recently active
+2723,6,12,2604.1,Recently active
+2724,32,11,1044.0,At risk (slipping)
+2725,23,13,2293.85,Champions (high value)
+2726,84,13,1887.35,At risk (slipping)
+2727,51,7,990.95,Lapsed low-value
+2728,14,10,1790.9,Recently active
+2729,63,17,3371.4,Champions (high value)
+2730,9,15,3027.65,Champions (high value)
+2731,37,20,3721.4,Champions (high value)
+2732,11,10,3069.8,Recently active
+2733,123,10,2954.35,At risk (slipping)
+2734,28,9,1007.9,Lapsed low-value
+2735,38,13,2364.45,Champions (high value)
+2736,30,13,2187.45,Champions (high value)
+2737,57,7,697.5,Lapsed low-value
+2738,50,14,2239.15,Champions (high value)
+2739,43,11,2491.15,At risk (slipping)
+2740,9,8,1020.4,Lapsed low-value
+2741,28,12,1333.3,At risk (slipping)
+2742,4,12,2536.3,Recently active
+2743,109,10,1819.2,At risk (slipping)
+2744,14,20,3509.2,Champions (high value)
+2745,74,11,1530.2,At risk (slipping)
+2746,71,10,1461.7,At risk (slipping)
+2747,63,15,3940.7,Champions (high value)
+2748,14,13,995.1,Recently active
+2749,2,13,2395.6,Recently active
+2750,18,16,2459.0,Champions (high value)
+2751,139,13,2474.1,At risk (slipping)
+2752,17,12,2428.6,Recently active
+2753,86,15,3409.1,Champions (high value)
+2754,20,12,1962.5,Recently active
+2755,124,13,1464.05,At risk (slipping)
+2756,65,11,1340.2,At risk (slipping)
+2757,4,10,1732.95,Recently active
+2758,8,13,1962.95,Recently active
+2759,1,15,3450.4,Recently active
+2760,55,11,1340.7,At risk (slipping)
+2761,58,7,1914.0,At risk (slipping)
+2762,183,9,2641.8,At risk (slipping)
+2763,103,8,1085.8,Lapsed low-value
+2764,25,12,2584.9,Champions (high value)
+2765,41,12,1779.0,At risk (slipping)
+2766,102,8,1913.8,At risk (slipping)
+2767,42,10,1698.6,At risk (slipping)
+2768,238,9,1191.0,Lapsed low-value
+2769,64,13,2385.7,Champions (high value)
+2770,114,7,1622.9,Lapsed low-value
+2771,44,8,2599.55,At risk (slipping)
+2772,71,18,2918.5,Champions (high value)
+2773,18,13,2855.6,Champions (high value)
+2774,50,10,2251.45,At risk (slipping)
+2775,1,14,3539.8,Recently active
+2776,30,10,1653.45,At risk (slipping)
+2777,31,10,3667.6,Champions (high value)
+2778,120,8,2005.25,At risk (slipping)
+2779,93,12,2396.3,At risk (slipping)
+2780,81,14,3154.0,Champions (high value)
+2781,238,10,1811.4,At risk (slipping)
+2782,3,10,2617.9,Recently active
+2783,59,14,3049.35,Champions (high value)
+2784,42,14,3494.7,Champions (high value)
+2785,20,12,2142.4,Recently active
+2786,55,9,1625.75,At risk (slipping)
+2787,78,15,3932.4,Champions (high value)
+2788,187,10,1997.4,At risk (slipping)
+2789,107,9,3186.9,At risk (slipping)
+2790,110,8,1153.15,Lapsed low-value
+2791,29,19,5274.25,Champions (high value)
+2792,165,8,879.3,Lapsed low-value
+2793,40,13,2855.2,Champions (high value)
+2794,98,9,1062.35,Lapsed low-value
+2795,20,7,855.75,Lapsed low-value
+2796,63,13,2066.6,At risk (slipping)
+2797,28,14,3332.4,Champions (high value)
+2798,43,14,2194.7,Champions (high value)
+2799,61,15,1910.85,Champions (high value)
+2800,34,10,1956.5,At risk (slipping)
+2801,87,8,2105.3,At risk (slipping)
+2802,130,7,2136.15,At risk (slipping)
+2803,81,9,1452.95,At risk (slipping)
+2804,50,8,593.7,Lapsed low-value
+2805,192,11,1790.4,At risk (slipping)
+2806,99,11,1500.5,At risk (slipping)
+2807,163,8,1232.55,Lapsed low-value
+2808,39,7,688.0,Lapsed low-value
+2809,9,8,1148.0,Recently active
+2810,134,10,1684.6,At risk (slipping)
+2811,76,10,1166.75,At risk (slipping)
+2812,63,9,2440.5,At risk (slipping)
+2813,46,13,3222.9,Champions (high value)
+2814,49,10,1480.05,At risk (slipping)
+2815,2,7,1551.8,Recently active
+2816,5,17,1823.55,Recently active
+2817,34,17,4594.05,Champions (high value)
+2818,88,5,1706.0,Lapsed low-value
+2819,4,15,3461.65,Recently active
+2820,104,12,2389.3,At risk (slipping)
+2821,46,6,1446.5,Lapsed low-value
+2822,41,11,1658.3,At risk (slipping)
+2823,28,14,1636.0,At risk (slipping)
+2824,32,17,4615.1,Champions (high value)
+2825,15,15,3255.7,Champions (high value)
+2826,37,14,1286.0,At risk (slipping)
+2827,119,12,3815.1,Champions (high value)
+2828,34,8,914.3,Lapsed low-value
+2829,67,13,2668.35,Champions (high value)
+2830,17,9,3512.85,Recently active
+2831,124,15,2094.7,At risk (slipping)
+2832,57,12,2144.95,At risk (slipping)
+2833,4,13,2790.05,Recently active
+2834,23,9,893.7,Lapsed low-value
+2835,78,11,1594.4,At risk (slipping)
+2836,90,7,735.2,Lapsed low-value
+2837,38,11,2239.4,At risk (slipping)
+2838,27,17,2922.5,Champions (high value)
+2839,38,14,3902.7,Champions (high value)
+2840,8,14,1832.2,Recently active
+2841,42,13,2976.7,Champions (high value)
+2842,40,8,843.05,Lapsed low-value
+2843,100,5,1449.0,Lapsed low-value
+2844,43,16,3364.3,Champions (high value)
+2845,342,4,547.05,Lapsed low-value
+2846,96,13,2686.75,Champions (high value)
+2847,36,13,2664.85,Champions (high value)
+2848,60,10,2139.05,At risk (slipping)
+2849,26,13,2475.65,Champions (high value)
+2850,24,12,2926.0,Champions (high value)
+2851,46,9,1335.2,At risk (slipping)
+2852,3,16,2646.15,Recently active
+2853,124,8,1398.5,Lapsed low-value
+2854,5,12,2590.6,Recently active
+2855,156,9,2181.6,At risk (slipping)
+2856,1,11,2176.5,Recently active
+2857,128,9,1296.7,At risk (slipping)
+2858,40,20,2429.4,Champions (high value)
+2859,62,12,1414.35,At risk (slipping)
+2860,177,11,1071.6,At risk (slipping)
+2861,9,9,1301.45,Recently active
+2862,21,14,2047.55,Champions (high value)
+2863,10,10,861.7,Recently active
+2864,112,10,1636.8,At risk (slipping)
+2865,15,14,2698.6,Champions (high value)
+2866,25,15,1489.5,Champions (high value)
+2867,16,10,1694.65,Recently active
+2868,56,16,2748.8,Champions (high value)
+2869,88,13,2861.05,Champions (high value)
+2870,97,9,1696.35,At risk (slipping)
+2871,71,11,2122.3,At risk (slipping)
+2872,25,9,2094.45,At risk (slipping)
+2873,145,10,1615.4,At risk (slipping)
+2874,78,10,2154.1,At risk (slipping)
+2875,13,12,2298.7,Recently active
+2876,85,10,2037.1,At risk (slipping)
+2877,50,21,4783.6,Champions (high value)
+2878,25,13,4897.9,Champions (high value)
+2879,11,14,2776.5,Champions (high value)
+2880,130,17,3696.85,Champions (high value)
+2881,77,12,1902.3,At risk (slipping)
+2882,108,9,1219.1,Lapsed low-value
+2883,22,9,1454.25,At risk (slipping)
+2884,24,10,3434.1,Champions (high value)
+2885,24,6,904.0,Lapsed low-value
+2886,8,16,2517.2,Champions (high value)
+2887,90,16,1817.0,Champions (high value)
+2888,9,19,3242.25,Champions (high value)
+2889,135,12,2003.05,At risk (slipping)
+2890,95,8,1048.75,Lapsed low-value
+2891,2,10,1454.0,Recently active
+2892,2,10,2096.0,Recently active
+2893,70,10,1722.5,At risk (slipping)
+2894,71,10,1439.7,At risk (slipping)
+2895,2,22,3771.95,Champions (high value)
+2896,2,15,2386.3,Recently active
+2897,8,16,3598.25,Champions (high value)
+2898,108,5,1470.0,Lapsed low-value
+2899,34,11,2575.25,At risk (slipping)
+2900,41,19,3761.3,Champions (high value)
+2901,93,15,2786.7,Champions (high value)
+2902,270,7,1596.7,Lapsed low-value
+2903,75,13,2348.55,At risk (slipping)
+2904,165,8,1038.9,Lapsed low-value
+2905,39,10,2473.8,At risk (slipping)
+2906,1,11,1432.95,Recently active
+2907,86,6,1481.55,Lapsed low-value
+2908,16,16,2289.0,Champions (high value)
+2909,74,8,1192.35,Lapsed low-value
+2910,186,9,1536.5,At risk (slipping)
+2911,4,10,1356.95,Recently active
+2912,25,14,2803.65,Champions (high value)
+2913,27,10,1862.45,At risk (slipping)
+2914,118,13,2658.85,At risk (slipping)
+2915,124,15,2900.3,Champions (high value)
+2916,16,13,2506.65,Champions (high value)
+2917,56,10,1478.1,At risk (slipping)
+2918,31,8,1200.4,Lapsed low-value
+2919,33,9,1656.05,At risk (slipping)
+2920,84,8,2036.55,At risk (slipping)
+2921,87,14,3436.9,Champions (high value)
+2922,38,9,1756.45,At risk (slipping)
+2923,70,12,2568.6,At risk (slipping)
+2924,10,16,4084.55,Champions (high value)
+2925,104,8,1126.55,Lapsed low-value
+2926,73,12,3319.15,Champions (high value)
+2927,21,10,1333.6,At risk (slipping)
+2928,99,13,1806.8,At risk (slipping)
+2929,49,10,2544.15,At risk (slipping)
+2930,27,16,2730.4,Champions (high value)
+2931,217,10,2148.9,At risk (slipping)
+2932,15,8,1097.1,Lapsed low-value
+2933,29,15,1679.1,Champions (high value)
+2934,33,11,1423.15,At risk (slipping)
+2935,42,13,1761.6,At risk (slipping)
+2936,23,10,2040.65,At risk (slipping)
+2937,54,11,2762.85,At risk (slipping)
+2938,27,11,1787.7,At risk (slipping)
+2939,17,9,2174.1,Recently active
+2940,64,13,2519.45,Champions (high value)
+2941,309,10,2759.95,At risk (slipping)
+2942,93,12,2112.4,At risk (slipping)
+2943,23,14,1585.35,Recently active
+2944,358,10,1284.45,At risk (slipping)
+2945,115,7,1243.5,Lapsed low-value
+2946,7,11,4918.65,Champions (high value)
+2947,1,11,1747.75,Recently active
+2948,11,11,3106.0,Recently active
+2949,102,11,2075.2,At risk (slipping)
+2950,21,13,2220.2,Champions (high value)
+2951,66,11,2111.95,At risk (slipping)
+2952,44,7,1623.3,Lapsed low-value
+2953,96,13,3749.35,Champions (high value)
+2954,71,8,1176.85,Lapsed low-value
+2955,76,15,1196.75,At risk (slipping)
+2956,25,11,2688.8,Champions (high value)
+2957,137,9,2270.75,At risk (slipping)
+2958,93,9,2215.7,At risk (slipping)
+2959,105,10,2203.25,At risk (slipping)
+2960,7,12,1983.1,Recently active
+2961,16,16,3102.95,Champions (high value)
+2962,9,11,2142.05,Recently active
+2963,146,12,1112.35,At risk (slipping)
+2964,21,11,867.3,Lapsed low-value
+2965,7,15,2556.0,Recently active
+2966,75,11,1936.25,At risk (slipping)
+2967,20,12,1936.5,Recently active
+2968,44,10,1642.05,At risk (slipping)
+2969,152,15,3008.8,Champions (high value)
+2970,34,11,1703.05,At risk (slipping)
+2971,172,7,1583.55,Lapsed low-value
+2972,20,7,901.6,Lapsed low-value
+2973,180,7,640.3,Lapsed low-value
+2974,160,11,2484.1,At risk (slipping)
+2975,81,8,1590.85,At risk (slipping)
+2976,7,11,940.0,Recently active
+2977,12,12,1825.95,Recently active
+2978,19,18,2835.65,Champions (high value)
+2979,6,9,1221.45,Recently active
+2980,72,15,1518.45,At risk (slipping)
+2981,22,10,1539.85,At risk (slipping)
+2982,19,14,3668.4,Champions (high value)
+2983,88,18,4638.25,Champions (high value)
+2984,32,18,4064.65,Champions (high value)
+2985,8,13,2364.65,Recently active
+2986,39,16,2243.5,Champions (high value)
+2987,32,10,1438.1,At risk (slipping)
+2988,12,13,2939.15,Champions (high value)
+2989,96,12,1138.9,At risk (slipping)
+2990,45,14,3151.3,Champions (high value)
+2991,71,6,1869.05,Lapsed low-value
+2992,103,14,2755.35,Champions (high value)
+2993,11,14,2002.8,Recently active
+2994,1,11,2048.6,Recently active
+2995,11,10,1984.45,Recently active
+2996,68,11,1779.5,At risk (slipping)
+2997,49,10,2476.5,At risk (slipping)
+2998,40,14,1557.25,At risk (slipping)
+2999,91,10,1411.75,At risk (slipping)
+3000,56,10,2374.65,At risk (slipping)
+3001,9,13,1828.9,Recently active
+3002,143,11,2485.25,At risk (slipping)
+3003,7,13,3022.6,Recently active
+3004,3,15,2463.9,Recently active
+3005,24,13,1951.25,Champions (high value)
+3006,84,11,1637.4,At risk (slipping)
+3007,47,9,1941.7,At risk (slipping)
+3008,25,10,2409.2,At risk (slipping)
+3009,115,9,1735.3,At risk (slipping)
+3010,85,8,807.2,Lapsed low-value
+3011,95,11,1555.0,At risk (slipping)
+3012,41,11,2219.7,At risk (slipping)
+3013,1,18,2185.7,Recently active
+3014,74,11,1742.55,At risk (slipping)
+3015,1,15,3134.45,Recently active
+3016,6,11,2841.85,Recently active
+3017,255,7,678.9,Lapsed low-value
+3018,165,7,693.6,Lapsed low-value
+3019,36,10,2105.0,At risk (slipping)
+3020,24,17,2993.2,Champions (high value)
+3021,156,15,1607.5,At risk (slipping)
+3022,9,14,2149.1,Recently active
+3023,74,8,1778.5,At risk (slipping)
+3024,9,13,2544.95,Recently active
+3025,71,15,2185.5,Champions (high value)
+3026,31,8,1311.1,Lapsed low-value
+3027,33,10,1744.9,At risk (slipping)
+3028,20,11,2465.1,Recently active
+3029,33,18,3938.7,Champions (high value)
+3030,15,8,1025.45,Lapsed low-value
+3031,14,10,1613.7,Recently active
+3032,20,13,2296.1,Champions (high value)
+3033,137,13,1337.4,At risk (slipping)
+3034,91,12,3325.45,Champions (high value)
+3035,81,18,3318.6,Champions (high value)
+3036,44,8,1648.2,At risk (slipping)
+3037,97,11,2611.55,At risk (slipping)
+3038,1,18,2321.75,Recently active
+3039,38,14,2914.2,Champions (high value)
+3040,11,8,643.85,Lapsed low-value
+3041,74,11,2170.75,At risk (slipping)
+3042,21,15,2808.9,Champions (high value)
+3043,62,11,3028.85,At risk (slipping)
+3044,129,9,906.0,Lapsed low-value
+3045,15,8,680.45,Lapsed low-value
+3046,151,9,2714.9,At risk (slipping)
+3047,9,12,2637.5,Recently active
+3048,54,13,2192.65,At risk (slipping)
+3049,38,12,2437.3,Champions (high value)
+3050,95,11,1610.0,At risk (slipping)
+3051,6,13,2908.75,Recently active
+3052,3,14,5670.55,Champions (high value)
+3053,118,9,2555.65,At risk (slipping)
+3054,25,17,3217.0,Champions (high value)
+3055,59,8,870.75,Lapsed low-value
+3056,20,12,1125.65,Recently active
+3057,64,15,2244.55,Champions (high value)
+3058,6,12,3174.15,Recently active
+3059,25,11,2054.6,At risk (slipping)
+3060,167,13,1692.3,At risk (slipping)
+3061,124,18,3989.2,Champions (high value)
+3062,151,6,1178.5,Lapsed low-value
+3063,144,11,2041.15,At risk (slipping)
+3064,1,11,3379.25,Recently active
+3065,48,15,2155.95,Champions (high value)
+3066,163,9,1514.2,At risk (slipping)
+3067,77,16,3438.55,Champions (high value)
+3068,12,12,2063.75,Recently active
+3069,83,11,2078.35,At risk (slipping)
+3070,61,10,1187.3,At risk (slipping)
+3071,42,12,3244.05,Champions (high value)
+3072,118,14,1942.75,At risk (slipping)
+3073,4,15,2932.9,Recently active
+3074,31,9,1850.1,At risk (slipping)
+3075,2,11,1947.25,Recently active
+3076,39,18,4060.5,Champions (high value)
+3077,35,12,3514.2,Champions (high value)
+3078,11,9,1929.1,Recently active
+3079,229,10,1833.4,At risk (slipping)
+3080,50,16,2898.45,Champions (high value)
+3081,23,10,1530.0,At risk (slipping)
+3082,6,7,1793.5,Recently active
+3083,83,13,1613.7,At risk (slipping)
+3084,78,13,1558.5,At risk (slipping)
+3085,5,13,3524.05,Recently active
+3086,20,13,1556.85,Recently active
+3087,67,10,3410.2,At risk (slipping)
+3088,92,13,2718.7,Champions (high value)
+3089,296,10,1898.8,At risk (slipping)
+3090,25,9,933.25,Lapsed low-value
+3091,28,10,1280.7,At risk (slipping)
+3092,11,12,1963.3,Recently active
+3093,57,12,2936.85,Champions (high value)
+3094,3,9,1218.0,Recently active
+3095,61,12,1941.3,At risk (slipping)
+3096,106,8,626.65,Lapsed low-value
+3097,46,11,1347.7,At risk (slipping)
+3098,65,9,1475.8,At risk (slipping)
+3099,128,7,934.4,Lapsed low-value
+3100,158,9,1932.65,At risk (slipping)
+3101,84,8,2424.9,At risk (slipping)
+3102,41,12,1412.45,At risk (slipping)
+3103,23,10,975.55,Lapsed low-value
+3104,52,9,1331.25,At risk (slipping)
+3105,19,11,2255.9,Recently active
+3106,99,12,1941.25,At risk (slipping)
+3107,1,8,890.8,Recently active
+3108,189,10,2179.7,At risk (slipping)
+3109,4,14,2455.55,Recently active
+3110,119,10,1745.0,At risk (slipping)
+3111,1,12,1910.35,Recently active
+3112,155,14,2208.4,At risk (slipping)
+3113,79,12,1970.55,At risk (slipping)
+3114,66,7,1393.55,Lapsed low-value
+3115,54,15,2765.65,Champions (high value)
+3116,4,12,2261.9,Recently active
+3117,137,6,1597.0,Lapsed low-value
+3118,1,15,1996.9,Recently active
+3119,8,12,1640.55,Recently active
+3120,72,8,1789.25,At risk (slipping)
+3121,3,14,3690.7,Recently active
+3122,77,5,771.0,Lapsed low-value
+3123,30,18,4830.15,Champions (high value)
+3124,9,11,1845.3,Recently active
+3125,50,10,1897.2,At risk (slipping)
+3126,10,13,2159.5,Recently active
+3127,292,8,1133.55,Lapsed low-value
+3128,104,9,2760.05,At risk (slipping)
+3129,86,9,2040.0,At risk (slipping)
+3130,57,13,3235.5,Champions (high value)
+3131,16,14,3573.75,Champions (high value)
+3132,87,6,856.5,Lapsed low-value
+3133,24,8,773.9,Lapsed low-value
+3134,33,10,2702.4,At risk (slipping)
+3135,19,9,1918.75,Recently active
+3136,15,13,2399.9,Champions (high value)
+3137,38,13,2099.15,Champions (high value)
+3138,30,12,2646.1,Champions (high value)
+3139,61,10,1625.2,At risk (slipping)
+3140,3,17,2232.35,Recently active
+3141,5,12,1571.1,Recently active
+3142,100,9,985.9,Lapsed low-value
+3143,117,11,1921.2,At risk (slipping)
+3144,30,6,1202.85,Lapsed low-value
+3145,14,17,5012.55,Champions (high value)
+3146,24,14,3742.05,Champions (high value)
+3147,16,9,1267.5,Recently active
+3148,146,9,1583.2,At risk (slipping)
+3149,52,19,3684.55,Champions (high value)
+3150,15,8,1606.6,Recently active
+3151,61,11,2705.4,At risk (slipping)
+3152,123,10,1917.2,At risk (slipping)
+3153,9,13,1682.55,Recently active
+3154,158,6,1482.4,Lapsed low-value
+3155,144,14,2205.95,At risk (slipping)
+3156,13,6,549.2,Lapsed low-value
+3157,219,7,853.4,Lapsed low-value
+3158,28,13,2140.9,Champions (high value)
+3159,4,12,2885.55,Recently active
+3160,1,13,4204.4,Recently active
+3161,79,12,1599.4,At risk (slipping)
+3162,30,10,2917.85,At risk (slipping)
+3163,113,12,3533.0,Champions (high value)
+3164,31,9,2569.4,At risk (slipping)
+3165,36,16,3428.5,Champions (high value)
+3166,8,14,2899.95,Recently active
+3167,10,14,2810.9,Champions (high value)
+3168,32,14,3336.75,Champions (high value)
+3169,117,12,3020.0,At risk (slipping)
+3170,26,7,721.9,Lapsed low-value
+3171,12,12,1867.65,Recently active
+3172,43,11,1706.0,At risk (slipping)
+3173,28,11,2592.65,Champions (high value)
+3174,31,15,3587.85,Champions (high value)
+3175,85,6,410.15,Lapsed low-value
+3176,56,15,3535.8,Champions (high value)
+3177,31,13,2893.6,Champions (high value)
+3178,35,16,2000.45,Champions (high value)
+3179,146,11,1630.0,At risk (slipping)
+3180,101,10,2207.05,At risk (slipping)
+3181,192,10,1198.4,At risk (slipping)
+3182,93,9,1545.05,At risk (slipping)
+3183,19,9,1796.0,Recently active
+3184,5,9,2193.3,Recently active
+3185,60,8,2315.0,At risk (slipping)
+3186,40,14,1943.25,Champions (high value)
+3187,19,15,3979.5,Champions (high value)
+3188,8,19,3777.65,Champions (high value)
+3189,4,11,2075.25,Recently active
+3190,59,13,1976.6,At risk (slipping)
+3191,116,9,1102.05,Lapsed low-value
+3192,16,12,3826.1,Champions (high value)
+3193,5,9,1887.25,Recently active
+3194,20,9,1142.45,Lapsed low-value
+3195,8,8,2197.15,Recently active
+3196,92,8,1317.9,Lapsed low-value
+3197,25,12,2597.95,Champions (high value)
+3198,74,14,2131.65,At risk (slipping)
+3199,77,17,2435.15,Champions (high value)
+3200,105,10,1096.6,At risk (slipping)
+3201,23,11,1901.05,At risk (slipping)
+3202,265,7,1652.35,Lapsed low-value
+3203,151,10,1999.1,At risk (slipping)
+3204,49,15,3307.9,Champions (high value)
+3205,4,14,1838.3,Recently active
+3206,46,13,3032.0,Champions (high value)
+3207,10,6,746.95,Lapsed low-value
+3208,343,11,2080.0,At risk (slipping)
+3209,63,12,3113.0,Champions (high value)
+3210,79,11,1794.75,At risk (slipping)
+3211,42,12,2245.15,At risk (slipping)
+3212,14,9,957.5,Lapsed low-value
+3213,41,7,1634.35,Lapsed low-value
+3214,21,18,3936.55,Champions (high value)
+3215,178,16,2764.95,Champions (high value)
+3216,81,9,1532.65,At risk (slipping)
+3217,89,11,1413.4,At risk (slipping)
+3218,4,11,2882.75,Recently active
+3219,65,8,1290.1,Lapsed low-value
+3220,45,9,1464.1,At risk (slipping)
+3221,280,8,1507.0,At risk (slipping)
+3222,15,18,4123.3,Champions (high value)
+3223,18,14,1917.3,Champions (high value)
+3224,1,9,1857.2,Recently active
+3225,32,10,2906.6,At risk (slipping)
+3226,58,12,2366.9,At risk (slipping)
+3227,120,8,687.0,Lapsed low-value
+3228,123,14,2711.45,Champions (high value)
+3229,56,9,1070.8,Lapsed low-value
+3230,21,13,1168.55,Recently active
+3231,6,11,2241.15,Recently active
+3232,3,12,1075.85,Recently active
+3233,11,10,1939.9,Recently active
+3234,14,12,1985.9,Recently active
+3235,177,15,2249.75,At risk (slipping)
+3236,252,8,1996.3,At risk (slipping)
+3237,22,10,1802.6,At risk (slipping)
+3238,36,11,2868.45,Champions (high value)
+3239,30,6,969.3,Lapsed low-value
+3240,322,7,1173.2,Lapsed low-value
+3241,31,12,1924.3,At risk (slipping)
+3242,123,14,2375.4,At risk (slipping)
+3243,7,12,1587.3,Recently active
+3244,32,19,3397.1,Champions (high value)
+3245,66,14,2250.45,Champions (high value)
+3246,145,10,2412.95,At risk (slipping)
+3247,202,12,2420.95,At risk (slipping)
+3248,3,12,1663.65,Recently active
+3249,77,8,1731.7,At risk (slipping)
+3250,13,14,1884.5,Recently active
+3251,255,15,1831.7,At risk (slipping)
+3252,186,14,2594.4,At risk (slipping)
+3253,23,10,1501.0,At risk (slipping)
+3254,4,16,3253.65,Recently active
+3255,11,14,3987.95,Champions (high value)
+3256,12,13,2100.85,Recently active
+3257,1,15,2261.75,Recently active
+3258,166,12,3342.15,At risk (slipping)
+3259,128,10,1227.2,At risk (slipping)
+3260,18,14,2444.75,Champions (high value)
+3261,79,7,1249.5,Lapsed low-value
+3262,33,15,2541.15,Champions (high value)
+3263,8,14,2874.3,Recently active
+3264,33,9,1640.2,At risk (slipping)
+3265,24,11,1444.45,At risk (slipping)
+3266,12,10,2114.55,Recently active
+3267,134,15,3340.6,Champions (high value)
+3268,1,10,935.95,Recently active
+3269,134,9,1192.7,Lapsed low-value
+3270,35,7,862.85,Lapsed low-value
+3271,19,6,509.85,Lapsed low-value
+3272,329,9,1107.0,Lapsed low-value
+3273,39,15,1653.55,Champions (high value)
+3274,314,8,1127.0,Lapsed low-value
+3275,79,9,1220.0,Lapsed low-value
+3276,45,8,1933.8,At risk (slipping)
+3277,67,17,2961.8,Champions (high value)
+3278,170,8,1308.9,Lapsed low-value
+3279,45,13,1567.95,At risk (slipping)
+3280,11,18,4029.15,Champions (high value)
+3281,23,9,1557.35,At risk (slipping)
+3282,71,8,1774.6,At risk (slipping)
+3283,142,11,1554.85,At risk (slipping)
+3284,12,13,3173.4,Champions (high value)
+3285,187,11,1160.05,At risk (slipping)
+3286,1,17,3797.3,Recently active
+3287,65,6,1314.35,Lapsed low-value
+3288,77,12,1881.15,At risk (slipping)
+3289,13,13,1508.6,Recently active
+3290,66,15,2726.15,Champions (high value)
+3291,120,3,255.6,Lapsed low-value
+3292,72,10,1693.1,At risk (slipping)
+3293,40,5,558.5,Lapsed low-value
+3294,2,13,2208.05,Recently active
+3295,20,16,4838.95,Champions (high value)
+3296,43,7,1591.5,Lapsed low-value
+3297,83,13,2209.05,At risk (slipping)
+3298,105,11,1882.75,At risk (slipping)
+3299,94,12,2803.6,At risk (slipping)
+3300,22,10,1275.4,At risk (slipping)
+3301,116,21,2870.6,Champions (high value)
+3302,9,6,879.7,Lapsed low-value
+3303,234,5,466.0,Lapsed low-value
+3304,84,12,3398.85,Champions (high value)
+3305,3,9,1290.05,Recently active
+3306,59,7,1430.0,Lapsed low-value
+3307,64,8,1688.5,At risk (slipping)
+3308,140,11,2472.8,At risk (slipping)
+3309,25,12,2430.1,Champions (high value)
+3310,134,13,3834.4,Champions (high value)
+3311,9,10,1581.4,Recently active
+3312,7,11,974.9,Recently active
+3313,24,14,2593.65,Champions (high value)
+3314,23,7,1404.8,Lapsed low-value
+3315,76,10,1437.6,At risk (slipping)
+3316,48,14,3613.25,Champions (high value)
+3317,19,8,2048.3,Recently active
+3318,77,16,3655.75,Champions (high value)
+3319,27,12,1703.3,At risk (slipping)
+3320,62,9,1982.15,At risk (slipping)
+3321,54,16,2607.45,Champions (high value)
+3322,58,14,1353.15,At risk (slipping)
+3323,25,6,1225.8,Lapsed low-value
+3324,35,10,2675.0,At risk (slipping)
+3325,67,8,991.1,Lapsed low-value
+3326,104,11,1703.1,At risk (slipping)
+3327,2,8,1789.1,Recently active
+3328,98,7,1685.1,Lapsed low-value
+3329,197,9,795.05,Lapsed low-value
+3330,14,20,2670.95,Champions (high value)
+3331,92,14,2942.6,Champions (high value)
+3332,77,13,3291.6,Champions (high value)
+3333,24,7,1981.95,At risk (slipping)
+3334,38,13,2219.45,Champions (high value)
+3335,11,12,1874.65,Recently active
+3336,32,17,3768.15,Champions (high value)
+3337,117,10,2578.2,At risk (slipping)
+3338,313,5,1002.45,Lapsed low-value
+3339,1,12,2267.9,Recently active
+3340,52,11,1797.85,At risk (slipping)
+3341,12,7,694.1,Lapsed low-value
+3342,4,10,1888.3,Recently active
+3343,32,16,2946.5,Champions (high value)
+3344,61,10,1418.2,At risk (slipping)
+3345,63,12,1451.5,At risk (slipping)
+3346,3,10,1541.0,Recently active
+3347,22,10,1884.05,At risk (slipping)
+3348,34,14,1892.9,Champions (high value)
+3349,180,7,1392.05,Lapsed low-value
+3350,30,13,1897.0,At risk (slipping)
+3351,33,14,2329.3,Champions (high value)
+3352,8,9,1665.3,Recently active
+3353,22,14,2179.25,Champions (high value)
+3354,43,9,1528.95,At risk (slipping)
+3355,2,6,1118.0,Recently active
+3356,73,12,2243.95,At risk (slipping)
+3357,64,5,446.05,Lapsed low-value
+3358,30,11,2829.1,Champions (high value)
+3359,10,9,2124.8,Recently active
+3360,9,11,3018.45,Recently active
+3361,21,9,1320.4,At risk (slipping)
+3362,63,8,2566.35,At risk (slipping)
+3363,242,11,2668.6,At risk (slipping)
+3364,120,11,3524.8,At risk (slipping)
+3365,16,11,1486.7,Recently active
+3366,82,12,2804.5,At risk (slipping)
+3367,148,9,1572.95,At risk (slipping)
+3368,29,10,901.55,Lapsed low-value
+3369,19,10,2065.05,Recently active
+3370,333,9,1588.35,At risk (slipping)
+3371,108,10,2258.75,At risk (slipping)
+3372,107,13,2368.9,At risk (slipping)
+3373,56,7,2055.3,At risk (slipping)
+3374,88,16,3878.8,Champions (high value)
+3375,62,10,1802.5,At risk (slipping)
+3376,27,16,4206.35,Champions (high value)
+3377,16,8,1048.9,Lapsed low-value
+3378,52,14,1882.6,At risk (slipping)
+3379,115,5,1174.5,Lapsed low-value
+3380,27,7,539.65,Lapsed low-value
+3381,46,6,1503.75,Lapsed low-value
+3382,91,13,1681.75,At risk (slipping)
+3383,1,14,4833.6,Recently active
+3384,69,6,1284.8,Lapsed low-value
+3385,215,11,1570.6,At risk (slipping)
+3386,5,9,1061.15,Recently active
+3387,14,10,1544.05,Recently active
+3388,382,9,1728.7,At risk (slipping)
+3389,76,12,3196.65,Champions (high value)
+3390,68,6,839.0,Lapsed low-value
+3391,45,15,2722.45,Champions (high value)
+3392,100,14,2149.6,At risk (slipping)
+3393,68,9,1414.0,At risk (slipping)
+3394,60,12,4115.3,Champions (high value)
+3395,1,18,1785.95,Recently active
+3396,19,12,1132.0,Recently active
+3397,73,13,1956.6,At risk (slipping)
+3398,36,6,1230.0,Lapsed low-value
+3399,49,16,2416.1,Champions (high value)
+3400,73,11,2249.6,At risk (slipping)
+3401,133,10,1522.0,At risk (slipping)
+3402,115,9,2467.3,At risk (slipping)
+3403,27,13,1677.0,At risk (slipping)
+3404,66,9,1058.15,Lapsed low-value
+3405,13,11,1680.2,Recently active
+3406,141,9,2250.55,At risk (slipping)
+3407,119,13,1786.5,At risk (slipping)
+3408,31,11,1655.7,At risk (slipping)
+3409,48,13,2207.2,Champions (high value)
+3410,3,12,1491.1,Recently active
+3411,100,6,1062.5,Lapsed low-value
+3412,1,12,2366.75,Recently active
+3413,89,13,2427.0,At risk (slipping)
+3414,2,14,2642.0,Recently active
+3415,163,7,1127.5,Lapsed low-value
+3416,1,13,2713.0,Recently active
+3417,2,8,1310.0,Recently active
+3418,24,10,2359.4,At risk (slipping)
+3419,89,14,3329.4,Champions (high value)
+3420,10,11,2071.6,Recently active
+3421,16,10,2065.05,Recently active
+3422,17,15,1963.7,Champions (high value)
+3423,70,11,2027.75,At risk (slipping)
+3424,42,5,738.05,Lapsed low-value
+3425,143,17,3377.5,Champions (high value)
+3426,95,12,3159.9,Champions (high value)
+3427,13,10,1722.0,Recently active
+3428,141,12,2176.55,At risk (slipping)
+3429,97,9,1789.85,At risk (slipping)
+3430,6,19,3398.8,Champions (high value)
+3431,39,10,1445.2,At risk (slipping)
+3432,100,14,3376.55,Champions (high value)
+3433,69,10,1565.2,At risk (slipping)
+3434,80,7,3386.55,At risk (slipping)
+3435,106,15,2869.75,Champions (high value)
+3436,66,16,5022.9,Champions (high value)
+3437,1,7,1102.55,Recently active
+3438,21,18,3435.85,Champions (high value)
+3439,2,14,1875.2,Recently active
+3440,25,23,4110.45,Champions (high value)
+3441,7,10,2851.6,Recently active
+3442,4,11,2230.45,Recently active
+3443,185,7,768.5,Lapsed low-value
+3444,45,7,2482.1,At risk (slipping)
+3445,1,15,2681.0,Recently active
+3446,175,10,2283.5,At risk (slipping)
+3447,10,13,1711.05,Recently active
+3448,27,15,3331.25,Champions (high value)
+3449,9,8,1479.75,Recently active
+3450,96,14,2393.9,Champions (high value)
+3451,138,17,4789.7,Champions (high value)
+3452,17,9,1657.75,Recently active
+3453,75,9,2886.55,At risk (slipping)
+3454,23,12,1535.4,At risk (slipping)
+3455,24,10,2008.95,At risk (slipping)
+3456,63,8,1823.1,At risk (slipping)
+3457,42,17,3451.25,Champions (high value)
+3458,94,13,2403.3,At risk (slipping)
+3459,95,11,1929.6,At risk (slipping)
+3460,11,14,1881.05,Recently active
+3461,48,16,1908.4,Champions (high value)
+3462,14,10,1613.2,Recently active
+3463,306,9,1598.3,At risk (slipping)
+3464,46,10,2124.1,At risk (slipping)
+3465,35,14,2241.4,Champions (high value)
+3466,49,12,1845.65,At risk (slipping)
+3467,162,12,1978.1,At risk (slipping)
+3468,71,11,1437.2,At risk (slipping)
+3469,135,15,2046.4,At risk (slipping)
+3470,28,11,1300.95,At risk (slipping)
+3471,191,13,2471.1,At risk (slipping)
+3472,31,13,4944.95,Champions (high value)
+3473,50,14,4091.8,Champions (high value)
+3474,84,6,760.8,Lapsed low-value
+3475,78,13,1710.4,At risk (slipping)
+3476,31,12,2146.8,At risk (slipping)
+3477,45,15,2897.8,Champions (high value)
+3478,16,8,3107.6,Recently active
+3479,41,13,2587.25,Champions (high value)
+3480,11,10,2665.2,Recently active
+3481,68,14,2980.7,Champions (high value)
+3482,86,8,671.95,Lapsed low-value
+3483,12,12,3392.45,Champions (high value)
+3484,38,13,1558.5,At risk (slipping)
+3485,178,9,1066.5,Lapsed low-value
+3486,22,17,2763.4,Champions (high value)
+3487,30,16,2691.3,Champions (high value)
+3488,1,13,1949.3,Recently active
+3489,2,13,2181.95,Recently active
+3490,224,5,1028.15,Lapsed low-value
+3491,47,13,2235.75,Champions (high value)
+3492,12,11,2032.55,Recently active
+3493,61,13,4026.2,Champions (high value)
+3494,40,8,1346.85,Lapsed low-value
+3495,63,12,1842.25,At risk (slipping)
+3496,21,19,4380.7,Champions (high value)
+3497,10,10,1759.55,Recently active
+3498,49,9,1456.45,At risk (slipping)
+3499,23,12,3809.4,Champions (high value)
+3500,47,13,2505.25,Champions (high value)
+3501,47,11,1760.9,At risk (slipping)
+3502,71,17,2902.6,Champions (high value)
+3503,119,6,1273.15,Lapsed low-value
+3504,229,8,1650.85,At risk (slipping)
+3505,96,16,3193.45,Champions (high value)
+3506,3,10,1645.85,Recently active
+3507,3,13,3110.9,Recently active
+3508,4,8,1975.0,Recently active
+3509,55,17,5425.7,Champions (high value)
+3510,177,13,3122.15,Champions (high value)
+3511,36,13,2351.75,Champions (high value)
+3512,76,12,3774.35,Champions (high value)
+3513,10,12,2090.65,Recently active
+3514,13,12,1472.35,Recently active
+3515,34,14,1985.9,Champions (high value)
+3516,31,10,1509.05,At risk (slipping)
+3517,30,14,2118.7,Champions (high value)
+3518,1,11,1650.1,Recently active
+3519,94,7,716.95,Lapsed low-value
+3520,73,23,3944.8,Champions (high value)
+3521,8,10,1076.8,Recently active
+3522,108,8,1044.0,Lapsed low-value
+3523,46,12,2294.9,At risk (slipping)
+3524,1,12,1427.15,Recently active
+3525,63,15,2406.15,Champions (high value)
+3526,17,15,3688.0,Champions (high value)
+3527,29,13,2085.25,Champions (high value)
+3528,55,12,1484.85,At risk (slipping)
+3529,4,7,254.35,Lapsed low-value
+3530,103,10,1714.6,At risk (slipping)
+3531,151,10,2584.65,At risk (slipping)
+3532,27,19,3766.3,Champions (high value)
+3533,14,9,2034.3,Recently active
+3534,29,10,3088.4,Champions (high value)
+3535,88,16,4093.25,Champions (high value)
+3536,38,17,3256.05,Champions (high value)
+3537,5,11,1836.2,Recently active
+3538,11,12,2150.45,Recently active
+3539,157,12,1287.8,At risk (slipping)
+3540,355,11,1887.5,At risk (slipping)
+3541,35,11,2019.55,At risk (slipping)
+3542,65,14,2766.4,Champions (high value)
+3543,15,16,2145.0,Champions (high value)
+3544,64,12,1922.3,At risk (slipping)
+3545,95,10,1151.8,At risk (slipping)
+3546,16,7,1478.4,Lapsed low-value
+3547,232,7,2032.3,At risk (slipping)
+3548,93,9,1844.2,At risk (slipping)
+3549,5,11,2646.0,Recently active
+3550,117,10,1412.35,At risk (slipping)
+3551,18,11,1227.0,Recently active
+3552,57,14,3213.3,Champions (high value)
+3553,3,9,1449.2,Recently active
+3554,200,6,1739.0,Lapsed low-value
+3555,67,8,1710.5,At risk (slipping)
+3556,52,9,2365.45,At risk (slipping)
+3557,229,7,2005.2,At risk (slipping)
+3558,54,21,3533.05,Champions (high value)
+3559,60,10,1997.3,At risk (slipping)
+3560,28,12,1465.5,At risk (slipping)
+3561,14,11,1782.5,Recently active
+3562,5,19,3490.5,Champions (high value)
+3563,1,8,1685.2,Recently active
+3564,99,7,1149.6,Lapsed low-value
+3565,62,10,1832.3,At risk (slipping)
+3566,125,5,773.15,Lapsed low-value
+3567,26,11,2293.45,At risk (slipping)
+3568,28,11,2149.0,At risk (slipping)
+3569,9,12,2701.6,Recently active
+3570,68,10,2383.3,At risk (slipping)
+3571,40,13,4357.4,Champions (high value)
+3572,75,11,2272.5,At risk (slipping)
+3573,258,9,882.45,Lapsed low-value
+3574,94,10,1487.6,At risk (slipping)
+3575,75,10,2394.25,At risk (slipping)
+3576,35,11,1543.05,At risk (slipping)
+3577,18,14,4245.25,Champions (high value)
+3578,33,8,1408.9,Lapsed low-value
+3579,18,12,2873.1,Champions (high value)
+3580,4,16,2095.05,Recently active
+3581,29,13,1525.25,At risk (slipping)
+3582,38,13,2095.05,Champions (high value)
+3583,1,8,994.7,Recently active
+3584,108,8,1788.35,At risk (slipping)
+3585,18,14,3087.75,Champions (high value)
+3586,15,15,2784.65,Champions (high value)
+3587,1,16,2761.4,Recently active
+3588,46,14,1711.2,At risk (slipping)
+3589,92,8,2111.95,At risk (slipping)
+3590,257,9,954.8,Lapsed low-value
+3591,45,10,2577.4,At risk (slipping)
+3592,197,10,953.8,Lapsed low-value
+3593,32,11,1038.0,At risk (slipping)
+3594,26,15,1838.5,Champions (high value)
+3595,34,8,1824.45,At risk (slipping)
+3596,82,9,2266.2,At risk (slipping)
+3597,22,12,1877.15,Recently active
+3598,51,15,1835.2,Champions (high value)
+3599,88,12,2192.0,At risk (slipping)
+3600,103,14,2145.1,At risk (slipping)
+3601,59,9,1545.3,At risk (slipping)
+3602,65,9,1347.35,At risk (slipping)
+3603,26,10,875.9,Lapsed low-value
+3604,73,10,2742.15,At risk (slipping)
+3605,23,13,2154.9,Champions (high value)
+3606,5,11,1903.4,Recently active
+3607,187,8,1136.6,Lapsed low-value
+3608,43,6,2072.8,Lapsed low-value
+3609,56,13,2208.7,At risk (slipping)
+3610,6,12,2606.9,Recently active
+3611,75,9,1395.4,At risk (slipping)
+3612,279,10,1529.7,At risk (slipping)
+3613,28,7,753.65,Lapsed low-value
+3614,19,8,1197.3,Lapsed low-value
+3615,32,12,1786.1,At risk (slipping)
+3616,19,13,1460.5,Recently active
+3617,47,13,3221.75,Champions (high value)
+3618,147,15,2356.75,Champions (high value)
+3619,42,16,2244.55,Champions (high value)
+3620,34,12,2429.35,Champions (high value)
+3621,32,12,2070.65,At risk (slipping)
+3622,30,14,2231.8,Champions (high value)
+3623,17,10,494.6,Lapsed low-value
+3624,85,10,2141.4,At risk (slipping)
+3625,8,16,3359.55,Champions (high value)
+3626,45,12,2641.95,Champions (high value)
+3627,55,10,2766.65,At risk (slipping)
+3628,16,11,1625.8,Recently active
+3629,183,9,1474.1,At risk (slipping)
+3630,3,12,2192.75,Recently active
+3631,29,13,1698.65,At risk (slipping)
+3632,123,6,1861.75,Lapsed low-value
+3633,11,11,2674.0,Recently active
+3634,9,7,1530.45,Recently active
+3635,136,13,2405.2,At risk (slipping)
+3636,42,10,1788.65,At risk (slipping)
+3637,16,15,2385.5,Champions (high value)
+3638,252,8,867.5,Lapsed low-value
+3639,50,7,961.65,Lapsed low-value
+3640,2,19,2647.3,Recently active
+3641,21,19,6242.25,Champions (high value)
+3642,89,11,2632.2,At risk (slipping)
+3643,31,12,1636.5,At risk (slipping)
+3644,10,12,1411.2,Recently active
+3645,7,8,2177.65,Recently active
+3646,54,12,2142.45,At risk (slipping)
+3647,31,16,2382.05,Champions (high value)
+3648,13,9,859.1,Lapsed low-value
+3649,20,12,2762.2,Champions (high value)
+3650,52,13,2455.8,Champions (high value)
+3651,9,13,1907.3,Recently active
+3652,6,17,4158.1,Champions (high value)
+3653,12,15,5150.2,Champions (high value)
+3654,45,13,1800.35,At risk (slipping)
+3655,58,11,2453.6,At risk (slipping)
+3656,42,14,2163.6,Champions (high value)
+3657,63,12,1159.0,At risk (slipping)
+3658,122,7,1222.1,Lapsed low-value
+3659,18,13,3527.55,Champions (high value)
+3660,18,12,1566.7,Recently active
+3661,25,10,3287.9,Champions (high value)
+3662,50,7,1175.2,Lapsed low-value
+3663,88,11,2744.05,At risk (slipping)
+3664,55,13,2072.0,At risk (slipping)
+3665,89,15,5287.55,Champions (high value)
+3666,12,9,970.2,Lapsed low-value
+3667,97,4,551.15,Lapsed low-value
+3668,11,15,1569.9,Recently active
+3669,121,11,2017.65,At risk (slipping)
+3670,1,8,1679.35,Recently active
+3671,40,12,1424.25,At risk (slipping)
+3672,29,15,2757.25,Champions (high value)
+3673,23,14,2386.5,Champions (high value)
+3674,15,16,3089.35,Champions (high value)
+3675,65,12,1851.25,At risk (slipping)
+3676,68,12,2869.55,Champions (high value)
+3677,14,17,3123.2,Champions (high value)
+3678,86,14,2346.5,Champions (high value)
+3679,1,16,3268.0,Recently active
+3680,58,9,1644.55,At risk (slipping)
+3681,338,9,2071.65,At risk (slipping)
+3682,35,11,2572.15,At risk (slipping)
+3683,66,11,1407.2,At risk (slipping)
+3684,91,9,1960.5,At risk (slipping)
+3685,1,11,2558.75,Recently active
+3686,11,18,1940.1,Champions (high value)
+3687,108,14,3910.4,Champions (high value)
+3688,83,13,2369.85,At risk (slipping)
+3689,45,11,1920.95,At risk (slipping)
+3690,24,12,2360.15,Champions (high value)
+3691,39,13,2042.25,At risk (slipping)
+3692,63,5,379.0,Lapsed low-value
+3693,81,9,1110.75,Lapsed low-value
+3694,13,13,1740.0,Recently active
+3695,18,13,1596.4,Recently active
+3696,326,10,1514.25,At risk (slipping)
+3697,317,5,950.0,Lapsed low-value
+3698,17,11,2111.2,Recently active
+3699,128,11,1363.75,At risk (slipping)
+3700,123,11,2561.1,At risk (slipping)
+3701,5,9,1115.6,Recently active
+3702,7,16,2487.9,Recently active
+3703,28,12,1501.25,At risk (slipping)
+3704,3,9,536.0,Recently active
+3705,25,18,3799.4,Champions (high value)
+3706,7,14,2770.1,Recently active
+3707,11,13,2271.05,Recently active
+3708,10,15,3013.2,Champions (high value)
+3709,9,10,2240.8,Recently active
+3710,13,10,1632.4,Recently active
+3711,68,14,2232.65,Champions (high value)
+3712,2,9,2871.75,Recently active
+3713,14,13,2968.1,Champions (high value)
+3714,42,13,1703.75,At risk (slipping)
+3715,59,10,1188.1,At risk (slipping)
+3716,25,16,4235.75,Champions (high value)
+3717,34,17,2074.55,Champions (high value)
+3718,1,7,1685.9,Recently active
+3719,41,12,2197.0,At risk (slipping)
+3720,23,9,1484.7,At risk (slipping)
+3721,78,7,872.25,Lapsed low-value
+3722,190,9,2240.15,At risk (slipping)
+3723,63,16,3458.65,Champions (high value)
+3724,311,4,1135.55,Lapsed low-value
+3725,9,13,1924.8,Recently active
+3726,110,6,1176.95,Lapsed low-value
+3727,103,13,2857.6,Champions (high value)
+3728,19,10,1232.5,Recently active
+3729,1,5,1017.35,Recently active
+3730,76,11,4954.1,Champions (high value)
+3731,9,16,3391.1,Champions (high value)
+3732,50,11,1352.55,At risk (slipping)
+3733,84,12,990.45,At risk (slipping)
+3734,44,16,2970.65,Champions (high value)
+3735,60,11,2098.25,At risk (slipping)
+3736,11,13,2863.25,Champions (high value)
+3737,99,16,1966.5,Champions (high value)
+3738,42,10,2167.4,At risk (slipping)
+3739,117,12,2298.2,At risk (slipping)
+3740,31,7,1529.9,Lapsed low-value
+3741,10,18,4978.85,Champions (high value)
+3742,70,7,2029.05,At risk (slipping)
+3743,56,9,1110.8,Lapsed low-value
+3744,82,14,2075.9,At risk (slipping)
+3745,13,13,2451.7,Recently active
+3746,9,16,1854.25,Recently active
+3747,145,11,1560.7,At risk (slipping)
+3748,8,16,2675.5,Champions (high value)
+3749,56,7,1505.2,Lapsed low-value
+3750,1,7,990.9,Recently active
+3751,83,9,2281.35,At risk (slipping)
+3752,51,10,1775.95,At risk (slipping)
+3753,46,12,2726.1,Champions (high value)
+3754,46,11,837.3,Lapsed low-value
+3755,27,10,1620.7,At risk (slipping)
+3756,32,16,2471.3,Champions (high value)
+3757,134,9,777.75,Lapsed low-value
+3758,54,11,1461.9,At risk (slipping)
+3759,27,8,655.3,Lapsed low-value
+3760,194,8,1148.25,Lapsed low-value
+3761,10,14,2045.2,Recently active
+3762,210,12,1589.0,At risk (slipping)
+3763,49,10,1577.4,At risk (slipping)
+3764,36,7,1210.6,Lapsed low-value
+3765,89,6,1514.9,Lapsed low-value
+3766,12,12,1205.7,Recently active
+3767,29,14,1727.0,Champions (high value)
+3768,83,14,1792.4,At risk (slipping)
+3769,27,13,1600.35,At risk (slipping)
+3770,147,6,1217.35,Lapsed low-value
+3771,107,10,2203.4,At risk (slipping)
+3772,43,10,2284.3,At risk (slipping)
+3773,9,10,2016.9,Recently active
+3774,53,6,2242.0,At risk (slipping)
+3775,19,9,2391.1,Recently active
+3776,32,6,1814.0,Lapsed low-value
+3777,12,13,2172.05,Recently active
+3778,52,9,2875.65,At risk (slipping)
+3779,2,19,4998.25,Champions (high value)
+3780,8,10,4709.7,Recently active
+3781,1,22,2641.95,Recently active
+3782,199,9,1698.9,At risk (slipping)
+3783,2,9,1187.25,Recently active
+3784,204,10,1286.25,At risk (slipping)
+3785,6,16,3616.5,Champions (high value)
+3786,38,13,1765.35,At risk (slipping)
+3787,80,11,1965.4,At risk (slipping)
+3788,183,10,1295.55,At risk (slipping)
+3789,146,12,1703.35,At risk (slipping)
+3790,24,15,2322.6,Champions (high value)
+3791,66,13,2329.05,At risk (slipping)
+3792,92,15,2096.25,Champions (high value)
+3793,67,15,2275.85,Champions (high value)
+3794,320,15,3338.9,Champions (high value)
+3795,56,16,3130.5,Champions (high value)
+3796,121,11,1831.7,At risk (slipping)
+3797,11,14,2303.4,Recently active
+3798,66,12,2047.5,At risk (slipping)
+3799,110,15,3407.0,Champions (high value)
+3800,21,12,1621.2,Recently active
+3801,8,19,2304.9,Champions (high value)
+3802,53,10,2921.7,At risk (slipping)
+3803,119,10,1996.95,At risk (slipping)
+3804,90,10,1417.7,At risk (slipping)
+3805,25,12,1694.55,At risk (slipping)
+3806,64,9,1436.7,At risk (slipping)
+3807,90,15,1813.0,At risk (slipping)
+3808,148,9,1825.9,At risk (slipping)
+3809,527,4,302.0,Lapsed low-value
+3810,13,11,1717.0,Recently active
+3811,8,8,905.05,Lapsed low-value
+3812,62,14,2275.15,Champions (high value)
+3813,42,10,3501.9,Champions (high value)
+3814,114,8,1125.0,Lapsed low-value
+3815,7,9,877.8,Recently active
+3816,48,7,1188.4,Lapsed low-value
+3817,6,9,891.05,Recently active
+3818,214,6,1783.95,Lapsed low-value
+3819,30,8,2238.05,At risk (slipping)
+3820,59,8,1268.35,Lapsed low-value
+3821,9,14,3339.0,Champions (high value)
+3822,15,12,2242.0,Recently active
+3823,41,13,1676.95,At risk (slipping)
+3824,178,5,408.45,Lapsed low-value
+3825,70,12,2558.2,At risk (slipping)
+3826,3,12,1680.45,Recently active
+3827,96,8,1500.0,At risk (slipping)
+3828,8,17,3146.65,Champions (high value)
+3829,103,9,1665.2,At risk (slipping)
+3830,109,7,952.9,Lapsed low-value
+3831,103,16,3495.45,Champions (high value)
+3832,71,9,979.0,Lapsed low-value
+3833,15,11,2291.0,Recently active
+3834,20,13,2262.2,Champions (high value)
+3835,48,12,1851.25,At risk (slipping)
+3836,9,6,2153.0,Recently active
+3837,28,11,2765.65,Champions (high value)
+3838,115,12,2362.35,At risk (slipping)
+3839,80,10,1668.0,At risk (slipping)
+3840,81,11,3102.95,At risk (slipping)
+3841,22,16,1903.7,Champions (high value)
+3842,44,10,2266.2,At risk (slipping)
+3843,25,9,3176.9,At risk (slipping)
+3844,232,6,1531.45,Lapsed low-value
+3845,7,13,1882.55,Recently active
+3846,43,15,2213.85,Champions (high value)
+3847,28,11,2369.3,At risk (slipping)
+3848,17,9,3093.35,Recently active
+3849,14,8,1118.25,Lapsed low-value
+3850,65,12,2794.8,Champions (high value)
+3851,1,8,920.0,Recently active
+3852,138,20,2490.65,Champions (high value)
+3853,16,19,4223.35,Champions (high value)
+3854,227,10,1821.95,At risk (slipping)
+3855,83,11,1408.3,At risk (slipping)
+3856,128,7,808.45,Lapsed low-value
+3857,23,9,984.2,Lapsed low-value
+3858,24,8,2207.4,At risk (slipping)
+3859,30,14,3065.1,Champions (high value)
+3860,3,18,2523.35,Recently active
+3861,38,7,678.0,Lapsed low-value
+3862,185,8,1487.75,At risk (slipping)
+3863,202,5,480.8,Lapsed low-value
+3864,39,18,3161.85,Champions (high value)
+3865,23,12,1453.3,At risk (slipping)
+3866,14,9,1429.1,Recently active
+3867,108,10,2073.8,At risk (slipping)
+3868,63,9,1835.85,At risk (slipping)
+3869,158,13,2152.15,At risk (slipping)
+3870,45,11,773.6,Lapsed low-value
+3871,14,15,2980.2,Champions (high value)
+3872,51,11,1948.85,At risk (slipping)
+3873,13,15,1729.45,Recently active
+3874,90,5,581.5,Lapsed low-value
+3875,98,15,2880.1,Champions (high value)
+3876,9,17,3563.1,Champions (high value)
+3877,9,13,2868.6,Recently active
+3878,86,14,1672.95,At risk (slipping)
+3879,6,16,2570.5,Recently active
+3880,8,14,3390.7,Champions (high value)
+3881,8,8,478.4,Lapsed low-value
+3882,73,12,4096.55,Champions (high value)
+3883,212,7,732.5,Lapsed low-value
+3884,35,18,3751.8,Champions (high value)
+3885,111,6,495.0,Lapsed low-value
+3886,118,13,2815.4,Champions (high value)
+3887,56,16,2833.15,Champions (high value)
+3888,71,9,2991.05,At risk (slipping)
+3889,78,14,1920.4,At risk (slipping)
+3890,69,15,3257.2,Champions (high value)
+3891,134,8,1935.05,At risk (slipping)
+3892,67,16,2953.65,Champions (high value)
+3893,108,11,1564.45,At risk (slipping)
+3894,28,14,2292.2,Champions (high value)
+3895,105,10,3500.9,At risk (slipping)
+3896,122,12,1985.65,At risk (slipping)
+3897,211,8,2875.6,At risk (slipping)
+3898,59,6,1397.5,Lapsed low-value
+3899,195,14,2581.25,At risk (slipping)
+3900,93,6,590.35,Lapsed low-value
+3901,26,18,5361.8,Champions (high value)
+3902,213,11,1510.7,At risk (slipping)
+3903,22,13,2465.95,Champions (high value)
+3904,168,7,1093.6,Lapsed low-value
+3905,120,8,1264.9,Lapsed low-value
+3906,51,11,1407.65,At risk (slipping)
+3907,30,10,1832.85,At risk (slipping)
+3908,56,16,2603.45,Champions (high value)
+3909,10,9,2280.35,Recently active
+3910,19,9,2413.9,Recently active
+3911,32,15,3659.9,Champions (high value)
+3912,37,9,1195.75,Lapsed low-value
+3913,57,11,1312.9,At risk (slipping)
+3914,217,12,1231.4,At risk (slipping)
+3915,59,7,1129.45,Lapsed low-value
+3916,14,12,2376.05,Recently active
+3917,12,10,1922.5,Recently active
+3918,27,18,3145.1,Champions (high value)
+3919,15,7,760.1,Lapsed low-value
+3920,1,11,1855.3,Recently active
+3921,44,8,1298.85,Lapsed low-value
+3922,22,10,1335.2,At risk (slipping)
+3923,107,10,1714.65,At risk (slipping)
+3924,304,4,976.25,Lapsed low-value
+3925,50,11,1449.95,At risk (slipping)
+3926,30,9,1075.65,Lapsed low-value
+3927,44,18,3900.05,Champions (high value)
+3928,1,11,3373.45,Recently active
+3929,51,17,2626.7,Champions (high value)
+3930,5,13,1773.95,Recently active
+3931,8,12,2771.1,Recently active
+3932,69,10,2619.7,At risk (slipping)
+3933,26,9,839.85,Lapsed low-value
+3934,103,12,1957.7,At risk (slipping)
+3935,11,11,2137.8,Recently active
+3936,13,11,1932.05,Recently active
+3937,46,5,710.0,Lapsed low-value
+3938,52,15,3559.35,Champions (high value)
+3939,33,11,2149.55,At risk (slipping)
+3940,35,14,3777.25,Champions (high value)
+3941,213,12,2883.3,At risk (slipping)
+3942,30,9,1776.7,At risk (slipping)
+3943,31,15,3339.7,Champions (high value)
+3944,104,12,1500.0,At risk (slipping)
+3945,15,3,440.6,Lapsed low-value
+3946,118,10,1489.55,At risk (slipping)
+3947,5,16,2613.3,Recently active
+3948,52,19,2927.05,Champions (high value)
+3949,2,17,2249.6,Recently active
+3950,27,17,1796.05,Champions (high value)
+3951,5,13,2954.95,Recently active
+3952,118,6,1357.15,Lapsed low-value
+3953,22,14,1376.55,Recently active
+3954,24,6,1934.85,Lapsed low-value
+3955,46,17,3707.55,Champions (high value)
+3956,32,12,717.15,Lapsed low-value
+3957,47,11,2494.2,At risk (slipping)
+3958,1,6,1309.9,Recently active
+3959,69,14,1652.5,At risk (slipping)
+3960,175,12,2485.05,At risk (slipping)
+3961,33,8,1921.0,At risk (slipping)
+3962,116,8,1420.45,Lapsed low-value
+3963,6,11,2119.25,Recently active
+3964,62,9,1445.7,At risk (slipping)
+3965,76,6,859.4,Lapsed low-value
+3966,150,10,1353.65,At risk (slipping)
+3967,133,11,2844.05,At risk (slipping)
+3968,132,6,1034.7,Lapsed low-value
+3969,16,17,2656.8,Champions (high value)
+3970,138,7,1862.3,At risk (slipping)
+3971,39,12,3216.5,Champions (high value)
+3972,200,15,1967.0,At risk (slipping)
+3973,64,11,1020.25,At risk (slipping)
+3974,61,17,3917.95,Champions (high value)
+3975,43,7,1456.4,Lapsed low-value
+3976,11,18,3419.25,Champions (high value)
+3977,53,15,3867.55,Champions (high value)
+3978,57,11,2187.45,At risk (slipping)
+3979,39,10,1070.5,Lapsed low-value
+3980,10,11,2372.35,Recently active
+3981,13,17,2046.1,Champions (high value)
+3982,20,11,4362.25,Champions (high value)
+3983,10,13,2126.15,Recently active
+3984,33,7,1113.55,Lapsed low-value
+3985,72,11,2802.45,At risk (slipping)
+3986,53,16,3674.85,Champions (high value)
+3987,190,12,2138.5,At risk (slipping)
+3988,63,18,2939.6,Champions (high value)
+3989,19,9,1466.2,Recently active
+3990,100,8,1033.65,Lapsed low-value
+3991,64,15,3412.65,Champions (high value)
+3992,49,16,3131.85,Champions (high value)
+3993,17,12,2465.5,Champions (high value)
+3994,116,13,1682.3,At risk (slipping)
+3995,329,7,840.6,Lapsed low-value
+3996,185,9,1362.95,At risk (slipping)
+3997,62,12,1584.35,At risk (slipping)
+3998,71,17,3719.0,Champions (high value)
+3999,174,7,654.75,Lapsed low-value
+4000,47,9,1260.4,At risk (slipping)
+4001,31,11,1929.45,At risk (slipping)
+4002,286,8,1678.4,At risk (slipping)
+4003,38,10,1624.45,At risk (slipping)
+4004,41,9,2889.8,At risk (slipping)
+4005,51,8,1037.95,Lapsed low-value
+4006,29,12,1126.5,At risk (slipping)
+4007,159,6,2212.65,At risk (slipping)
+4008,45,12,2727.6,Champions (high value)
+4009,58,12,2014.95,At risk (slipping)
+4010,2,12,1929.35,Recently active
+4011,13,9,1616.8,Recently active
+4012,49,13,2686.6,Champions (high value)
+4013,81,13,1519.4,At risk (slipping)
+4014,67,11,1447.1,At risk (slipping)
+4015,124,12,2358.9,At risk (slipping)
+4016,77,14,2420.45,Champions (high value)
+4017,28,10,1721.5,At risk (slipping)
+4018,28,8,935.15,Lapsed low-value
+4019,19,12,2058.7,Recently active
+4020,47,12,2937.3,Champions (high value)
+4021,241,8,855.7,Lapsed low-value
+4022,302,11,1796.3,At risk (slipping)
+4023,42,9,1201.95,Lapsed low-value
+4024,79,17,2825.1,Champions (high value)
+4025,25,9,1501.7,At risk (slipping)
+4026,1,9,2089.8,Recently active
+4027,24,20,3649.05,Champions (high value)
+4028,203,13,2940.8,At risk (slipping)
+4029,41,15,3376.2,Champions (high value)
+4030,107,15,2830.25,Champions (high value)
+4031,26,10,1938.7,At risk (slipping)
+4032,208,10,3092.0,At risk (slipping)
+4033,71,23,3397.75,Champions (high value)
+4034,49,15,2028.35,Champions (high value)
+4035,61,13,4123.4,Champions (high value)
+4036,53,12,3617.35,Champions (high value)
+4037,73,7,2373.85,At risk (slipping)
+4038,17,11,2045.3,Recently active
+4039,95,6,845.25,Lapsed low-value
+4040,53,13,1294.8,At risk (slipping)
+4041,29,12,1915.4,At risk (slipping)
+4042,102,12,1097.5,At risk (slipping)
+4043,233,9,1065.25,Lapsed low-value
+4044,1,12,1911.6,Recently active
+4045,87,13,2771.4,Champions (high value)
+4046,28,11,3051.6,Champions (high value)
+4047,36,12,4544.45,Champions (high value)
+4048,174,12,2665.6,At risk (slipping)
+4049,42,6,825.6,Lapsed low-value
+4050,84,18,3255.85,Champions (high value)
+4051,1,16,2593.7,Recently active
+4052,19,11,1165.8,Recently active
+4053,6,13,1990.7,Recently active
+4054,122,15,3478.4,Champions (high value)
+4055,99,13,2314.35,At risk (slipping)
+4056,27,12,2505.6,Champions (high value)
+4057,20,10,1340.25,Recently active
+4058,187,10,4014.15,At risk (slipping)
+4059,15,19,5313.8,Champions (high value)
+4060,52,12,2092.95,At risk (slipping)
+4061,187,8,1460.55,At risk (slipping)
+4062,261,13,2630.7,At risk (slipping)
+4063,119,11,2183.05,At risk (slipping)
+4064,92,11,2081.05,At risk (slipping)
+4065,7,13,3138.85,Recently active
+4066,74,14,3075.1,Champions (high value)
+4067,165,6,2064.95,Lapsed low-value
+4068,50,13,2636.8,Champions (high value)
+4069,6,10,1074.2,Recently active
+4070,58,10,2308.3,At risk (slipping)
+4071,5,12,1827.15,Recently active
+4072,73,11,1649.2,At risk (slipping)
+4073,199,9,1524.7,At risk (slipping)
+4074,112,9,779.6,Lapsed low-value
+4075,28,8,1257.0,Lapsed low-value
+4076,21,11,1379.7,At risk (slipping)
+4077,26,10,2548.8,At risk (slipping)
+4078,17,13,2442.15,Champions (high value)
+4079,7,7,1436.45,Recently active
+4080,143,10,1308.85,At risk (slipping)
+4081,81,11,1532.0,At risk (slipping)
+4082,162,16,1748.95,At risk (slipping)
+4083,74,10,1957.6,At risk (slipping)
+4084,27,9,1907.8,At risk (slipping)
+4085,95,10,1514.85,At risk (slipping)
+4086,36,11,1953.65,At risk (slipping)
+4087,1,12,2517.3,Recently active
+4088,70,14,2270.0,Champions (high value)
+4089,85,13,2814.1,Champions (high value)
+4090,20,14,2980.65,Champions (high value)
+4091,281,5,834.0,Lapsed low-value
+4092,164,10,2360.45,At risk (slipping)
+4093,3,16,3431.8,Recently active
+4094,201,9,998.65,Lapsed low-value
+4095,10,12,2302.55,Recently active
+4096,23,13,3085.2,Champions (high value)
+4097,19,9,2033.3,Recently active
+4098,30,9,1079.0,Lapsed low-value
+4099,33,15,2944.2,Champions (high value)
+4100,235,10,1389.1,At risk (slipping)
+4101,44,16,3275.3,Champions (high value)
+4102,167,13,2391.75,At risk (slipping)
+4103,81,9,2001.4,At risk (slipping)
+4104,29,12,1908.45,At risk (slipping)
+4105,19,7,1328.65,Lapsed low-value
+4106,34,11,3152.9,Champions (high value)
+4107,51,15,1975.55,Champions (high value)
+4108,87,10,2082.45,At risk (slipping)
+4109,21,8,1761.55,At risk (slipping)
+4110,19,9,1301.25,Recently active
+4111,10,17,4592.5,Champions (high value)
+4112,31,18,2730.7,Champions (high value)
+4113,17,19,3306.7,Champions (high value)
+4114,35,10,2663.25,At risk (slipping)
+4115,57,18,2829.7,Champions (high value)
+4116,82,8,1692.55,At risk (slipping)
+4117,6,14,2240.2,Recently active
+4118,44,12,1726.1,At risk (slipping)
+4119,4,8,1331.3,Recently active
+4120,10,11,2034.8,Recently active
+4121,56,12,2729.65,Champions (high value)
+4122,133,9,2957.55,At risk (slipping)
+4123,121,7,1507.25,Lapsed low-value
+4124,25,12,2782.35,Champions (high value)
+4125,112,9,1418.0,At risk (slipping)
+4126,19,11,1207.15,Recently active
+4127,129,8,1558.7,At risk (slipping)
+4128,121,8,1249.1,Lapsed low-value
+4129,58,7,1590.1,Lapsed low-value
+4130,26,5,1305.0,Lapsed low-value
+4131,58,13,2919.8,Champions (high value)
+4132,67,13,1761.85,At risk (slipping)
+4133,59,10,2268.3,At risk (slipping)
+4134,29,13,1608.1,At risk (slipping)
+4135,23,12,1929.7,At risk (slipping)
+4136,86,12,1895.55,At risk (slipping)
+4137,70,10,1374.4,At risk (slipping)
+4138,39,10,3595.75,Champions (high value)
+4139,94,11,3295.1,At risk (slipping)
+4140,150,14,2181.75,At risk (slipping)
+4141,29,18,5212.65,Champions (high value)
+4142,197,9,2816.05,At risk (slipping)
+4143,44,11,1354.5,At risk (slipping)
+4144,49,10,1214.1,At risk (slipping)
+4145,57,7,970.5,Lapsed low-value
+4146,187,9,2408.6,At risk (slipping)
+4147,66,17,2544.9,Champions (high value)
+4148,11,16,3386.45,Champions (high value)
+4149,48,11,2959.95,Champions (high value)
+4150,18,15,1774.6,Champions (high value)
+4151,159,6,1026.1,Lapsed low-value
+4152,5,15,2252.3,Recently active
+4153,88,11,2660.75,At risk (slipping)
+4154,62,10,1061.55,Lapsed low-value
+4155,13,14,2843.1,Champions (high value)
+4156,116,5,833.9,Lapsed low-value
+4157,37,17,4034.5,Champions (high value)
+4158,12,10,2147.65,Recently active
+4159,64,9,2117.35,At risk (slipping)
+4160,173,8,579.05,Lapsed low-value
+4161,14,13,2025.7,Recently active
+4162,109,10,2005.75,At risk (slipping)
+4163,51,14,2184.15,Champions (high value)
+4164,62,13,2986.8,Champions (high value)
+4165,57,15,2610.5,Champions (high value)
+4166,21,13,2907.45,Champions (high value)
+4167,4,15,1687.9,Recently active
+4168,38,6,1522.5,Lapsed low-value
+4169,111,12,1491.6,At risk (slipping)
+4170,169,8,2041.7,At risk (slipping)
+4171,41,11,1925.9,At risk (slipping)
+4172,141,10,1025.75,Lapsed low-value
+4173,44,5,712.0,Lapsed low-value
+4174,103,10,1209.9,At risk (slipping)
+4175,31,10,1716.5,At risk (slipping)
+4176,73,8,818.45,Lapsed low-value
+4177,4,14,2107.35,Recently active
+4178,79,14,2355.55,Champions (high value)
+4179,11,11,3794.85,Champions (high value)
+4180,112,9,2129.8,At risk (slipping)
+4181,24,12,3742.4,Champions (high value)
+4182,68,12,2918.3,Champions (high value)
+4183,26,14,1948.65,Champions (high value)
+4184,35,11,2625.05,At risk (slipping)
+4185,37,10,3007.0,At risk (slipping)
+4186,28,10,2036.7,At risk (slipping)
+4187,78,17,2505.4,Champions (high value)
+4188,51,11,1367.45,At risk (slipping)
+4189,104,10,2138.75,At risk (slipping)
+4190,17,8,2459.35,Recently active
+4191,30,14,2820.0,Champions (high value)
+4192,130,14,2901.3,Champions (high value)
+4193,29,12,1942.1,At risk (slipping)
+4194,53,12,2651.8,Champions (high value)
+4195,69,12,3361.6,Champions (high value)
+4196,106,10,1482.5,At risk (slipping)
+4197,99,12,1929.25,At risk (slipping)
+4198,38,21,4050.1,Champions (high value)
+4199,147,12,3257.25,At risk (slipping)
+4200,14,14,2182.1,Recently active
+4201,1,7,1645.65,Recently active
+4202,5,16,3993.1,Champions (high value)
+4203,36,11,2594.2,At risk (slipping)
+4204,229,7,1461.25,Lapsed low-value
+4205,56,12,1856.7,At risk (slipping)
+4206,52,7,889.65,Lapsed low-value
+4207,34,7,2123.6,At risk (slipping)
+4208,55,15,3049.35,Champions (high value)
+4209,1,10,1152.65,Recently active
+4210,113,14,2128.1,At risk (slipping)
+4211,22,11,2685.95,Champions (high value)
+4212,104,11,2855.7,At risk (slipping)
+4213,9,11,3109.4,Recently active
+4214,37,8,1591.9,At risk (slipping)
+4215,73,17,2849.2,Champions (high value)
+4216,148,8,1106.4,Lapsed low-value
+4217,6,8,1985.2,Recently active
+4218,1,16,3049.6,Recently active
+4219,5,15,2711.3,Recently active
+4220,257,8,1176.45,Lapsed low-value
+4221,100,9,1468.0,At risk (slipping)
+4222,65,10,1605.1,At risk (slipping)
+4223,121,14,4447.35,Champions (high value)
+4224,39,14,4108.7,Champions (high value)
+4225,6,20,3717.9,Champions (high value)
+4226,107,12,3518.45,Champions (high value)
+4227,90,19,3326.2,Champions (high value)
+4228,60,11,1394.85,At risk (slipping)
+4229,215,10,1785.8,At risk (slipping)
+4230,20,14,1937.95,Champions (high value)
+4231,15,10,2933.55,Recently active
+4232,54,7,566.6,Lapsed low-value
+4233,21,17,2988.2,Champions (high value)
+4234,11,10,987.35,Recently active
+4235,29,16,1888.15,Champions (high value)
+4236,105,9,1902.4,At risk (slipping)
+4237,14,10,1668.6,Recently active
+4238,9,18,3778.9,Champions (high value)
+4239,1,13,2699.85,Recently active
+4240,46,16,2141.1,Champions (high value)
+4241,71,12,2130.7,At risk (slipping)
+4242,20,8,1305.4,Lapsed low-value
+4243,42,19,3492.65,Champions (high value)
+4244,73,14,1989.3,At risk (slipping)
+4245,20,12,1935.8,Recently active
+4246,16,13,1787.65,Recently active
+4247,100,13,2433.55,At risk (slipping)
+4248,15,16,2456.05,Champions (high value)
+4249,13,9,1477.25,Recently active
+4250,81,11,1753.9,At risk (slipping)
+4251,37,10,2018.8,At risk (slipping)
+4252,2,8,1605.5,Recently active
+4253,220,5,964.5,Lapsed low-value
+4254,55,9,990.05,Lapsed low-value
+4255,8,14,2986.7,Recently active
+4256,138,6,965.0,Lapsed low-value
+4257,120,18,2374.7,Champions (high value)
+4258,221,8,2427.95,At risk (slipping)
+4259,2,11,3539.7,Recently active
+4260,46,15,2248.7,Champions (high value)
+4261,102,11,1444.3,At risk (slipping)
+4262,8,7,911.8,Lapsed low-value
+4263,26,10,693.45,Lapsed low-value
+4264,153,8,1439.5,Lapsed low-value
+4265,77,12,1295.9,At risk (slipping)
+4266,77,13,1895.45,At risk (slipping)
+4267,46,10,1588.15,At risk (slipping)
+4268,85,10,2835.95,At risk (slipping)
+4269,39,14,2201.8,Champions (high value)
+4270,16,11,1591.9,Recently active
+4271,19,11,2938.45,Champions (high value)
+4272,134,8,651.35,Lapsed low-value
+4273,44,11,937.65,Lapsed low-value
+4274,16,11,2081.15,Recently active
+4275,83,15,1903.75,At risk (slipping)
+4276,153,10,2099.45,At risk (slipping)
+4277,8,12,1239.35,Recently active
+4278,18,9,1090.55,Lapsed low-value
+4279,63,14,1621.45,At risk (slipping)
+4280,21,12,1729.5,Recently active
+4281,111,7,1373.2,Lapsed low-value
+4282,78,13,3018.5,Champions (high value)
+4283,35,13,1902.35,At risk (slipping)
+4284,42,8,2133.15,At risk (slipping)
+4285,7,9,2246.7,Recently active
+4286,45,11,1988.4,At risk (slipping)
+4287,51,10,2042.0,At risk (slipping)
+4288,15,12,1879.95,Recently active
+4289,132,9,830.1,Lapsed low-value
+4290,140,12,1874.0,At risk (slipping)
+4291,71,14,3342.45,Champions (high value)
+4292,39,14,2130.7,Champions (high value)
+4293,94,10,1266.75,At risk (slipping)
+4294,112,5,975.0,Lapsed low-value
+4295,31,8,2011.2,At risk (slipping)
+4296,72,12,3664.4,Champions (high value)
+4297,52,17,2879.3,Champions (high value)
+4298,3,8,2168.5,Recently active
+4299,20,10,1070.95,Lapsed low-value
+4300,116,10,2803.75,At risk (slipping)
+4301,1,11,1452.1,Recently active
+4302,7,9,1061.2,Recently active
+4303,83,9,2811.15,At risk (slipping)
+4304,51,15,4553.85,Champions (high value)
+4305,1,11,2625.55,Recently active
+4306,59,9,3445.6,At risk (slipping)
+4307,34,16,4295.65,Champions (high value)
+4308,35,10,1524.1,At risk (slipping)
+4309,159,11,1618.75,At risk (slipping)
+4310,78,16,1641.75,At risk (slipping)
+4311,325,6,974.45,Lapsed low-value
+4312,32,9,2422.3,At risk (slipping)
+4313,2,11,1247.0,Recently active
+4314,21,11,2550.0,Champions (high value)
+4315,18,13,1831.25,Recently active
+4316,8,12,5552.9,Champions (high value)
+4317,26,12,2567.4,Champions (high value)
+4318,86,10,2826.2,At risk (slipping)
+4319,48,13,5771.95,Champions (high value)
+4320,134,8,1648.95,At risk (slipping)
+4321,44,7,1345.7,Lapsed low-value
+4322,4,10,1936.2,Recently active
+4323,1,10,2467.5,Recently active
+4324,73,14,3593.45,Champions (high value)
+4325,93,8,1863.15,At risk (slipping)
+4326,45,10,1749.85,At risk (slipping)
+4327,38,9,2440.3,At risk (slipping)
+4328,50,10,1425.6,At risk (slipping)
+4329,33,17,3266.45,Champions (high value)
+4330,4,13,2530.5,Recently active
+4331,39,13,4190.75,Champions (high value)
+4332,193,11,2601.65,At risk (slipping)
+4333,48,10,1461.1,At risk (slipping)
+4334,9,8,1751.35,Recently active
+4335,52,16,2172.7,Champions (high value)
+4336,313,8,851.0,Lapsed low-value
+4337,230,10,1332.4,At risk (slipping)
+4338,81,14,3125.3,Champions (high value)
+4339,144,9,1468.9,At risk (slipping)
+4340,46,11,1109.5,At risk (slipping)
+4341,25,13,4171.25,Champions (high value)
+4342,81,5,982.9,Lapsed low-value
+4343,15,11,1888.3,Recently active
+4344,13,18,4689.25,Champions (high value)
+4345,67,15,1762.2,At risk (slipping)
+4346,221,8,1609.45,At risk (slipping)
+4347,32,8,1637.1,At risk (slipping)
+4348,9,13,3129.5,Recently active
+4349,43,14,3268.05,Champions (high value)
+4350,35,9,1368.3,At risk (slipping)
+4351,73,9,1035.6,Lapsed low-value
+4352,49,15,2279.8,Champions (high value)
+4353,98,6,1504.2,Lapsed low-value
+4354,106,6,660.35,Lapsed low-value
+4355,83,13,2972.3,Champions (high value)
+4356,34,12,2539.35,Champions (high value)
+4357,196,13,2298.0,At risk (slipping)
+4358,230,8,2886.6,At risk (slipping)
+4359,56,12,1977.55,At risk (slipping)
+4360,1,12,2796.75,Recently active
+4361,104,8,1204.9,Lapsed low-value
+4362,54,10,2707.3,At risk (slipping)
+4363,36,7,906.65,Lapsed low-value
+4364,34,8,2088.3,At risk (slipping)
+4365,170,8,1350.6,Lapsed low-value
+4366,93,11,1699.85,At risk (slipping)
+4367,15,19,3581.1,Champions (high value)
+4368,35,10,2970.3,At risk (slipping)
+4369,16,15,2119.75,Champions (high value)
+4370,3,10,1340.0,Recently active
+4371,303,5,1795.65,Lapsed low-value
+4372,30,13,2875.15,Champions (high value)
+4373,16,15,2226.05,Champions (high value)
+4374,38,11,2073.8,At risk (slipping)
+4375,73,15,3437.1,Champions (high value)
+4376,28,12,1795.05,At risk (slipping)
+4377,38,9,1189.6,Lapsed low-value
+4378,4,10,1896.5,Recently active
+4379,159,5,593.5,Lapsed low-value
+4380,206,14,2415.8,At risk (slipping)
+4381,45,7,1416.2,Lapsed low-value
+4382,121,8,2325.65,At risk (slipping)
+4383,153,7,1066.05,Lapsed low-value
+4384,27,17,3452.35,Champions (high value)
+4385,86,11,1581.35,At risk (slipping)
+4386,57,12,2302.45,At risk (slipping)
+4387,58,12,3281.0,Champions (high value)
+4388,67,9,1558.75,At risk (slipping)
+4389,155,5,1064.1,Lapsed low-value
+4390,56,14,3098.8,Champions (high value)
+4391,53,12,1568.95,At risk (slipping)
+4392,147,10,877.25,Lapsed low-value
+4393,59,8,1683.65,At risk (slipping)
+4394,3,15,2736.25,Recently active
+4395,49,9,2060.9,At risk (slipping)
+4396,43,10,1084.5,Lapsed low-value
+4397,13,11,4083.9,Champions (high value)
+4398,51,12,1862.65,At risk (slipping)
+4399,25,12,2003.0,At risk (slipping)
+4400,30,7,1184.1,Lapsed low-value
+4401,157,10,1382.0,At risk (slipping)
+4402,5,8,1006.05,Recently active
+4403,72,14,2571.25,Champions (high value)
+4404,47,11,1511.4,At risk (slipping)
+4405,12,14,2272.45,Recently active
+4406,70,9,670.3,Lapsed low-value
+4407,124,15,1569.95,At risk (slipping)
+4408,43,14,3274.6,Champions (high value)
+4409,104,13,2962.3,Champions (high value)
+4410,5,8,1504.85,Recently active
+4411,70,7,2031.4,At risk (slipping)
+4412,3,11,5101.15,Recently active
+4413,29,11,2312.2,At risk (slipping)
+4414,90,8,1344.25,Lapsed low-value
+4415,214,8,1993.05,At risk (slipping)
+4416,63,6,612.0,Lapsed low-value
+4417,94,10,1061.45,Lapsed low-value
+4418,82,13,3525.35,Champions (high value)
+4419,53,12,2061.35,At risk (slipping)
+4420,1,6,1066.5,Recently active
+4421,16,15,2678.95,Champions (high value)
+4422,70,19,4022.35,Champions (high value)
+4423,111,10,2006.05,At risk (slipping)
+4424,22,12,3622.75,Champions (high value)
+4425,5,13,2743.85,Recently active
+4426,362,10,2051.3,At risk (slipping)
+4427,61,12,1315.7,At risk (slipping)
+4428,110,10,1397.45,At risk (slipping)
+4429,66,14,2791.55,Champions (high value)
+4430,88,14,2161.3,At risk (slipping)
+4431,42,14,2341.8,Champions (high value)
+4432,159,10,530.55,Lapsed low-value
+4433,172,14,2070.4,At risk (slipping)
+4434,46,17,2781.05,Champions (high value)
+4435,41,9,2086.35,At risk (slipping)
+4436,6,7,2202.35,Recently active
+4437,32,16,3128.9,Champions (high value)
+4438,13,10,2319.05,Recently active
+4439,117,12,1773.45,At risk (slipping)
+4440,108,12,2343.2,At risk (slipping)
+4441,10,8,637.8,Lapsed low-value
+4442,25,12,1346.8,At risk (slipping)
+4443,169,9,2063.0,At risk (slipping)
+4444,34,5,1401.5,Lapsed low-value
+4445,138,6,1431.4,Lapsed low-value
+4446,211,8,2614.2,At risk (slipping)
+4447,28,12,1707.6,At risk (slipping)
+4448,108,8,2548.9,At risk (slipping)
+4449,68,8,768.5,Lapsed low-value
+4450,58,9,1195.85,Lapsed low-value
+4451,318,9,1849.65,At risk (slipping)
+4452,260,4,1162.1,Lapsed low-value
+4453,52,11,2181.65,At risk (slipping)
+4454,24,14,2317.45,Champions (high value)
+4455,112,15,3990.3,Champions (high value)
+4456,90,6,854.5,Lapsed low-value
+4457,148,10,1194.35,At risk (slipping)
+4458,81,12,2381.65,At risk (slipping)
+4459,49,14,1890.75,At risk (slipping)
+4460,20,7,691.25,Lapsed low-value
+4461,6,14,2485.15,Recently active
+4462,10,4,841.0,Lapsed low-value
+4463,170,12,1897.2,At risk (slipping)
+4464,240,18,3103.9,Champions (high value)
+4465,75,8,792.5,Lapsed low-value
+4466,83,11,1852.9,At risk (slipping)
+4467,40,11,2322.05,At risk (slipping)
+4468,2,6,1487.05,Recently active
+4469,3,12,1785.9,Recently active
+4470,282,8,890.85,Lapsed low-value
+4471,83,11,1859.1,At risk (slipping)
+4472,114,13,2793.2,Champions (high value)
+4473,1,10,1490.7,Recently active
+4474,62,26,4169.5,Champions (high value)
+4475,128,9,2367.9,At risk (slipping)
+4476,99,10,1924.65,At risk (slipping)
+4477,109,13,1355.8,At risk (slipping)
+4478,81,7,741.0,Lapsed low-value
+4479,18,8,1166.1,Lapsed low-value
+4480,3,10,1581.1,Recently active
+4481,101,11,1708.4,At risk (slipping)
+4482,107,8,1059.15,Lapsed low-value
+4483,12,13,2525.3,Recently active
+4484,65,8,738.6,Lapsed low-value
+4485,102,14,3283.8,Champions (high value)
+4486,66,10,1598.45,At risk (slipping)
+4487,28,7,1063.3,Lapsed low-value
+4488,3,16,2390.8,Recently active
+4489,58,11,2347.35,At risk (slipping)
+4490,12,18,2980.25,Champions (high value)
+4491,25,8,1209.1,Lapsed low-value
+4492,255,9,3399.15,At risk (slipping)
+4493,16,17,2380.6,Champions (high value)
+4494,23,15,1594.45,Champions (high value)
+4495,62,14,3661.65,Champions (high value)
+4496,93,8,2561.4,At risk (slipping)
+4497,11,7,1025.1,Lapsed low-value
+4498,19,15,3003.3,Champions (high value)
+4499,12,9,1577.95,Recently active
+4500,62,12,2238.35,At risk (slipping)
+4501,49,14,1710.9,At risk (slipping)
+4502,19,11,1690.25,Recently active
+4503,67,18,1895.1,Champions (high value)
+4504,85,13,1015.55,At risk (slipping)
+4505,24,21,3686.55,Champions (high value)
+4506,4,12,3377.55,Recently active
+4507,29,14,1814.5,Champions (high value)
+4508,24,10,1678.85,At risk (slipping)
+4509,85,9,1503.25,At risk (slipping)
+4510,94,14,2130.05,At risk (slipping)
+4511,13,15,2027.8,Recently active
+4512,31,12,1816.3,At risk (slipping)
+4513,18,14,2544.25,Champions (high value)
+4514,147,8,3127.4,At risk (slipping)
+4515,13,16,2711.65,Champions (high value)
+4516,16,11,1111.85,Recently active
+4517,25,8,1620.95,At risk (slipping)
+4518,34,8,1772.6,At risk (slipping)
+4519,77,9,1581.5,At risk (slipping)
+4520,88,10,1648.4,At risk (slipping)
+4521,22,12,1516.85,At risk (slipping)
+4522,194,6,788.15,Lapsed low-value
+4523,70,13,3505.15,Champions (high value)
+4524,76,11,1950.95,At risk (slipping)
+4525,71,12,1566.7,At risk (slipping)
+4526,16,10,2297.95,Recently active
+4527,18,12,1529.75,Recently active
+4528,168,12,1839.5,At risk (slipping)
+4529,11,8,1304.95,Recently active
+4530,303,10,784.95,Lapsed low-value
+4531,108,11,2495.65,At risk (slipping)
+4532,63,9,1028.5,Lapsed low-value
+4533,19,11,1481.5,Recently active
+4534,13,8,2540.75,Recently active
+4535,30,10,1419.95,At risk (slipping)
+4536,98,17,1594.85,At risk (slipping)
+4537,130,14,2148.6,At risk (slipping)
+4538,20,13,3337.45,Champions (high value)
+4539,170,10,1182.45,At risk (slipping)
+4540,41,14,2521.75,Champions (high value)
+4541,127,12,2277.45,At risk (slipping)
+4542,1,14,2506.6,Recently active
+4543,95,11,1788.4,At risk (slipping)
+4544,10,18,2732.3,Champions (high value)
+4545,7,12,3444.15,Recently active
+4546,68,10,2265.55,At risk (slipping)
+4547,101,13,2638.7,At risk (slipping)
+4548,187,9,2182.75,At risk (slipping)
+4549,48,13,2764.4,Champions (high value)
+4550,96,12,2407.8,At risk (slipping)
+4551,46,11,2896.5,At risk (slipping)
+4552,65,12,2297.3,At risk (slipping)
+4553,12,8,1011.8,Lapsed low-value
+4554,5,10,2773.85,Recently active
+4555,190,7,2556.25,At risk (slipping)
+4556,42,9,1354.55,At risk (slipping)
+4557,64,17,4186.0,Champions (high value)
+4558,44,14,2954.75,Champions (high value)
+4559,80,10,3417.15,At risk (slipping)
+4560,34,7,1380.2,Lapsed low-value
+4561,62,10,2884.8,At risk (slipping)
+4562,89,9,1164.05,Lapsed low-value
+4563,101,13,1554.45,At risk (slipping)
+4564,29,8,1521.15,At risk (slipping)
+4565,41,8,1721.75,At risk (slipping)
+4566,62,5,843.5,Lapsed low-value
+4567,7,9,3357.85,Recently active
+4568,21,15,3104.65,Champions (high value)
+4569,3,8,1694.45,Recently active
+4570,88,12,2122.7,At risk (slipping)
+4571,62,16,3787.45,Champions (high value)
+4572,3,13,1777.2,Recently active
+4573,30,13,2324.15,Champions (high value)
+4574,90,5,917.55,Lapsed low-value
+4575,53,16,3724.6,Champions (high value)
+4576,202,12,2492.55,At risk (slipping)
+4577,48,16,4348.9,Champions (high value)
+4578,69,12,2345.7,At risk (slipping)
+4579,26,13,2141.05,Champions (high value)
+4580,31,12,1645.1,At risk (slipping)
+4581,29,10,1964.6,At risk (slipping)
+4582,176,12,3458.8,At risk (slipping)
+4583,60,9,2025.55,At risk (slipping)
+4584,3,10,1921.45,Recently active
+4585,42,16,3428.55,Champions (high value)
+4586,71,14,2026.35,At risk (slipping)
+4587,55,6,1667.7,Lapsed low-value
+4588,60,10,2450.4,At risk (slipping)
+4589,107,13,1860.65,At risk (slipping)
+4590,11,17,2849.8,Champions (high value)
+4591,201,8,1392.3,Lapsed low-value
+4592,57,16,2215.65,Champions (high value)
+4593,172,8,1304.1,Lapsed low-value
+4594,23,11,3037.9,Champions (high value)
+4595,173,7,1141.2,Lapsed low-value
+4596,62,15,3166.5,Champions (high value)
+4597,39,10,1749.05,At risk (slipping)
+4598,70,14,2508.05,Champions (high value)
+4599,93,17,2943.4,Champions (high value)
+4600,65,12,1888.5,At risk (slipping)
+4601,113,5,1189.0,Lapsed low-value
+4602,73,15,2577.75,Champions (high value)
+4603,249,11,1497.05,At risk (slipping)
+4604,92,11,1692.85,At risk (slipping)
+4605,118,13,3532.45,Champions (high value)
+4606,19,13,2233.95,Champions (high value)
+4607,125,9,3007.0,At risk (slipping)
+4608,61,10,1239.45,At risk (slipping)
+4609,1,11,1318.6,Recently active
+4610,27,8,797.7,Lapsed low-value
+4611,76,12,1289.1,At risk (slipping)
+4612,6,10,2100.5,Recently active
+4613,155,13,2312.2,At risk (slipping)
+4614,34,11,1809.5,At risk (slipping)
+4615,36,6,2003.0,Lapsed low-value
+4616,30,19,4204.7,Champions (high value)
+4617,31,17,3123.2,Champions (high value)
+4618,3,15,2328.7,Recently active
+4619,21,15,2042.45,Champions (high value)
+4620,39,13,1109.7,At risk (slipping)
+4621,203,11,1694.7,At risk (slipping)
+4622,82,11,3207.2,At risk (slipping)
+4623,94,12,1846.45,At risk (slipping)
+4624,24,11,1667.15,At risk (slipping)
+4625,41,8,893.8,Lapsed low-value
+4626,139,7,1257.0,Lapsed low-value
+4627,1,14,4057.05,Recently active
+4628,24,15,4341.2,Champions (high value)
+4629,12,11,2746.6,Recently active
+4630,1,10,1262.05,Recently active
+4631,68,13,2898.2,Champions (high value)
+4632,21,12,3770.7,Champions (high value)
+4633,242,7,1025.0,Lapsed low-value
+4634,13,13,1692.4,Recently active
+4635,12,13,2426.95,Recently active
+4636,13,13,2270.5,Recently active
+4637,1,14,2852.7,Recently active
+4638,170,6,1217.9,Lapsed low-value
+4639,4,11,1766.9,Recently active
+4640,8,11,1882.5,Recently active
+4641,12,19,2598.8,Champions (high value)
+4642,161,10,836.35,Lapsed low-value
+4643,203,10,1996.2,At risk (slipping)
+4644,211,12,2537.2,At risk (slipping)
+4645,26,13,1336.5,At risk (slipping)
+4646,50,12,1442.2,At risk (slipping)
+4647,10,11,3333.45,Recently active
+4648,59,13,1501.05,At risk (slipping)
+4649,16,17,3035.35,Champions (high value)
+4650,31,8,1423.5,Lapsed low-value
+4651,57,10,1903.0,At risk (slipping)
+4652,38,9,2225.45,At risk (slipping)
+4653,145,12,1152.8,At risk (slipping)
+4654,19,16,3304.5,Champions (high value)
+4655,38,7,1005.55,Lapsed low-value
+4656,8,13,1257.1,Recently active
+4657,285,7,1475.95,Lapsed low-value
+4658,312,10,2440.15,At risk (slipping)
+4659,11,13,982.25,Recently active
+4660,1,8,691.25,Recently active
+4661,45,12,2920.85,Champions (high value)
+4662,161,13,1873.15,At risk (slipping)
+4663,17,15,2175.25,Champions (high value)
+4664,34,8,1520.1,At risk (slipping)
+4665,129,8,2309.6,At risk (slipping)
+4666,75,12,2401.15,At risk (slipping)
+4667,1,8,1400.9,Recently active
+4668,12,11,2586.9,Recently active
+4669,1,10,2214.0,Recently active
+4670,55,13,866.7,At risk (slipping)
+4671,57,12,2093.45,At risk (slipping)
+4672,89,8,1001.4,Lapsed low-value
+4673,86,11,1266.05,At risk (slipping)
+4674,63,10,3388.7,At risk (slipping)
+4675,20,16,3314.55,Champions (high value)
+4676,5,14,2914.25,Recently active
+4677,80,4,630.15,Lapsed low-value
+4678,15,17,4926.95,Champions (high value)
+4679,156,16,4210.6,Champions (high value)
+4680,25,3,206.0,Lapsed low-value
+4681,167,9,1801.85,At risk (slipping)
+4682,357,12,2049.3,At risk (slipping)
+4683,13,4,516.1,Lapsed low-value
+4684,1,11,2150.3,Recently active
+4685,13,16,2775.7,Champions (high value)
+4686,3,7,935.15,Recently active
+4687,132,18,1927.15,Champions (high value)
+4688,17,11,1993.75,Recently active
+4689,162,9,839.7,Lapsed low-value
+4690,32,14,3423.25,Champions (high value)
+4691,8,13,2961.9,Recently active
+4692,136,13,1806.15,At risk (slipping)
+4693,128,12,3039.8,At risk (slipping)
+4694,96,11,2361.35,At risk (slipping)
+4695,189,7,1797.05,At risk (slipping)
+4696,212,7,2587.7,At risk (slipping)
+4697,129,12,1620.2,At risk (slipping)
+4698,42,18,3461.35,Champions (high value)
+4699,321,6,1214.6,Lapsed low-value
+4700,129,8,759.8,Lapsed low-value
+4701,80,8,2381.7,At risk (slipping)
+4702,172,13,1704.3,At risk (slipping)
+4703,16,15,2697.2,Champions (high value)
+4704,5,14,3290.2,Recently active
+4705,80,12,2434.95,At risk (slipping)
+4706,29,16,3451.2,Champions (high value)
+4707,33,11,1265.4,At risk (slipping)
+4708,43,12,2615.5,Champions (high value)
+4709,104,15,1881.85,At risk (slipping)
+4710,9,14,2907.6,Champions (high value)
+4711,102,12,1641.75,At risk (slipping)
+4712,24,17,4163.3,Champions (high value)
+4713,178,10,3473.45,At risk (slipping)
+4714,7,8,716.3,Lapsed low-value
+4715,13,20,6244.0,Champions (high value)
+4716,109,14,2642.4,Champions (high value)
+4717,75,7,1394.6,Lapsed low-value
+4718,58,10,1471.6,At risk (slipping)
+4719,73,12,2857.85,Champions (high value)
+4720,2,17,3858.7,Recently active
+4721,29,11,2779.75,Champions (high value)
+4722,144,10,1910.7,At risk (slipping)
+4723,27,7,2790.1,At risk (slipping)
+4724,136,14,3035.15,Champions (high value)
+4725,60,13,2206.25,At risk (slipping)
+4726,96,5,1967.95,Lapsed low-value
+4727,154,6,969.7,Lapsed low-value
+4728,127,3,181.9,Lapsed low-value
+4729,23,11,1246.5,At risk (slipping)
+4730,3,13,3334.8,Recently active
+4731,34,6,904.0,Lapsed low-value
+4732,93,10,2616.25,At risk (slipping)
+4733,15,8,854.65,Lapsed low-value
+4734,22,13,3607.25,Champions (high value)
+4735,184,12,1573.0,At risk (slipping)
+4736,13,7,880.45,Lapsed low-value
+4737,12,13,2201.45,Recently active
+4738,12,13,2161.35,Recently active
+4739,46,16,3700.3,Champions (high value)
+4740,137,10,1661.9,At risk (slipping)
+4741,2,16,2316.4,Recently active
+4742,27,8,1380.1,Lapsed low-value
+4743,20,14,2381.65,Champions (high value)
+4744,92,4,1583.0,Lapsed low-value
+4745,11,14,4623.0,Champions (high value)
+4746,46,11,2913.1,Champions (high value)
+4747,104,13,1632.65,At risk (slipping)
+4748,49,13,3939.95,Champions (high value)
+4749,214,10,2557.35,At risk (slipping)
+4750,109,14,3044.7,Champions (high value)
+4751,1,11,1708.45,Recently active
+4752,84,12,1789.45,At risk (slipping)
+4753,27,21,2953.05,Champions (high value)
+4754,34,11,2118.95,At risk (slipping)
+4755,181,3,403.0,Lapsed low-value
+4756,71,13,2180.9,At risk (slipping)
+4757,41,13,1634.85,At risk (slipping)
+4758,47,15,3221.55,Champions (high value)
+4759,116,8,1866.55,At risk (slipping)
+4760,65,10,1306.4,At risk (slipping)
+4761,106,12,3234.15,Champions (high value)
+4762,126,11,2321.1,At risk (slipping)
+4763,75,10,922.7,Lapsed low-value
+4764,59,13,2126.8,At risk (slipping)
+4765,123,11,1645.8,At risk (slipping)
+4766,245,9,2037.15,At risk (slipping)
+4767,88,11,2167.9,At risk (slipping)
+4768,27,14,3095.8,Champions (high value)
+4769,8,14,1966.9,Recently active
+4770,6,13,2043.0,Recently active
+4771,58,13,1647.05,At risk (slipping)
+4772,12,10,3367.15,Recently active
+4773,203,6,537.85,Lapsed low-value
+4774,80,10,1692.5,At risk (slipping)
+4775,43,16,2152.3,Champions (high value)
+4776,7,10,1856.6,Recently active
+4777,32,14,2278.6,Champions (high value)
+4778,1,14,2788.6,Recently active
+4779,57,9,4259.1,At risk (slipping)
+4780,222,7,1736.7,At risk (slipping)
+4781,199,9,1030.3,Lapsed low-value
+4782,4,13,2307.5,Recently active
+4783,18,16,1675.9,Champions (high value)
+4784,63,10,1642.5,At risk (slipping)
+4785,99,16,3125.25,Champions (high value)
+4786,154,11,2505.6,At risk (slipping)
+4787,1,8,2558.1,Recently active
+4788,43,12,1766.3,At risk (slipping)
+4789,37,10,1229.8,At risk (slipping)
+4790,39,18,3924.55,Champions (high value)
+4791,51,18,2968.7,Champions (high value)
+4792,23,7,956.75,Lapsed low-value
+4793,7,15,3942.8,Champions (high value)
+4794,4,17,3381.75,Champions (high value)
+4795,141,10,2711.55,At risk (slipping)
+4796,29,14,2464.2,Champions (high value)
+4797,34,13,2232.4,Champions (high value)
+4798,73,16,3126.35,Champions (high value)
+4799,20,9,971.8,Lapsed low-value
+4800,82,8,3095.2,At risk (slipping)
+4801,1,7,1783.25,Recently active
+4802,5,16,2777.5,Recently active
+4803,24,8,1805.6,At risk (slipping)
+4804,25,13,1771.25,At risk (slipping)
+4805,50,9,1168.6,Lapsed low-value
+4806,33,18,3361.4,Champions (high value)
+4807,127,9,1820.95,At risk (slipping)
+4808,43,13,3276.95,Champions (high value)
+4809,1,11,2099.0,Recently active
+4810,104,13,2340.95,At risk (slipping)
+4811,26,16,3960.7,Champions (high value)
+4812,53,9,2381.7,At risk (slipping)
+4813,136,13,2575.95,At risk (slipping)
+4814,129,11,1859.45,At risk (slipping)
+4815,70,14,3697.4,Champions (high value)
+4816,9,4,564.6,Lapsed low-value
+4817,15,14,2707.85,Champions (high value)
+4818,87,10,2252.7,At risk (slipping)
+4819,33,17,3856.1,Champions (high value)
+4820,12,5,663.65,Lapsed low-value
+4821,118,11,1240.55,At risk (slipping)
+4822,54,6,435.3,Lapsed low-value
+4823,11,16,3512.15,Champions (high value)
+4824,1,12,2325.2,Recently active
+4825,26,15,4120.2,Champions (high value)
+4826,1,7,2917.4,Recently active
+4827,26,9,1478.15,At risk (slipping)
+4828,36,13,3222.7,Champions (high value)
+4829,5,21,3451.6,Champions (high value)
+4830,164,6,1288.95,Lapsed low-value
+4831,11,14,1567.15,Recently active
+4832,49,16,3738.1,Champions (high value)
+4833,92,7,625.2,Lapsed low-value
+4834,7,10,1470.4,Recently active
+4835,78,13,2047.75,At risk (slipping)
+4836,23,7,1593.9,Lapsed low-value
+4837,12,14,2236.9,Recently active
+4838,73,12,4223.25,Champions (high value)
+4839,14,13,2352.4,Recently active
+4840,64,11,2575.6,At risk (slipping)
+4841,66,12,2401.4,At risk (slipping)
+4842,6,19,5645.15,Champions (high value)
+4843,87,9,2138.9,At risk (slipping)
+4844,64,9,1302.0,At risk (slipping)
+4845,29,19,3566.4,Champions (high value)
+4846,221,7,1049.1,Lapsed low-value
+4847,49,11,1746.85,At risk (slipping)
+4848,54,9,2464.55,At risk (slipping)
+4849,12,10,1734.7,Recently active
+4850,31,6,1159.8,Lapsed low-value
+4851,1,12,1693.0,Recently active
+4852,5,11,1749.8,Recently active
+4853,81,10,1510.35,At risk (slipping)
+4854,25,6,664.4,Lapsed low-value
+4855,64,12,2636.75,At risk (slipping)
+4856,186,7,538.65,Lapsed low-value
+4857,63,9,1708.75,At risk (slipping)
+4858,40,14,2676.7,Champions (high value)
+4859,105,7,1136.9,Lapsed low-value
+4860,3,9,1857.35,Recently active
+4861,69,8,1983.5,At risk (slipping)
+4862,38,14,2886.75,Champions (high value)
+4863,29,7,1378.05,Lapsed low-value
+4864,375,8,801.2,Lapsed low-value
+4865,1,13,1619.55,Recently active
+4866,201,9,1325.85,At risk (slipping)
+4867,69,8,1719.15,At risk (slipping)
+4868,32,13,2265.35,Champions (high value)
+4869,37,12,2570.45,Champions (high value)
+4870,34,11,1577.5,At risk (slipping)
+4871,27,8,1207.45,Lapsed low-value
+4872,68,10,2431.65,At risk (slipping)
+4873,12,10,2643.85,Recently active
+4874,77,9,1984.45,At risk (slipping)
+4875,45,10,1205.8,At risk (slipping)
+4876,44,7,2096.15,At risk (slipping)
+4877,65,12,2816.65,Champions (high value)
+4878,35,12,1422.65,At risk (slipping)
+4879,5,9,1828.35,Recently active
+4880,155,9,1919.45,At risk (slipping)
+4881,6,12,2862.7,Recently active
+4882,14,8,1380.9,Recently active
+4883,17,10,1304.45,Recently active
+4884,11,10,3112.35,Recently active
+4885,114,10,1354.6,At risk (slipping)
+4886,102,10,1367.4,At risk (slipping)
+4887,20,7,550.6,Lapsed low-value
+4888,17,13,1995.1,Recently active
+4889,17,11,2216.0,Recently active
+4890,53,13,2831.05,Champions (high value)
+4891,39,13,1490.1,At risk (slipping)
+4892,201,11,1851.2,At risk (slipping)
+4893,47,7,869.05,Lapsed low-value
+4894,13,9,1069.45,Recently active
+4895,93,8,3481.15,At risk (slipping)
+4896,19,11,2352.15,Recently active
+4897,50,15,2264.25,Champions (high value)
+4898,71,10,2541.8,At risk (slipping)
+4899,64,10,1504.6,At risk (slipping)
+4900,49,10,1539.4,At risk (slipping)
+4901,47,15,4278.6,Champions (high value)
+4902,60,8,1202.75,Lapsed low-value
+4903,174,4,560.65,Lapsed low-value
+4904,67,14,3075.55,Champions (high value)
+4905,45,20,3801.6,Champions (high value)
+4906,50,12,2479.85,At risk (slipping)
+4907,82,5,769.4,Lapsed low-value
+4908,17,15,3362.25,Champions (high value)
+4909,149,11,3166.75,At risk (slipping)
+4910,7,14,2713.8,Recently active
+4911,94,12,2132.1,At risk (slipping)
+4912,43,12,1445.7,At risk (slipping)
+4913,79,16,3273.2,Champions (high value)
+4914,7,23,3998.55,Champions (high value)
+4915,22,13,2371.55,Champions (high value)
+4916,76,9,980.85,Lapsed low-value
+4917,47,5,1482.95,Lapsed low-value
+4918,201,8,1439.15,At risk (slipping)
+4919,24,13,1868.95,Champions (high value)
+4920,37,17,3390.85,Champions (high value)
+4921,77,5,1093.1,Lapsed low-value
+4922,46,12,3457.85,Champions (high value)
+4923,25,21,3668.8,Champions (high value)
+4924,10,9,1070.3,Recently active
+4925,46,14,1990.9,Champions (high value)
+4926,11,10,1617.45,Recently active
+4927,162,9,1540.05,At risk (slipping)
+4928,6,5,1036.1,Lapsed low-value
+4929,7,12,2805.6,Recently active
+4930,6,13,4357.45,Champions (high value)
+4931,8,16,4823.95,Champions (high value)
+4932,48,11,2076.4,At risk (slipping)
+4933,112,8,1805.2,At risk (slipping)
+4934,14,9,1879.15,Recently active
+4935,4,10,1679.6,Recently active
+4936,1,10,1786.0,Recently active
+4937,73,12,2418.95,At risk (slipping)
+4938,1,12,1984.4,Recently active
+4939,10,7,1959.95,Recently active
+4940,62,9,718.0,Lapsed low-value
+4941,25,13,1957.65,Champions (high value)
+4942,52,11,1688.95,At risk (slipping)
+4943,93,14,1989.4,At risk (slipping)
+4944,23,12,2186.6,Champions (high value)
+4945,18,9,1135.6,Lapsed low-value
+4946,35,12,1558.8,At risk (slipping)
+4947,169,10,1256.6,At risk (slipping)
+4948,3,16,2101.35,Recently active
+4949,99,13,3065.5,Champions (high value)
+4950,11,10,2200.9,Recently active
+4951,56,9,1819.0,At risk (slipping)
+4952,155,15,1960.3,At risk (slipping)
+4953,122,5,594.0,Lapsed low-value
+4954,30,12,1847.6,At risk (slipping)
+4955,111,13,1268.85,At risk (slipping)
+4956,35,11,1924.0,At risk (slipping)
+4957,145,10,2482.8,At risk (slipping)
+4958,17,6,476.45,Lapsed low-value
+4959,42,16,4745.75,Champions (high value)
+4960,25,5,1315.85,Lapsed low-value
+4961,134,8,654.1,Lapsed low-value
+4962,58,9,1345.3,At risk (slipping)
+4963,67,9,1491.4,At risk (slipping)
+4964,63,14,2995.4,Champions (high value)
+4965,167,12,4499.85,Champions (high value)
+4966,2,21,4452.7,Champions (high value)
+4967,61,12,2457.7,At risk (slipping)
+4968,45,11,1666.75,At risk (slipping)
+4969,21,13,3460.5,Champions (high value)
+4970,112,5,654.7,Lapsed low-value
+4971,34,15,2172.55,Champions (high value)
+4972,26,14,2421.8,Champions (high value)
+4973,29,10,1400.75,At risk (slipping)
+4974,12,12,3002.75,Recently active
+4975,50,13,2602.5,Champions (high value)
+4976,22,13,3689.5,Champions (high value)
+4977,44,15,3435.95,Champions (high value)
+4978,4,4,2236.3,Recently active
+4979,41,13,1279.5,At risk (slipping)
+4980,125,11,1846.2,At risk (slipping)
+4981,14,12,1881.25,Recently active
+4982,11,16,2667.65,Champions (high value)
+4983,68,14,3076.3,Champions (high value)
+4984,18,19,3728.3,Champions (high value)
+4985,21,11,2217.85,Recently active
+4986,9,9,1336.65,Recently active
+4987,89,7,1898.25,At risk (slipping)
+4988,3,9,1001.3,Recently active
+4989,34,14,2047.5,Champions (high value)
+4990,69,9,1333.6,At risk (slipping)
+4991,41,13,3301.5,Champions (high value)
+4992,47,13,2326.4,Champions (high value)
+4993,91,10,3419.65,At risk (slipping)
+4994,109,12,3474.3,Champions (high value)
+4995,35,12,1267.45,At risk (slipping)
+4996,30,6,1008.0,Lapsed low-value
+4997,64,8,796.65,Lapsed low-value
+4998,3,16,3125.9,Recently active
+4999,24,13,1525.35,At risk (slipping)
+5000,30,14,2069.3,Champions (high value)
